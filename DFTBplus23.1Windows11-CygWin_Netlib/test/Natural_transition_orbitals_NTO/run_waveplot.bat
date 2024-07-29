@@ -1,2 +1,2 @@
 
-start ./../dftb+/bin/waveplot.exe < waveplot_in.hsd
+start ./../../dftb+/bin/waveplot.exe < waveplot_in.hsd

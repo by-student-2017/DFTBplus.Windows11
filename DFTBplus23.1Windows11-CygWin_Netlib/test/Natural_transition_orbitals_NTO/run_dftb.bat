@@ -1,2 +1,2 @@
 
-start ./../dftb+/bin/dftb+.exe < dftb_in.hsd
+start ./../../dftb+/bin/dftb+.exe < dftb_in.hsd
