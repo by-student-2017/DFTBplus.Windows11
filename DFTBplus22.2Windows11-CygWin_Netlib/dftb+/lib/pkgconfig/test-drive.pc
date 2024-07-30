@@ -1,0 +1,9 @@
+prefix=/home/manab/dftbplus-23.1/dftb+
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: test-drive
+Description: The simple testing framework
+Version: 0.4.0
+Libs: -L${libdir} -ltest-drive
+Cflags: -I${includedir} -I${includedir}/test-drive/GNU-12.4.0

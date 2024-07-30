@@ -1,0 +1,812 @@
+Test project /mnt/c/cygwin64/home/manab/dftbplus-22.2/_build
+        Start   1: api_extcharges
+  1/401 Test   #1: api_extcharges ..................................   Passed    3.20 sec
+        Start   2: api_extpot
+  2/401 Test   #2: api_extpot ......................................   Passed    2.93 sec
+        Start   3: api_extpot2
+  3/401 Test   #3: api_extpot2 .....................................   Passed    2.92 sec
+        Start   4: api_timeprop
+  4/401 Test   #4: api_timeprop ....................................   Passed    3.02 sec
+        Start   5: api_ehrenfest
+  5/401 Test   #5: api_ehrenfest ...................................   Passed    3.87 sec
+        Start   6: api_ehrenfest_ext_ions
+  6/401 Test   #6: api_ehrenfest_ext_ions ..........................   Passed    3.97 sec
+        Start   7: api_fileinit
+  7/401 Test   #7: api_fileinit ....................................   Passed    2.71 sec
+        Start   8: api_fileinitc
+  8/401 Test   #8: api_fileinitc ...................................   Passed    3.18 sec
+        Start   9: api_qdepextpot
+  9/401 Test   #9: api_qdepextpot ..................................   Passed    3.10 sec
+        Start  10: api_qdepextpotc
+ 10/401 Test  #10: api_qdepextpotc .................................   Passed    2.95 sec
+        Start  11: api_resetspecies_NaCl
+ 11/401 Test  #11: api_resetspecies_NaCl ...........................   Passed    3.69 sec
+        Start  12: api_resetspecies_C2H6
+ 12/401 Test  #12: api_resetspecies_C2H6 ...........................   Passed    3.12 sec
+        Start  13: api_treeinit
+ 13/401 Test  #13: api_treeinit ....................................   Passed    2.59 sec
+        Start  14: dftb+_extpot/CH4_gross
+ 14/401 Test  #14: dftb+_extpot/CH4_gross ..........................   Passed    2.87 sec
+        Start  15: dftb+_extpot/CH4_net
+ 15/401 Test  #15: dftb+_extpot/CH4_net ............................   Passed    2.88 sec
+        Start  16: dftb+_extpot/CH4_gross2
+ 16/401 Test  #16: dftb+_extpot/CH4_gross2 .........................   Passed    2.88 sec
+        Start  17: dftb+_extpot/CH4_net2
+ 17/401 Test  #17: dftb+_extpot/CH4_net2 ...........................   Passed    2.87 sec
+        Start  18: dftb+_extpot/CH4_scc_gross
+ 18/401 Test  #18: dftb+_extpot/CH4_scc_gross ......................   Passed    2.91 sec
+        Start  19: dftb+_extpot/CH4_scc_net
+ 19/401 Test  #19: dftb+_extpot/CH4_scc_net ........................   Passed    2.94 sec
+        Start  20: dftb+_deltadftb/C2H4
+ 20/401 Test  #20: dftb+_deltadftb/C2H4 ............................   Passed    3.09 sec
+        Start  21: dftb+_deltadftb/C2H4_noground
+ 21/401 Test  #21: dftb+_deltadftb/C2H4_noground ...................   Passed    3.09 sec
+        Start  22: dftb+_deltadftb/C2H4_unpurified
+ 22/401 Test  #22: dftb+_deltadftb/C2H4_unpurified .................   Passed    3.12 sec
+        Start  23: dftb+_deltadftb/indigo
+ 23/401 Test  #23: dftb+_deltadftb/indigo ..........................   Passed    8.47 sec
+        Start  24: dftb+_deltadftb/H2O
+ 24/401 Test  #24: dftb+_deltadftb/H2O .............................   Passed    3.02 sec
+        Start  25: dftb+_timeprop/C4H6_rs
+ 25/401 Test  #25: dftb+_timeprop/C4H6_rs ..........................   Passed    3.46 sec
+        Start  26: dftb+_timeprop/C4H6_rs_Singlet
+ 26/401 Test  #26: dftb+_timeprop/C4H6_rs_Singlet ..................   Passed    4.18 sec
+        Start  27: dftb+_timeprop/benzene_Ehrenfest_restart
+ 27/401 Test  #27: dftb+_timeprop/benzene_Ehrenfest_restart ........   Passed    4.55 sec
+        Start  28: dftb+_timeprop/benzene_Ehrenfest_restartAscii
+ 28/401 Test  #28: dftb+_timeprop/benzene_Ehrenfest_restartAscii ...   Passed    4.63 sec
+        Start  29: dftb+_timeprop/benzene_kick_bndpop
+ 29/401 Test  #29: dftb+_timeprop/benzene_kick_bndpop ..............   Passed    2.91 sec
+        Start  30: dftb+_timeprop/benzene_kick_gfn1
+ 30/401 Test  #30: dftb+_timeprop/benzene_kick_gfn1 ................   Passed    4.75 sec
+        Start  31: dftb+_timeprop/benzene_laser
+ 31/401 Test  #31: dftb+_timeprop/benzene_laser ....................   Passed    4.47 sec
+        Start  32: dftb+_timeprop/benzene_laser_gfn2
+ 32/401 Test  #32: dftb+_timeprop/benzene_laser_gfn2 ...............   Passed    4.55 sec
+        Start  33: dftb+_timeprop/benzene_sin2
+ 33/401 Test  #33: dftb+_timeprop/benzene_sin2 .....................   Passed    4.01 sec
+        Start  34: dftb+_timeprop/benzene_gaussian
+ 34/401 Test  #34: dftb+_timeprop/benzene_gaussian .................   Passed    3.12 sec
+        Start  35: dftb+_timeprop/GNR_kpoint_kick
+ 35/401 Test  #35: dftb+_timeprop/GNR_kpoint_kick ..................   Passed   20.75 sec
+        Start  36: dftb+_timeprop/GNR_kpoint_restart
+ 36/401 Test  #36: dftb+_timeprop/GNR_kpoint_restart ...............   Passed   10.62 sec
+        Start  37: dftb+_timeprop/H2_singlet
+ 37/401 Test  #37: dftb+_timeprop/H2_singlet .......................   Passed    3.07 sec
+        Start  38: dftb+_timeprop/H2_triplet
+ 38/401 Test  #38: dftb+_timeprop/H2_triplet .......................   Passed    3.08 sec
+        Start  39: dftb+_timeprop/H2_exc_atoms
+ 39/401 Test  #39: dftb+_timeprop/H2_exc_atoms .....................   Passed    3.31 sec
+        Start  40: dftb+_timeprop/C60_kick
+ 40/401 Test  #40: dftb+_timeprop/C60_kick .........................   Passed   10.45 sec
+        Start  41: dftb+_timeprop/C60_triplet
+ 41/401 Test  #41: dftb+_timeprop/C60_triplet ......................   Passed   18.17 sec
+        Start  42: dftb+_timeprop/NO_pSIC
+ 42/401 Test  #42: dftb+_timeprop/NO_pSIC ..........................   Passed    3.35 sec
+        Start  43: dftb+_timeprop/NO_onsite
+ 43/401 Test  #43: dftb+_timeprop/NO_onsite ........................   Passed    3.48 sec
+        Start  44: dftb+_timeprop/benzene_kick_periodic
+ 44/401 Test  #44: dftb+_timeprop/benzene_kick_periodic ............   Passed    3.44 sec
+        Start  45: dftb+_timeprop/GNR_periodic_kick
+ 45/401 Test  #45: dftb+_timeprop/GNR_periodic_kick ................   Passed    3.56 sec
+        Start  46: dftb+_timeprop/CH3_dftbu_singlet
+ 46/401 Test  #46: dftb+_timeprop/CH3_dftbu_singlet ................   Passed    4.67 sec
+        Start  47: dftb+_timeprop/GNR_periodic_laser
+ 47/401 Test  #47: dftb+_timeprop/GNR_periodic_laser ...............   Passed    3.78 sec
+        Start  48: dftb+_timeprop/benzene_ions_pulse
+ 48/401 Test  #48: dftb+_timeprop/benzene_ions_pulse ...............   Passed    5.37 sec
+        Start  49: dftb+_timeprop/GNR_periodic_ions
+ 49/401 Test  #49: dftb+_timeprop/GNR_periodic_ions ................   Passed    5.68 sec
+        Start  50: dftb+_timeprop/graphite_dispersion_pulse
+ 50/401 Test  #50: dftb+_timeprop/graphite_dispersion_pulse ........   Passed   45.53 sec
+        Start  51: dftb+_timeprop/PDI_charged
+ 51/401 Test  #51: dftb+_timeprop/PDI_charged ......................   Passed    5.02 sec
+        Start  52: dftb+_timeprop/benzene_circpol
+ 52/401 Test  #52: dftb+_timeprop/benzene_circpol ..................   Passed    3.75 sec
+        Start  53: dftb+_timeprop/benzene_rs
+ 53/401 Test  #53: dftb+_timeprop/benzene_rs .......................   Passed    5.72 sec
+        Start  54: dftb+_helical/10-0Ctube
+ 54/401 Test  #54: dftb+_helical/10-0Ctube .........................   Passed    3.11 sec
+        Start  55: dftb+_helical/10-0CtubeC_10
+ 55/401 Test  #55: dftb+_helical/10-0CtubeC_10 .....................   Passed    3.27 sec
+        Start  56: dftb+_helical/10-0CtubeC_10_origin
+ 56/401 Test  #56: dftb+_helical/10-0CtubeC_10_origin ..............   Passed    3.15 sec
+        Start  57: dftb+_helical/10-0CtubeC_10_sampled
+ 57/401 Test  #57: dftb+_helical/10-0CtubeC_10_sampled .............   Passed    3.12 sec
+        Start  58: dftb+_helical/C6H6_stack
+ 58/401 Test  #58: dftb+_helical/C6H6_stack ........................   Passed    3.32 sec
+        Start  59: dftb+_xtb/gfn1_h2
+ 59/401 Test  #59: dftb+_xtb/gfn1_h2 ...............................   Passed    3.23 sec
+        Start  60: dftb+_xtb/gfn1_mindless01
+ 60/401 Test  #60: dftb+_xtb/gfn1_mindless01 .......................   Passed    2.91 sec
+        Start  61: dftb+_xtb/gfn1_succinic
+ 61/401 Test  #61: dftb+_xtb/gfn1_succinic .........................   Passed    3.12 sec
+        Start  62: dftb+_xtb/ipea1_h2
+ 62/401 Test  #62: dftb+_xtb/ipea1_h2 ..............................   Passed    2.87 sec
+        Start  63: dftb+_xtb/ipea1_mindless02
+ 63/401 Test  #63: dftb+_xtb/ipea1_mindless02 ......................   Passed    2.82 sec
+        Start  64: dftb+_xtb/gfn2_h2
+ 64/401 Test  #64: dftb+_xtb/gfn2_h2 ...............................   Passed    2.74 sec
+        Start  65: dftb+_xtb/gfn2_h2_restart
+ 65/401 Test  #65: dftb+_xtb/gfn2_h2_restart .......................   Passed    4.26 sec
+        Start  66: dftb+_xtb/gfn2_h2_Ascii
+ 66/401 Test  #66: dftb+_xtb/gfn2_h2_Ascii .........................   Passed    4.19 sec
+        Start  67: dftb+_xtb/gfn2_mindless05
+ 67/401 Test  #67: dftb+_xtb/gfn2_mindless05 .......................   Passed    3.03 sec
+        Start  68: dftb+_xtb/gfn2_benzene
+ 68/401 Test  #68: dftb+_xtb/gfn2_benzene ..........................   Passed    4.04 sec
+        Start  69: dftb+_xtb/gfn2_benzene_resltag
+ 69/401 Test  #69: dftb+_xtb/gfn2_benzene_resltag ..................   Passed    3.48 sec
+        Start  70: dftb+_xtb/gfn2_CH2
+ 70/401 Test  #70: dftb+_xtb/gfn2_CH2 ..............................   Passed    2.86 sec
+        Start  71: dftb+_spin/gfn2_H2
+ 71/401 Test  #71: dftb+_spin/gfn2_H2 ..............................   Passed    2.82 sec
+        Start  72: dftb+_spin/gfn1_Fe4
+ 72/401 Test  #72: dftb+_spin/gfn1_Fe4 .............................   Passed    2.83 sec
+        Start  73: dftb+_spin/ipea1_Fe4_noncolinear
+ 73/401 Test  #73: dftb+_spin/ipea1_Fe4_noncolinear ................   Passed    2.93 sec
+        Start  74: dftb+_input/caffeine_gen
+ 74/401 Test  #74: dftb+_input/caffeine_gen ........................   Passed    3.17 sec
+        Start  75: dftb+_input/caffeine_xyz
+ 75/401 Test  #75: dftb+_input/caffeine_xyz ........................   Passed    3.21 sec
+        Start  76: dftb+_input/ammonia_poscar
+ 76/401 Test  #76: dftb+_input/ammonia_poscar ......................   Passed    3.09 sec
+        Start  77: dftb+_input/unsorted_contcar
+ 77/401 Test  #77: dftb+_input/unsorted_contcar ....................   Passed    3.06 sec
+        Start  78: dftb+_rangesep/C18H12-force
+ 78/401 Test  #78: dftb+_rangesep/C18H12-force .....................   Passed    3.32 sec
+        Start  79: dftb+_rangesep/C18H12-nbscreening
+ 79/401 Test  #79: dftb+_rangesep/C18H12-nbscreening ...............   Passed    3.62 sec
+        Start  80: dftb+_rangesep/C18H12-matrix
+ 80/401 Test  #80: dftb+_rangesep/C18H12-matrix ....................   Passed    3.35 sec
+        Start  81: dftb+_rangesep/CH3
+ 81/401 Test  #81: dftb+_rangesep/CH3 ..............................   Passed    3.57 sec
+        Start  82: dftb+_rangesep/CH3-matrix
+ 82/401 Test  #82: dftb+_rangesep/CH3-matrix .......................   Passed    3.30 sec
+        Start  83: dftb+_rangesep/C60-nb
+ 83/401 Test  #83: dftb+_rangesep/C60-nb ...........................   Passed    4.05 sec
+        Start  84: dftb+_rangesep/C60-nb-cutoff
+ 84/401 Test  #84: dftb+_rangesep/C60-nb-cutoff ....................   Passed    5.84 sec
+        Start  85: dftb+_rangesep/Thymine-T1-force
+ 85/401 Test  #85: dftb+_rangesep/Thymine-T1-force .................   Passed    4.63 sec
+        Start  86: dftb+_rangesep/cyclopropene_nb_restart
+ 86/401 Test  #86: dftb+_rangesep/cyclopropene_nb_restart ..........   Passed    4.45 sec
+        Start  87: dftb+_rangesep/C240_tn
+ 87/401 Test  #87: dftb+_rangesep/C240_tn ..........................   Passed    9.49 sec
+        Start  88: dftb+_rangesep/Thymine-T1_onsite
+ 88/401 Test  #88: dftb+_rangesep/Thymine-T1_onsite ................   Passed    4.57 sec
+        Start  89: dftb+_rangesep/C4H6-Casida-S1-Force
+ 89/401 Test  #89: dftb+_rangesep/C4H6-Casida-S1-Force .............   Passed    3.48 sec
+        Start  90: dftb+_rangesep/Benzene-Casida-S5-Force
+ 90/401 Test  #90: dftb+_rangesep/Benzene-Casida-S5-Force ..........   Passed    3.33 sec
+        Start  91: dftb+_rangesep/C4H6-TD-LC-Triplet
+ 91/401 Test  #91: dftb+_rangesep/C4H6-TD-LC-Triplet ...............   Passed    3.13 sec
+        Start  92: dftb+_rangesep/Benzene-TD-LC-Spinpol
+ 92/401 Test  #92: dftb+_rangesep/Benzene-TD-LC-Spinpol ............   Passed    3.36 sec
+        Start  93: dftb+_rangesep/Benzene-TD-LC-Spinpol-Iter
+ 93/401 Test  #93: dftb+_rangesep/Benzene-TD-LC-Spinpol-Iter .......   Passed    3.42 sec
+        Start  94: dftb+_reks/C2H4_3SSR_rangesep
+ 94/401 Test  #94: dftb+_reks/C2H4_3SSR_rangesep ...................   Passed    3.34 sec
+        Start  95: dftb+_reks/C2H4_direct
+ 95/401 Test  #95: dftb+_reks/C2H4_direct ..........................   Passed    3.38 sec
+        Start  96: dftb+_reks/C2H4_nosave
+ 96/401 Test  #96: dftb+_reks/C2H4_nosave ..........................   Passed    3.37 sec
+        Start  97: dftb+_reks/C2H4_read_mo
+ 97/401 Test  #97: dftb+_reks/C2H4_read_mo .........................   Passed    4.62 sec
+        Start  98: dftb+_reks/C6H8_extchrg_periodic_nosave
+ 98/401 Test  #98: dftb+_reks/C6H8_extchrg_periodic_nosave .........   Passed    4.30 sec
+        Start  99: dftb+_reks/C6H8_rangesep_extchrg_nac
+ 99/401 Test  #99: dftb+_reks/C6H8_rangesep_extchrg_nac ............   Passed    3.45 sec
+        Start 100: dftb+_reks/C6H8_rangesep_extchrg_nosave
+100/401 Test #100: dftb+_reks/C6H8_rangesep_extchrg_nosave .........   Passed    3.59 sec
+        Start 101: dftb+_reks/CNH4+_dftd4
+101/401 Test #101: dftb+_reks/CNH4+_dftd4 ..........................   Passed    3.71 sec
+        Start 102: dftb+_reks/CNH4+_dftd4_sc
+102/401 Test #102: dftb+_reks/CNH4+_dftd4_sc .......................   Passed    3.72 sec
+        Start 103: dftb+_reks/CNH4+_dftd4_sc_rangesep
+103/401 Test #103: dftb+_reks/CNH4+_dftd4_sc_rangesep ..............   Passed    3.65 sec
+        Start 104: dftb+_reks/HBI+H2O_periodic_stress
+104/401 Test #104: dftb+_reks/HBI+H2O_periodic_stress ..............   Passed   24.48 sec
+        Start 105: dftb+_reks/HBI+H2O_periodic_stress_disp
+105/401 Test #105: dftb+_reks/HBI+H2O_periodic_stress_disp .........   Passed   25.26 sec
+        Start 106: dftb+_reks/PSB3_2SSR
+106/401 Test #106: dftb+_reks/PSB3_2SSR ............................   Passed    3.82 sec
+        Start 107: dftb+_reks/PSB3_2SSR_extchrg_periodic
+107/401 Test #107: dftb+_reks/PSB3_2SSR_extchrg_periodic ...........   Passed    3.06 sec
+        Start 108: dftb+_reks/PSB3_2SSR_rangesep
+108/401 Test #108: dftb+_reks/PSB3_2SSR_rangesep ...................   Passed    3.87 sec
+        Start 109: dftb+_reks/PSB3_2SSR_rangesep_extchrg
+109/401 Test #109: dftb+_reks/PSB3_2SSR_rangesep_extchrg ...........   Passed    3.80 sec
+        Start 110: dftb+_reks/PSB3_2SSR_rangesep_extchrg_blur
+110/401 Test #110: dftb+_reks/PSB3_2SSR_rangesep_extchrg_blur ......   Passed    3.81 sec
+        Start 111: dftb+_reks/PSB3_2SSR_rangesep_tuning
+111/401 Test #111: dftb+_reks/PSB3_2SSR_rangesep_tuning ............   Passed    3.79 sec
+        Start 112: dftb+_reks/PSB3_SA
+112/401 Test #112: dftb+_reks/PSB3_SA ..............................   Passed    3.81 sec
+        Start 113: dftb+_reks/Thymine_3SSR
+113/401 Test #113: dftb+_reks/Thymine_3SSR .........................   Passed    4.53 sec
+        Start 114: dftb+_reks/Thymine_single
+114/401 Test #114: dftb+_reks/Thymine_single .......................   Passed    4.34 sec
+        Start 115: dftb+_reks/Thymine_T1
+115/401 Test #115: dftb+_reks/Thymine_T1 ...........................   Passed    4.36 sec
+        Start 116: dftb+_reks/Thymine_T1_rangesep
+116/401 Test #116: dftb+_reks/Thymine_T1_rangesep ..................   Passed    4.64 sec
+        Start 117: dftb+_derivatives/Si_2_Delta
+117/401 Test #117: dftb+_derivatives/Si_2_Delta ....................   Passed    2.81 sec
+        Start 118: dftb+_derivatives/CH3nonsccPol
+118/401 Test #118: dftb+_derivatives/CH3nonsccPol ..................   Passed    2.79 sec
+        Start 119: dftb+_derivatives/CH3sccPol
+119/401 Test #119: dftb+_derivatives/CH3sccPol .....................   Passed    2.87 sec
+        Start 120: dftb+_derivatives/CH3spin3rdOnsPol
+120/401 Test #120: dftb+_derivatives/CH3spin3rdOnsPol ..............   Passed    2.97 sec
+        Start 121: dftb+_derivatives/CH3_U_noncol
+121/401 Test #121: dftb+_derivatives/CH3_U_noncol ..................   Passed    2.81 sec
+        Start 122: dftb+_derivatives/Au2_LSmetalPol
+122/401 Test #122: dftb+_derivatives/Au2_LSmetalPol ................   Passed    2.95 sec
+        Start 123: dftb+_derivatives/C18H12_rangesepPol
+123/401 Test #123: dftb+_derivatives/C18H12_rangesepPol ............   Passed    3.51 sec
+        Start 124: dftb+_derivatives/C60
+124/401 Test #124: dftb+_derivatives/C60 ...........................   Passed    3.08 sec
+        Start 125: dftb+_derivatives/C60+
+125/401 Test #125: dftb+_derivatives/C60+ ..........................   Passed    3.56 sec
+        Start 126: dftb+_derivatives/CH4_onsite
+126/401 Test #126: dftb+_derivatives/CH4_onsite ....................   Passed    3.17 sec
+        Start 127: dftb+_derivatives/CH4_kpt_ons
+127/401 Test #127: dftb+_derivatives/CH4_kpt_ons ...................   Passed    3.44 sec
+        Start 128: dftb+_derivatives/As4S4_LS_ons
+128/401 Test #128: dftb+_derivatives/As4S4_LS_ons ..................   Passed    3.46 sec
+        Start 129: dftb+_derivatives/10-0Ctube_onsite
+129/401 Test #129: dftb+_derivatives/10-0Ctube_onsite ..............   Passed    4.20 sec
+        Start 130: dftb+_derivatives/C6H6_onsite
+130/401 Test #130: dftb+_derivatives/C6H6_onsite ...................   Passed    3.10 sec
+        Start 131: dftb+_derivatives/C6H6_partial
+131/401 Test #131: dftb+_derivatives/C6H6_partial ..................   Passed    3.53 sec
+        Start 132: dftb+_derivatives/CH4_RPA
+132/401 Test #132: dftb+_derivatives/CH4_RPA .......................   Passed    3.17 sec
+        Start 133: dftb+_derivatives/Au2_Polfreq
+133/401 Test #133: dftb+_derivatives/Au2_Polfreq ...................   Passed    3.03 sec
+        Start 134: dftb+_derivatives/C60_Polfreq
+134/401 Test #134: dftb+_derivatives/C60_Polfreq ...................   Passed    4.15 sec
+        Start 135: dftb+_derivatives/CH4_freq
+135/401 Test #135: dftb+_derivatives/CH4_freq ......................   Passed    2.92 sec
+        Start 136: dftb+_derivatives/CH4_kpt_freq
+136/401 Test #136: dftb+_derivatives/CH4_kpt_freq ..................   Passed    3.38 sec
+        Start 137: dftb+_derivatives/Au2_LSmetalPolfreq
+137/401 Test #137: dftb+_derivatives/Au2_LSmetalPolfreq ............   Passed    2.98 sec
+        Start 138: dftb+_legacy/Si2_oldSKinterp
+138/401 Test #138: dftb+_legacy/Si2_oldSKinterp ....................   Passed    2.80 sec
+        Start 139: dftb+_legacy/Si2_polyRep
+139/401 Test #139: dftb+_legacy/Si2_polyRep ........................   Passed    2.75 sec
+        Start 140: dftb+_non-scc/Si_2
+140/401 Test #140: dftb+_non-scc/Si_2 ..............................   Passed    2.78 sec
+        Start 141: dftb+_non-scc/Si_2_origin
+141/401 Test #141: dftb+_non-scc/Si_2_origin .......................   Passed    2.91 sec
+        Start 142: dftb+_non-scc/Si_2_originF
+142/401 Test #142: dftb+_non-scc/Si_2_originF ......................   Passed    3.03 sec
+        Start 143: dftb+_non-scc/Si_2_independentk
+143/401 Test #143: dftb+_non-scc/Si_2_independentk .................   Passed    2.79 sec
+        Start 144: dftb+_scc/H2O2_3rdfull-damp
+144/401 Test #144: dftb+_scc/H2O2_3rdfull-damp .....................   Passed    2.84 sec
+        Start 145: dftb+_scc/H3
+145/401 Test #145: dftb+_scc/H3 ....................................   Passed    2.78 sec
+        Start 146: dftb+_scc/H3_skipcheck
+146/401 Test #146: dftb+_scc/H3_skipcheck ..........................   Passed    2.96 sec
+        Start 147: dftb+_spin/H2
+147/401 Test #147: dftb+_spin/H2 ...................................   Passed    2.86 sec
+        Start 148: dftb+_scc/CH4_nonconverged
+148/401 Test #148: dftb+_scc/CH4_nonconverged ......................   Passed    2.76 sec
+        Start 149: dftb+_analysis/C2H4_localise
+149/401 Test #149: dftb+_analysis/C2H4_localise ....................   Passed    2.80 sec
+        Start 150: dftb+_analysis/graphene_localise
+150/401 Test #150: dftb+_analysis/graphene_localise ................   Passed    2.74 sec
+        Start 151: dftb+_onsite/H2O
+151/401 Test #151: dftb+_onsite/H2O ................................   Passed    2.93 sec
+        Start 152: dftb+_dftb+u/CH3
+152/401 Test #152: dftb+_dftb+u/CH3 ................................   Passed    2.78 sec
+        Start 153: dftb+_dispersion/2H2O
+153/401 Test #153: dftb+_dispersion/2H2O ...........................   Passed    2.76 sec
+        Start 154: dftb+_dispersion/2H2O_uff
+154/401 Test #154: dftb+_dispersion/2H2O_uff .......................   Passed    2.84 sec
+        Start 155: dftb+_dispersion/2H2O_dftd3_zero
+155/401 Test #155: dftb+_dispersion/2H2O_dftd3_zero ................   Passed    2.78 sec
+        Start 156: dftb+_dispersion/2H2O_dftd3_bj
+156/401 Test #156: dftb+_dispersion/2H2O_dftd3_bj ..................   Passed    2.78 sec
+        Start 157: dftb+_dispersion/2H2O_dftd3_mzero
+157/401 Test #157: dftb+_dispersion/2H2O_dftd3_mzero ...............   Passed    2.76 sec
+        Start 158: dftb+_dispersion/specieslist_dftd3_bj
+158/401 Test #158: dftb+_dispersion/specieslist_dftd3_bj ...........   Passed    3.17 sec
+        Start 159: dftb+_dispersion/GaAs_sdftd3
+159/401 Test #159: dftb+_dispersion/GaAs_sdftd3 ....................   Passed    2.98 sec
+        Start 160: dftb+_dispersion/2H2O_sdftd3
+160/401 Test #160: dftb+_dispersion/2H2O_sdftd3 ....................   Passed    2.77 sec
+        Start 161: dftb+_dispersion/2H2O_dftd4
+161/401 Test #161: dftb+_dispersion/2H2O_dftd4 .....................   Passed    2.79 sec
+        Start 162: dftb+_dispersion/specieslist_dftd4
+162/401 Test #162: dftb+_dispersion/specieslist_dftd4 ..............   Passed    3.08 sec
+        Start 163: dftb+_dispersion/charged_dftd4
+163/401 Test #163: dftb+_dispersion/charged_dftd4 ..................   Passed    3.07 sec
+        Start 164: dftb+_dispersion/diamond_dftd4
+164/401 Test #164: dftb+_dispersion/diamond_dftd4 ..................   Passed    2.87 sec
+        Start 165: dftb+_dispersion/GaAs_dftd4
+165/401 Test #165: dftb+_dispersion/GaAs_dftd4 .....................   Passed    3.51 sec
+        Start 166: dftb+_dispersion/2H2O_dftd4_sc
+166/401 Test #166: dftb+_dispersion/2H2O_dftd4_sc ..................   Passed    2.78 sec
+        Start 167: dftb+_dispersion/diamond_dftd4_sc
+167/401 Test #167: dftb+_dispersion/diamond_dftd4_sc ...............   Passed    2.95 sec
+        Start 168: dftb+_dispersion/GaAs_dftd4_sc
+168/401 Test #168: dftb+_dispersion/GaAs_dftd4_sc ..................   Passed    3.43 sec
+        Start 169: dftb+_geoopt/H2O-nonscc
+169/401 Test #169: dftb+_geoopt/H2O-nonscc .........................   Passed    3.35 sec
+        Start 170: dftb+_h-bonds/D3H5_water_dimer
+170/401 Test #170: dftb+_h-bonds/D3H5_water_dimer ..................   Passed    2.82 sec
+        Start 171: dftb+_non-scc/CH4
+171/401 Test #171: dftb+_non-scc/CH4 ...............................   Passed    3.03 sec
+        Start 172: dftb+_non-scc/decapentaene
+172/401 Test #172: dftb+_non-scc/decapentaene ......................   Passed    2.86 sec
+        Start 173: dftb+_scc/2H2O-3rdorder
+173/401 Test #173: dftb+_scc/2H2O-3rdorder .........................   Passed    2.86 sec
+        Start 174: dftb+_scc/2H2O-3rdorder_read
+174/401 Test #174: dftb+_scc/2H2O-3rdorder_read ....................   Passed    2.93 sec
+        Start 175: dftb+_scc/C2H6_3rdfull
+175/401 Test #175: dftb+_scc/C2H6_3rdfull ..........................   Passed    2.74 sec
+        Start 176: dftb+_scc/C2H6_3rdfull-damp
+176/401 Test #176: dftb+_scc/C2H6_3rdfull-damp .....................   Passed    2.76 sec
+        Start 177: dftb+_scc/H2O2_3rdfull
+177/401 Test #177: dftb+_scc/H2O2_3rdfull ..........................   Passed    2.74 sec
+        Start 178: dftb+_scc/H2O2-3rdfull-ldep
+178/401 Test #178: dftb+_scc/H2O2-3rdfull-ldep .....................   Passed    2.95 sec
+        Start 179: dftb+_scc/H2O-extchrg
+179/401 Test #179: dftb+_scc/H2O-extchrg ...........................   Passed    2.81 sec
+        Start 180: dftb+_scc/H2O-extchrg-blur
+180/401 Test #180: dftb+_scc/H2O-extchrg-blur ......................   Passed    2.76 sec
+        Start 181: dftb+_scc/H2O-extchrg-direct
+181/401 Test #181: dftb+_scc/H2O-extchrg-direct ....................   Passed    2.92 sec
+        Start 182: dftb+_scc/H2O-extchrg-periodic
+182/401 Test #182: dftb+_scc/H2O-extchrg-periodic ..................   Passed    2.79 sec
+        Start 183: dftb+_scc/H2O-extfield
+183/401 Test #183: dftb+_scc/H2O-extfield ..........................   Passed    2.78 sec
+        Start 184: dftb+_scc/H2O-extfield-gfn1
+184/401 Test #184: dftb+_scc/H2O-extfield-gfn1 .....................   Passed    2.78 sec
+        Start 185: dftb+_spin/H2O-periodic
+185/401 Test #185: dftb+_spin/H2O-periodic .........................   Passed    2.84 sec
+        Start 186: dftb+_spin/OH_commonFermi
+186/401 Test #186: dftb+_spin/OH_commonFermi .......................   Passed    2.77 sec
+        Start 187: dftb+_derivatives/Si_2_Richardson
+187/401 Test #187: dftb+_derivatives/Si_2_Richardson ...............   Passed    2.84 sec
+        Start 188: dftb+_geoopt/H2O-constr
+188/401 Test #188: dftb+_geoopt/H2O-constr .........................   Passed    3.53 sec
+        Start 189: dftb+_legacy/SiC_polyRep
+189/401 Test #189: dftb+_legacy/SiC_polyRep ........................   Passed    3.08 sec
+        Start 190: dftb+_md/SiH-surface_restart
+190/401 Test #190: dftb+_md/SiH-surface_restart ....................   Passed    4.27 sec
+        Start 191: dftb+_scc/C4H8_3rdfull
+191/401 Test #191: dftb+_scc/C4H8_3rdfull ..........................   Passed    2.82 sec
+        Start 192: dftb+_scc/C4H8_3rdfull-damp
+192/401 Test #192: dftb+_scc/C4H8_3rdfull-damp .....................   Passed    2.79 sec
+        Start 193: dftb+_scc/CH2_n_3rdfull
+193/401 Test #193: dftb+_scc/CH2_n_3rdfull .........................   Passed    2.78 sec
+        Start 194: dftb+_scc/CH2_n_3rdfull_damp
+194/401 Test #194: dftb+_scc/CH2_n_3rdfull_damp ....................   Passed    3.22 sec
+        Start 195: dftb+_scc/GaAs_2_restart
+195/401 Test #195: dftb+_scc/GaAs_2_restart ........................   Passed    4.15 sec
+        Start 196: dftb+_scc/SiH_custom-ref
+196/401 Test #196: dftb+_scc/SiH_custom-ref ........................   Passed    3.06 sec
+        Start 197: dftb+_scc/HH_custom-ref
+197/401 Test #197: dftb+_scc/HH_custom-ref .........................   Passed    2.72 sec
+        Start 198: dftb+_spin/Fe4
+198/401 Test #198: dftb+_spin/Fe4 ..................................   Passed    2.84 sec
+        Start 199: dftb+_spin/Fe4_commonFermi
+199/401 Test #199: dftb+_spin/Fe4_commonFermi ......................   Passed    2.81 sec
+        Start 200: dftb+_solvation/sasa_i10e
+200/401 Test #200: dftb+_solvation/sasa_i10e .......................   Passed    3.01 sec
+        Start 201: dftb+_solvation/gb_ionpair
+201/401 Test #201: dftb+_solvation/gb_ionpair ......................   Passed    3.03 sec
+        Start 202: dftb+_solvation/gb_reference
+202/401 Test #202: dftb+_solvation/gb_reference ....................   Passed    3.02 sec
+        Start 203: dftb+_solvation/gb_mol1bar
+203/401 Test #203: dftb+_solvation/gb_mol1bar ......................   Passed    3.04 sec
+        Start 204: dftb+_solvation/gb_cm5
+204/401 Test #204: dftb+_solvation/gb_cm5 ..........................   Passed    3.00 sec
+        Start 205: dftb+_solvation/gb_specieslist
+205/401 Test #205: dftb+_solvation/gb_specieslist ..................   Passed    3.14 sec
+        Start 206: dftb+_solvation/gb_p16
+206/401 Test #206: dftb+_solvation/gb_p16 ..........................   Passed    2.96 sec
+        Start 207: dftb+_solvation/gb_inf
+207/401 Test #207: dftb+_solvation/gb_inf ..........................   Passed    2.95 sec
+        Start 208: dftb+_solvation/gbsa_e35
+208/401 Test #208: dftb+_solvation/gbsa_e35 ........................   Passed    2.95 sec
+        Start 209: dftb+_solvation/gbsa_caffeine
+209/401 Test #209: dftb+_solvation/gbsa_caffeine ...................   Passed    2.87 sec
+        Start 210: dftb+_solvation/gbsa_p16
+210/401 Test #210: dftb+_solvation/gbsa_p16 ........................   Passed    2.96 sec
+        Start 211: dftb+_solvation/gbsa_param1
+211/401 Test #211: dftb+_solvation/gbsa_param1 .....................   Passed    3.17 sec
+        Start 212: dftb+_solvation/gbsa_param2
+212/401 Test #212: dftb+_solvation/gbsa_param2 .....................   Passed    3.08 sec
+        Start 213: dftb+_solvation/gbsa_param3
+213/401 Test #213: dftb+_solvation/gbsa_param3 .....................   Passed    4.43 sec
+        Start 214: dftb+_solvation/alpb_cation
+214/401 Test #214: dftb+_solvation/alpb_cation .....................   Passed    3.01 sec
+        Start 215: dftb+_solvation/alpb_anion
+215/401 Test #215: dftb+_solvation/alpb_anion ......................   Passed    3.09 sec
+        Start 216: dftb+_solvation/alpb_p16
+216/401 Test #216: dftb+_solvation/alpb_p16 ........................   Passed    3.03 sec
+        Start 217: dftb+_solvation/cosmo_g1
+217/401 Test #217: dftb+_solvation/cosmo_g1 ........................   Passed    3.37 sec
+        Start 218: dftb+_solvation/cosmo_b33
+218/401 Test #218: dftb+_solvation/cosmo_b33 .......................   Passed    3.47 sec
+        Start 219: dftb+_solvation/cosmo_i8e
+219/401 Test #219: dftb+_solvation/cosmo_i8e .......................   Passed    4.80 sec
+        Start 220: dftb+_solvation/cosmo_444
+220/401 Test #220: dftb+_solvation/cosmo_444 .......................   Passed    4.49 sec
+        Start 221: dftb+_solvation/cosmo_inf
+221/401 Test #221: dftb+_solvation/cosmo_inf .......................   Passed    3.35 sec
+        Start 222: dftb+_solvation/cosmo_quinoline
+222/401 Test #222: dftb+_solvation/cosmo_quinoline .................   Passed    3.29 sec
+        Start 223: dftb+_solvation/cosmo_nitralin
+223/401 Test #223: dftb+_solvation/cosmo_nitralin ..................   Passed    4.21 sec
+        Start 224: dftb+_solvation/H2O_gb_rescale
+224/401 Test #224: dftb+_solvation/H2O_gb_rescale ..................   Passed    2.77 sec
+        Start 225: dftb+_derivatives/C6H6_Raman
+225/401 Test #225: dftb+_derivatives/C6H6_Raman ....................   Passed    4.06 sec
+        Start 226: dftb+_derivatives/gfn2_c6h6_dipole
+226/401 Test #226: dftb+_derivatives/gfn2_c6h6_dipole ..............   Passed    5.48 sec
+        Start 227: dftb+_timedep/2CH3-Temp
+227/401 Test #227: dftb+_timedep/2CH3-Temp .........................   Passed    3.19 sec
+        Start 228: dftb+_timedep/2CH3-Triplet-Temp
+228/401 Test #228: dftb+_timedep/2CH3-Triplet-Temp .................   Passed    3.20 sec
+        Start 229: dftb+_timedep/NO
+229/401 Test #229: dftb+_timedep/NO ................................   Passed    3.08 sec
+        Start 230: dftb+_timedep/NO_onsite
+230/401 Test #230: dftb+_timedep/NO_onsite .........................   Passed    3.56 sec
+        Start 231: dftb+_timedep/N2_onsite
+231/401 Test #231: dftb+_timedep/N2_onsite .........................   Passed    2.99 sec
+        Start 232: dftb+_timedep/propadiene_OscWindow
+232/401 Test #232: dftb+_timedep/propadiene_OscWindow ..............   Passed    2.87 sec
+        Start 233: dftb+_analysis/H2O_ESP
+233/401 Test #233: dftb+_analysis/H2O_ESP ..........................   Passed    2.82 sec
+        Start 234: dftb+_analysis/H2O_mdESP
+234/401 Test #234: dftb+_analysis/H2O_mdESP ........................   Passed    3.30 sec
+        Start 235: dftb+_geoopt/H2O_lbfgs
+235/401 Test #235: dftb+_geoopt/H2O_lbfgs ..........................   Passed    3.44 sec
+        Start 236: dftb+_geoopt/H2O_lbfgsStep
+236/401 Test #236: dftb+_geoopt/H2O_lbfgsStep ......................   Passed    3.51 sec
+        Start 237: dftb+_geoopt/H2O_lbfgsLineMin
+237/401 Test #237: dftb+_geoopt/H2O_lbfgsLineMin ...................   Passed    3.55 sec
+        Start 238: dftb+_geoopt/H2O_rf
+238/401 Test #238: dftb+_geoopt/H2O_rf .............................   Passed    3.04 sec
+        Start 239: dftb+_geoopt/H2O
+239/401 Test #239: dftb+_geoopt/H2O ................................   Passed    3.46 sec
+        Start 240: dftb+_geoopt/H2O_fire
+240/401 Test #240: dftb+_geoopt/H2O_fire ...........................   Passed    4.96 sec
+        Start 241: dftb+_md/Si_8_NHC_restart
+241/401 Test #241: dftb+_md/Si_8_NHC_restart .......................   Passed    3.02 sec
+        Start 242: dftb+_non-scc/GaAs_2
+242/401 Test #242: dftb+_non-scc/GaAs_2 ............................   Passed    3.09 sec
+        Start 243: dftb+_scc/GaAs_2
+243/401 Test #243: dftb+_scc/GaAs_2 ................................   Passed    2.77 sec
+        Start 244: dftb+_scc/GaAs_2_customU
+244/401 Test #244: dftb+_scc/GaAs_2_customU ........................   Passed    2.77 sec
+        Start 245: dftb+_spinorbit/Fe2_dual
+245/401 Test #245: dftb+_spinorbit/Fe2_dual ........................   Passed    2.88 sec
+        Start 246: dftb+_spinorbit/Fe2_dual_field
+246/401 Test #246: dftb+_spinorbit/Fe2_dual_field ..................   Passed    3.08 sec
+        Start 247: dftb+_spinorbit/Fe2_dual_Fermi
+247/401 Test #247: dftb+_spinorbit/Fe2_dual_Fermi ..................   Passed    8.05 sec
+        Start 248: dftb+_spinorbit/Si_2
+248/401 Test #248: dftb+_spinorbit/Si_2 ............................   Passed    2.92 sec
+        Start 249: dftb+_dispersion/DNA_uff
+249/401 Test #249: dftb+_dispersion/DNA_uff ........................   Passed    2.94 sec
+        Start 250: dftb+_onsite/Au13
+250/401 Test #250: dftb+_onsite/Au13 ...............................   Passed    3.64 sec
+        Start 251: dftb+_onsite/Au13pSIC
+251/401 Test #251: dftb+_onsite/Au13pSIC ...........................   Passed    4.77 sec
+        Start 252: dftb+_timedep/C4H6-S1-Force
+252/401 Test #252: dftb+_timedep/C4H6-S1-Force .....................   Passed    3.16 sec
+        Start 253: dftb+_timedep/C4H6-Singlet
+253/401 Test #253: dftb+_timedep/C4H6-Singlet ......................   Passed    3.03 sec
+        Start 254: dftb+_timedep/C4H6-Singlet_wfn
+254/401 Test #254: dftb+_timedep/C4H6-Singlet_wfn ..................   Passed    3.14 sec
+        Start 255: dftb+_timedep/C4H6-T1-Force
+255/401 Test #255: dftb+_timedep/C4H6-T1-Force .....................   Passed    4.76 sec
+        Start 256: dftb+_timedep/C4H6-Triplet
+256/401 Test #256: dftb+_timedep/C4H6-Triplet ......................   Passed    3.01 sec
+        Start 257: dftb+_timedep/C4H6-S1-Force_uncache
+257/401 Test #257: dftb+_timedep/C4H6-S1-Force_uncache .............   Passed    3.14 sec
+        Start 258: dftb+_timedep/NH-Force-spinpol
+258/401 Test #258: dftb+_timedep/NH-Force-spinpol ..................   Passed    2.96 sec
+        Start 259: dftb+_timedep/2CH3-Temp-Stratmann
+259/401 Test #259: dftb+_timedep/2CH3-Temp-Stratmann ...............   Passed    3.22 sec
+        Start 260: dftb+_timedep/C4H6-S1-Force_uncache-Stratmann
+260/401 Test #260: dftb+_timedep/C4H6-S1-Force_uncache-Stratmann ...   Passed    3.23 sec
+        Start 261: dftb+_timedep/C4H6-Singlet-Stratmann
+261/401 Test #261: dftb+_timedep/C4H6-Singlet-Stratmann ............   Passed    3.13 sec
+        Start 262: dftb+_timedep/C4H6-Triplet-Stratmann
+262/401 Test #262: dftb+_timedep/C4H6-Triplet-Stratmann ............   Passed    3.10 sec
+        Start 263: dftb+_timedep/NH-Force-spinpol-Stratmann
+263/401 Test #263: dftb+_timedep/NH-Force-spinpol-Stratmann ........   Passed    3.10 sec
+        Start 264: dftb+_timedep/NO-Stratmann
+264/401 Test #264: dftb+_timedep/NO-Stratmann ......................   Passed    3.15 sec
+        Start 265: dftb+_timedep/propadiene_OscWindow-Stratmann
+265/401 Test #265: dftb+_timedep/propadiene_OscWindow-Stratmann ....   Passed    2.99 sec
+        Start 266: dftb+_dftb+u/Fe4
+266/401 Test #266: dftb+_dftb+u/Fe4 ................................   Passed    2.98 sec
+        Start 267: dftb+_dftb+u/Fe4_read
+267/401 Test #267: dftb+_dftb+u/Fe4_read ...........................   Passed    3.00 sec
+        Start 268: dftb+_geoopt/Cchain_lattice_lbfgs
+268/401 Test #268: dftb+_geoopt/Cchain_lattice_lbfgs ...............   Passed    3.04 sec
+        Start 269: dftb+_geoopt/Cchain_lattice
+269/401 Test #269: dftb+_geoopt/Cchain_lattice .....................   Passed    3.09 sec
+        Start 270: dftb+_geoopt/Cchain_lattice_rf
+270/401 Test #270: dftb+_geoopt/Cchain_lattice_rf ..................   Passed    3.07 sec
+        Start 271: dftb+_scc/H2O+CH3COOH-3rdorder
+271/401 Test #271: dftb+_scc/H2O+CH3COOH-3rdorder ..................   Passed    2.83 sec
+        Start 272: dftb+_spinorbit/Fe2
+272/401 Test #272: dftb+_spinorbit/Fe2 .............................   Passed    3.04 sec
+        Start 273: dftb+_analysis/Fe2_antiferromagnetic
+273/401 Test #273: dftb+_analysis/Fe2_antiferromagnetic ............   Passed    8.09 sec
+        Start 274: dftb+_non-scc/10-0Ctube_Efield
+274/401 Test #274: dftb+_non-scc/10-0Ctube_Efield ..................   Passed    2.91 sec
+        Start 275: dftb+_non-scc/10-10Ctube
+275/401 Test #275: dftb+_non-scc/10-10Ctube ........................   Passed    2.88 sec
+        Start 276: dftb+_non-scc/Ctube_Fermi
+276/401 Test #276: dftb+_non-scc/Ctube_Fermi .......................   Passed    2.94 sec
+        Start 277: dftb+_analysis/10-0Ctube_ESP
+277/401 Test #277: dftb+_analysis/10-0Ctube_ESP ....................   Passed    3.30 sec
+        Start 278: dftb+_md/H2O-extfield
+278/401 Test #278: dftb+_md/H2O-extfield ...........................   Passed    3.51 sec
+        Start 279: dftb+_non-scc/10-0Ctube
+279/401 Test #279: dftb+_non-scc/10-0Ctube .........................   Passed    2.89 sec
+        Start 280: dftb+_spin/Fe4_noncolinear
+280/401 Test #280: dftb+_spin/Fe4_noncolinear ......................   Passed    3.03 sec
+        Start 281: dftb+_non-scc/HBDI-neutral
+281/401 Test #281: dftb+_non-scc/HBDI-neutral ......................   Passed    2.89 sec
+        Start 282: dftb+_non-scc/HBDI-cationic
+282/401 Test #282: dftb+_non-scc/HBDI-cationic .....................   Passed    2.87 sec
+        Start 283: dftb+_scc/C60
+283/401 Test #283: dftb+_scc/C60 ...................................   Passed    2.80 sec
+        Start 284: dftb+_analysis/C60_ESP
+284/401 Test #284: dftb+_analysis/C60_ESP ..........................   Passed    2.97 sec
+        Start 285: dftb+_spin/H2O
+285/401 Test #285: dftb+_spin/H2O ..................................   Passed    3.68 sec
+        Start 286: dftb+_dangerous/C_SkCutoff_soft_default
+286/401 Test #286: dftb+_dangerous/C_SkCutoff_soft_default .........   Passed    2.82 sec
+        Start 287: dftb+_dangerous/C_SkCutoff_hard_default
+287/401 Test #287: dftb+_dangerous/C_SkCutoff_hard_default .........   Passed    2.80 sec
+        Start 288: dftb+_dangerous/C_SkCutoff_soft_old
+288/401 Test #288: dftb+_dangerous/C_SkCutoff_soft_old .............   Passed    2.85 sec
+        Start 289: dftb+_dangerous/C_SkCutoff_hard_old
+289/401 Test #289: dftb+_dangerous/C_SkCutoff_hard_old .............   Passed    2.91 sec
+        Start 290: dftb+_halogen/3492
+290/401 Test #290: dftb+_halogen/3492 ..............................   Passed    3.55 sec
+        Start 291: dftb+_halogen/3499
+291/401 Test #291: dftb+_halogen/3499 ..............................   Passed    3.33 sec
+        Start 292: dftb+_halogen/3500
+292/401 Test #292: dftb+_halogen/3500 ..............................   Passed    3.25 sec
+        Start 293: dftb+_halogen/3501
+293/401 Test #293: dftb+_halogen/3501 ..............................   Passed    3.84 sec
+        Start 294: dftb+_halogen/3502
+294/401 Test #294: dftb+_halogen/3502 ..............................   Passed    3.30 sec
+        Start 295: dftb+_halogen/3518
+295/401 Test #295: dftb+_halogen/3518 ..............................   Passed    3.25 sec
+        Start 296: dftb+_timedep/cyclopentadienyl
+296/401 Test #296: dftb+_timedep/cyclopentadienyl ..................   Passed    2.88 sec
+        Start 297: dftb+_timedep/C6H6-Sym
+297/401 Test #297: dftb+_timedep/C6H6-Sym ..........................   Passed    3.05 sec
+        Start 298: dftb+_timedep/C6H6-Sym_Arnoldi
+298/401 Test #298: dftb+_timedep/C6H6-Sym_Arnoldi ..................   Passed    3.09 sec
+        Start 299: dftb+_timedep/OCH2-S1-Opt
+299/401 Test #299: dftb+_timedep/OCH2-S1-Opt .......................   Passed    4.41 sec
+        Start 300: dftb+_timedep/OCH2-md
+300/401 Test #300: dftb+_timedep/OCH2-md ...........................   Passed    3.44 sec
+        Start 301: dftb+_h-bonds/H5_defaults
+301/401 Test #301: dftb+_h-bonds/H5_defaults .......................   Passed    2.94 sec
+        Start 302: dftb+_h-bonds/H5_ONS_forces
+302/401 Test #302: dftb+_h-bonds/H5_ONS_forces .....................   Passed    2.94 sec
+        Start 303: dftb+_h-bonds/H5_ONS_forces_eq
+303/401 Test #303: dftb+_h-bonds/H5_ONS_forces_eq ..................   Passed    2.97 sec
+        Start 304: dftb+_h-bonds/D3H5_ice
+304/401 Test #304: dftb+_h-bonds/D3H5_ice ..........................   Passed    2.94 sec
+        Start 305: dftb+_md/Si_8_restart
+305/401 Test #305: dftb+_md/Si_8_restart ...........................   Passed    3.16 sec
+        Start 306: dftb+_spin/GaAs_2
+306/401 Test #306: dftb+_spin/GaAs_2 ...............................   Passed    3.28 sec
+        Start 307: dftb+_spin/GaAs-spin-ext
+307/401 Test #307: dftb+_spin/GaAs-spin-ext ........................   Passed    3.82 sec
+        Start 308: dftb+_spinorbit/As4S4
+308/401 Test #308: dftb+_spinorbit/As4S4 ...........................   Passed    3.19 sec
+        Start 309: dftb+_dispersion/DNA-damped
+309/401 Test #309: dftb+_dispersion/DNA-damped .....................   Passed    3.07 sec
+        Start 310: dftb+_md/ice_Ic
+310/401 Test #310: dftb+_md/ice_Ic .................................   Passed    3.33 sec
+        Start 311: dftb+_derivatives/C6H6_scc
+311/401 Test #311: dftb+_derivatives/C6H6_scc ......................   Passed    4.65 sec
+        Start 312: dftb+_derivatives/GaAs_2
+312/401 Test #312: dftb+_derivatives/GaAs_2 ........................   Passed    3.68 sec
+        Start 313: dftb+_dftb+u/GaAs_2
+313/401 Test #313: dftb+_dftb+u/GaAs_2 .............................   Passed    2.90 sec
+        Start 314: dftb+_geoopt/diamond_presure
+314/401 Test #314: dftb+_geoopt/diamond_presure ....................   Passed    2.99 sec
+        Start 315: dftb+_scc/C60_Fermi
+315/401 Test #315: dftb+_scc/C60_Fermi .............................   Passed    2.98 sec
+        Start 316: dftb+_scc/10-0Ctube-extfield
+316/401 Test #316: dftb+_scc/10-0Ctube-extfield ....................   Passed    2.89 sec
+        Start 317: dftb+_scc/SiC_64
+317/401 Test #317: dftb+_scc/SiC_64 ................................   Passed    2.97 sec
+        Start 318: dftb+_scc/SiC_32-extchrg-blur
+318/401 Test #318: dftb+_scc/SiC_32-extchrg-blur ...................   Passed    2.93 sec
+        Start 319: dftb+_md/H3
+319/401 Test #319: dftb+_md/H3 .....................................   Passed   10.38 sec
+        Start 320: dftb+_dispersion/DNA_dftd3_zero
+320/401 Test #320: dftb+_dispersion/DNA_dftd3_zero .................   Passed    3.14 sec
+        Start 321: dftb+_dispersion/DNA_dftd3_mzero
+321/401 Test #321: dftb+_dispersion/DNA_dftd3_mzero ................   Passed    3.15 sec
+        Start 322: dftb+_spinorbit/GaAs_2
+322/401 Test #322: dftb+_spinorbit/GaAs_2 ..........................   Passed    3.00 sec
+        Start 323: dftb+_geoopt/Si_2_latconst
+323/401 Test #323: dftb+_geoopt/Si_2_latconst ......................   Passed    3.36 sec
+        Start 324: dftb+_md/SiH-surface
+324/401 Test #324: dftb+_md/SiH-surface ............................   Passed    3.14 sec
+        Start 325: dftb+_geoopt/Si_2_lattice_lbfgs
+325/401 Test #325: dftb+_geoopt/Si_2_lattice_lbfgs .................   Passed    3.26 sec
+        Start 326: dftb+_geoopt/Si_2_lattice
+326/401 Test #326: dftb+_geoopt/Si_2_lattice .......................   Passed    3.62 sec
+        Start 327: dftb+_geoopt/Si_2_lattice_rf
+327/401 Test #327: dftb+_geoopt/Si_2_lattice_rf ....................   Passed    3.13 sec
+        Start 328: dftb+_md/Si_8_NHC
+328/401 Test #328: dftb+_md/Si_8_NHC ...............................   Passed    4.61 sec
+        Start 329: dftb+_timedep/C66O10N4H44_Ewindow
+329/401 Test #329: dftb+_timedep/C66O10N4H44_Ewindow ...............   Passed    3.65 sec
+        Start 330: dftb+_spin/Fe4_Fermi
+330/401 Test #330: dftb+_spin/Fe4_Fermi ............................   Passed    6.50 sec
+        Start 331: dftb+_non-scc/Si41C23N35
+331/401 Test #331: dftb+_non-scc/Si41C23N35 ........................   Passed    3.04 sec
+        Start 332: dftb+_geoopt/diamond_isotropic
+332/401 Test #332: dftb+_geoopt/diamond_isotropic ..................   Passed    3.55 sec
+        Start 333: dftb+_spinorbit/EuN
+333/401 Test #333: dftb+_spinorbit/EuN .............................   Passed    3.98 sec
+        Start 334: dftb+_geoopt/Si_6
+334/401 Test #334: dftb+_geoopt/Si_6 ...............................   Passed    3.95 sec
+        Start 335: dftb+_geoopt/Si_6_rf
+335/401 Test #335: dftb+_geoopt/Si_6_rf ............................   Passed    3.11 sec
+        Start 336: dftb+_md/ptcda-xlbomdfast
+336/401 Test #336: dftb+_md/ptcda-xlbomdfast .......................   Passed    5.66 sec
+        Start 337: dftb+_spinorbit/EuN_customU
+337/401 Test #337: dftb+_spinorbit/EuN_customU .....................   Passed    4.10 sec
+        Start 338: dftb+_dispersion/DNA
+338/401 Test #338: dftb+_dispersion/DNA ............................   Passed    5.36 sec
+        Start 339: dftb+_spinorbit/Si2_dual
+339/401 Test #339: dftb+_spinorbit/Si2_dual ........................   Passed    4.18 sec
+        Start 340: dftb+_md/Si_8
+340/401 Test #340: dftb+_md/Si_8 ...................................   Passed    7.39 sec
+        Start 341: dftb+_md/Si_8-thermostat2
+341/401 Test #341: dftb+_md/Si_8-thermostat2 .......................   Passed    7.03 sec
+        Start 342: dftb+_geoopt/GaAs_8_latconst_lbfgs
+342/401 Test #342: dftb+_geoopt/GaAs_8_latconst_lbfgs ..............   Passed    4.51 sec
+        Start 343: dftb+_geoopt/GaAs_8_latconst
+343/401 Test #343: dftb+_geoopt/GaAs_8_latconst ....................   Passed    4.27 sec
+        Start 344: dftb+_analysis/Ga4As4_ESP
+344/401 Test #344: dftb+_analysis/Ga4As4_ESP .......................   Passed    3.09 sec
+        Start 345: dftb+_md/Si_8-thermostat
+345/401 Test #345: dftb+_md/Si_8-thermostat ........................   Passed    6.97 sec
+        Start 346: dftb+_md/ptcda-xlbomdfast-ldep
+346/401 Test #346: dftb+_md/ptcda-xlbomdfast-ldep ..................   Passed    6.36 sec
+        Start 347: dftb+_md/Si_8-tempprofile
+347/401 Test #347: dftb+_md/Si_8-tempprofile .......................   Passed    7.96 sec
+        Start 348: dftb+_md/Si_8-tempprofile0
+348/401 Test #348: dftb+_md/Si_8-tempprofile0 ......................   Passed    3.08 sec
+        Start 349: dftb+_dispersion/DNA_dftd3_bj
+349/401 Test #349: dftb+_dispersion/DNA_dftd3_bj ...................   Passed    5.01 sec
+        Start 350: dftb+_geoopt/Vsi+O-nonscc
+350/401 Test #350: dftb+_geoopt/Vsi+O-nonscc .......................   Passed    4.52 sec
+        Start 351: dftb+_non-scc/Si_384
+351/401 Test #351: dftb+_non-scc/Si_384 ............................   Passed    4.00 sec
+        Start 352: dftb+_md/DNA
+352/401 Test #352: dftb+_md/DNA ....................................   Passed   14.62 sec
+        Start 353: dftb+_md/DNA_Berendsen2
+353/401 Test #353: dftb+_md/DNA_Berendsen2 .........................   Passed   14.76 sec
+        Start 354: dftb+_md/ptcda-xlbomd
+354/401 Test #354: dftb+_md/ptcda-xlbomd ...........................   Passed   13.20 sec
+        Start 355: dftb+_md/SiC64-xlbomdfast-T0
+355/401 Test #355: dftb+_md/SiC64-xlbomdfast-T0 ....................   Passed    8.15 sec
+        Start 356: dftb+_md/SiC64-xlbomdfast
+356/401 Test #356: dftb+_md/SiC64-xlbomdfast .......................   Passed    8.13 sec
+        Start 357: dftb+_timedep/C66O10N4H44_OscWindow
+357/401 Test #357: dftb+_timedep/C66O10N4H44_OscWindow .............   Passed    3.94 sec
+        Start 358: dftb+_timedep/C60_EandOsc
+358/401 Test #358: dftb+_timedep/C60_EandOsc .......................   Passed    4.06 sec
+        Start 359: dftb+_non-scc/Si_216
+359/401 Test #359: dftb+_non-scc/Si_216 ............................   Passed    4.62 sec
+        Start 360: dftb+_md/ptcda-xlbomd-ldep
+360/401 Test #360: dftb+_md/ptcda-xlbomd-ldep ......................   Passed   19.25 sec
+        Start 361: dftb+_geoopt/Vsi+O_lbfgs
+361/401 Test #361: dftb+_geoopt/Vsi+O_lbfgs ........................   Passed    8.20 sec
+        Start 362: dftb+_geoopt/Vsi+O
+362/401 Test #362: dftb+_geoopt/Vsi+O ..............................   Passed    6.47 sec
+        Start 363: dftb+_scc/SiC64+V_dynforce_groups
+363/401 Test #363: dftb+_scc/SiC64+V_dynforce_groups ...............   Passed    4.14 sec
+        Start 364: dftb+_scc/SiC64+V_dynforce
+364/401 Test #364: dftb+_scc/SiC64+V_dynforce ......................   Passed    4.55 sec
+        Start 365: dftb+_transport/CH4
+365/401 Test #365: dftb+_transport/CH4 .............................   Passed    2.66 sec
+        Start 366: dftb+_transport/GaAs
+366/401 Test #366: dftb+_transport/GaAs ............................   Passed    3.27 sec
+        Start 367: dftb+_transport/CH4-poisson
+367/401 Test #367: dftb+_transport/CH4-poisson .....................   Passed    5.42 sec
+        Start 368: dftb+_poisson/CH4-poisson
+368/401 Test #368: dftb+_poisson/CH4-poisson .......................   Passed    6.20 sec
+        Start 369: dftb+_poisson/CH4-selShell
+369/401 Test #369: dftb+_poisson/CH4-selShell ......................   Passed    3.84 sec
+        Start 370: dftb+_transport/CNT
+370/401 Test #370: dftb+_transport/CNT .............................   Passed    4.32 sec
+        Start 371: dftb+_transport/CNT_GF
+371/401 Test #371: dftb+_transport/CNT_GF ..........................   Passed    9.91 sec
+        Start 372: dftb+_transport/C-chain_allSteps
+372/401 Test #372: dftb+_transport/C-chain_allSteps ................   Passed    6.51 sec
+        Start 373: dftb+_transport/C-chain+U
+373/401 Test #373: dftb+_transport/C-chain+U .......................   Passed   33.75 sec
+        Start 374: dftb+_transport/C-chain+Uspin
+374/401 Test #374: dftb+_transport/C-chain+Uspin ...................   Passed   36.57 sec
+        Start 375: dftb+_transport/SiH-chain_allSteps
+375/401 Test #375: dftb+_transport/SiH-chain_allSteps ..............   Passed   35.01 sec
+        Start 376: dftb+_transport/SiH-chain_bin
+376/401 Test #376: dftb+_transport/SiH-chain_bin ...................   Passed   32.94 sec
+        Start 377: dftb+_transport/H-chain
+377/401 Test #377: dftb+_transport/H-chain .........................   Passed    9.32 sec
+        Start 378: dftb+_transport/H-chain_Ef
+378/401 Test #378: dftb+_transport/H-chain_Ef ......................   Passed    9.42 sec
+        Start 379: dftb+_transport/H-chain-spin
+379/401 Test #379: dftb+_transport/H-chain-spin ....................   Passed    7.46 sec
+        Start 380: dftb+_transport/H-chain-fullspin
+380/401 Test #380: dftb+_transport/H-chain-fullspin ................   Passed    9.23 sec
+        Start 381: dftb+_transport/H-sheet
+381/401 Test #381: dftb+_transport/H-sheet .........................   Passed   98.09 sec
+        Start 382: dftb+_transport/H-3conts
+382/401 Test #382: dftb+_transport/H-3conts ........................   Passed    8.91 sec
+        Start 383: dftb+_transport/SiH-chain
+383/401 Test #383: dftb+_transport/SiH-chain .......................   Passed   20.35 sec
+        Start 384: dftb+_transport/SiH-chain-cont
+384/401 Test #384: dftb+_transport/SiH-chain-cont ..................   Passed    3.00 sec
+        Start 385: dftb+_transport/SiH-cont-poiss
+385/401 Test #385: dftb+_transport/SiH-cont-poiss ..................   Passed    4.64 sec
+        Start 386: dftb+_transport/graphene_x
+386/401 Test #386: dftb+_transport/graphene_x ......................   Passed   52.41 sec
+        Start 387: dftb+_transport/graphene3T
+387/401 Test #387: dftb+_transport/graphene3T ......................   Passed   11.24 sec
+        Start 388: dftb+_transport/Au-chain
+388/401 Test #388: dftb+_transport/Au-chain ........................   Passed    6.99 sec
+        Start 389: dftb+_transport/SiH-chain_semiInf
+389/401 Test #389: dftb+_transport/SiH-chain_semiInf ...............   Passed   16.84 sec
+        Start 390: dftb+_transport/local-curr
+390/401 Test #390: dftb+_transport/local-curr ......................   Passed   15.45 sec
+        Start 391: dftb+_transport/polyacetylene_semiInf
+391/401 Test #391: dftb+_transport/polyacetylene_semiInf ...........   Passed    5.62 sec
+        Start 392: dftb+_transport/H-sheet_end
+392/401 Test #392: dftb+_transport/H-sheet_end .....................   Passed    6.18 sec
+        Start 393: dftb+_pp-RPA/ethene
+393/401 Test #393: dftb+_pp-RPA/ethene .............................   Passed    2.96 sec
+        Start 394: dftb+_pp-RPA/benzene_TammDancoff
+394/401 Test #394: dftb+_pp-RPA/benzene_TammDancoff ................   Passed    2.96 sec
+        Start 395: dftb+_pp-RPA/furan_OrbConst
+395/401 Test #395: dftb+_pp-RPA/furan_OrbConst .....................   Passed    3.01 sec
+        Start 396: modes_C24O6H8
+396/401 Test #396: modes_C24O6H8 ...................................   Passed    3.22 sec
+        Start 397: modes_C24O6H8_prefix
+397/401 Test #397: modes_C24O6H8_prefix ............................   Passed    2.41 sec
+        Start 398: modes_C6H6_ir
+398/401 Test #398: modes_C6H6_ir ...................................   Passed    2.52 sec
+        Start 399: phonons_C-chain
+399/401 Test #399: phonons_C-chain .................................   Passed    2.63 sec
+        Start 400: phonons_C-chain-proj
+400/401 Test #400: phonons_C-chain-proj ............................   Passed    2.57 sec
+        Start 401: phonons_Si
+401/401 Test #401: phonons_Si ......................................   Passed    2.61 sec
+
+100% tests passed, 0 tests failed out of 401
+
+Label Time Summary:
+phonons/C-chain         =   2.63 sec*proc (1 test)
+phonons/C-chain-proj    =   2.57 sec*proc (1 test)
+phonons/Si              =   2.61 sec*proc (1 test)
+
+Total Test time (real) = 1961.95 sec

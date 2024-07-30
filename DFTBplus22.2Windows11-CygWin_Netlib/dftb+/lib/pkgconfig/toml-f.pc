@@ -1,0 +1,9 @@
+prefix=/home/manab/dftbplus-23.1/dftb+
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: toml-f
+Description: A TOML parser implementation for data serialization and deserialization in Fortran
+Version: 0.3.0
+Libs: -L${libdir} -ltoml-f
+Cflags: -I${includedir} -I${includedir}/toml-f/GNU-12.4.0

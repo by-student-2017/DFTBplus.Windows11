@@ -1,0 +1,9 @@
+Name: DFTB+
+Description: Library interface to DFTB+, a fast and efficient atomistic quantum mechanical simulation tool
+Version: 22.2
+URL: https://www.dftbplus.org
+
+Requires: 
+Libs: -L/mnt/c/cygwin64/home/manab/dftbplus-22.2/dftbplus-22.2/dftb+/lib -lmudpack -ldftbplus
+Libs.private: /usr/lib/x86_64-linux-gnu/libmkl_gf_lp64.so /usr/lib/x86_64-linux-gnu/libmkl_gnu_thread.so /usr/lib/x86_64-linux-gnu/libmkl_core.so /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so -lm -ldl /usr/lib/x86_64-linux-gnu/libmkl_gf_lp64.so /usr/lib/x86_64-linux-gnu/libmkl_gnu_thread.so /usr/lib/x86_64-linux-gnu/libmkl_core.so /usr/lib/gcc/x86_64-linux-gnu/11/libgomp.so -lm -ldl -lm -ldl /usr/lib/x86_64-linux-gnu/libarpack.so -L/usr/lib/gcc/x86_64-linux-gnu/11 -L/usr/lib/x86_64-linux-gnu -L/usr/lib -L/lib/x86_64-linux-gnu -L/lib -lgcc -lgcc_s -lc -lgcc -lgcc_s 
+Cflags: -I/mnt/c/cygwin64/home/manab/dftbplus-22.2/dftbplus-22.2/dftb+/include/dftbplus/modfiles  
