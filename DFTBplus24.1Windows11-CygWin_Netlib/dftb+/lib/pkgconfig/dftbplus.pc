@@ -1,0 +1,9 @@
+Name: DFTB+
+Description: Library interface to DFTB+, a fast and efficient atomistic quantum mechanical simulation tool
+Version: 24.1
+URL: https://www.dftbplus.org
+
+Requires: 
+Libs: -L/home/manab/dftbplus-24.1/dftb+ -Wno-dev/lib -lmudpack -ldftbplus
+Libs.private: /usr/lib/libblas.dll.a /usr/lib/liblapack.dll.a /usr/lib/libblas.dll.a /usr/lib/libarpack.dll.a -L/usr/lib/gcc/x86_64-pc-cygwin/12 -L/usr/x86_64-pc-cygwin/lib -L/usr/lib -L/lib -lgcc_s -lgcc -lcygwin -ladvapi32 -lshell32 -luser32 -lkernel32 -lgcc_s -lgcc -Wl,--enable-auto-import
+Cflags: -I/home/manab/dftbplus-24.1/dftb+ -Wno-dev/include/dftbplus/modfiles  

@@ -1,0 +1,10 @@
+prefix=/home/manab/dftbplus-24.1/dftb+ -Wno-dev
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: mstore
+Description: Molecular structure store for testing
+Version: 0.2.0
+Requires: mctc-lib
+Libs: -L${libdir} -lmstore
+Cflags: -I${includedir} -I${includedir}/mstore/GNU-12.4.0

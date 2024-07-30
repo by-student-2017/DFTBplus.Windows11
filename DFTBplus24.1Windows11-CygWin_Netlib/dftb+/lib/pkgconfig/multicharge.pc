@@ -1,0 +1,9 @@
+prefix=/home/manab/dftbplus-24.1/dftb+ -Wno-dev
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: multicharge
+Description: Molecular structure store for testing
+Version: 0.2.0
+Libs: -L${libdir} -lmulticharge
+Cflags: -I${includedir} -I${includedir}/multicharge/GNU-12.4.0

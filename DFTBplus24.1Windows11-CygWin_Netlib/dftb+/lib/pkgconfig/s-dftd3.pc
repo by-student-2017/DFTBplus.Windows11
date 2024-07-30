@@ -1,0 +1,9 @@
+prefix=/home/manab/dftbplus-24.1/dftb+ -Wno-dev
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: s-dftd3
+Description: Simple reimplementation of the DFT-D3 dispersion model
+Version: 1.0.0
+Libs: -L${libdir} -ls-dftd3
+Cflags: -I${includedir} -I${includedir}/s-dftd3/GNU-12.4.0

@@ -1,0 +1,9 @@
+prefix=/home/manab/dftbplus-24.1/dftb+ -Wno-dev
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: tblite
+Description: Light-weight tight-binding framework
+Version: 0.3.0
+Libs: -L${libdir} -ltblite
+Cflags: -I${includedir} -I${includedir}/tblite/GNU-12.4.0
