@@ -39,7 +39,7 @@
 
 
 # Installation note
-## dftb+ (cygwin on windows11 (64 bit)) (Edit: 30/Jul/2024)
+## dftb+ (cygwin on windows11 (64 bit)) (Edit: 30/Jul/2024): xTB, TD-DFTB, DFT-D3
 
 ## install (version 24.1) (gfortran + Netlib + OpenMP)
 1. select version (View [Full])
