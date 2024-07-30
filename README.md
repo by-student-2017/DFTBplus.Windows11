@@ -1,5 +1,8 @@
 # DFTBplus.Windows11
 
+## parameter files
+- https://dftb.org/parameters/download
+
 # Important tools
 
 ## Avogadro
