@@ -11,6 +11,9 @@
 ## Youtube
 - https://www.youtube.com/@dftbplus
 
+## Related information
+[1] A. A. Rudnick et al., J. Chem. Phys. 144, 214906 (2016) (https://doi.org/10.1063/1.4953102)
+
 
 # Important tools
 
