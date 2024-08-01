@@ -1,7 +1,16 @@
 # DFTBplus.Windows11
 
-## parameter files
-- https://dftb.org/parameters/download
+## Tutorials
+- DFTB+ recipes: https://dftbplus-recipes.readthedocs.io/en/latest/linresp/relax.html
+- DFTB+ school in Daresbury: https://awvwgk.github.io/daresbury/
+- Movies: https://www.youtube.com/playlist?list=PL6dY4yCeDg1PV-cLmtvhqjdvzcnNBoB8m
+
+## Parameter files
+- dftb.org: https://dftb.org/parameters/download
+
+## Youtube
+- https://www.youtube.com/@dftbplus
+
 
 # Important tools
 
