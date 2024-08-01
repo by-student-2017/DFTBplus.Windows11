@@ -14,9 +14,9 @@
 ## Related information
 - [01] A. D.-Castro et al., Nanoscale, 2021, 13, 6786-6797 (10.1039/D1NR00213A )(DFTB+)
 - [02] J. Hoche et al., Chem. Sci., 2021, 12, 11965-11975 (10.1039/D1SC03214C)(DFTB+)
-- [03] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w)(GFN2-xTB) (Open Access)
-- [04] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535)(xTB)
-- [05] Y. Oliver et al., J. Phys. Chem. Lett. 2018, 9, 20, 6149-6163 (https://doi.org/10.1021/acs.jpclett.8b02327)(xTB)
+- [03] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w)(xTB code) (Open Access)
+- [04] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535)(xTB code)
+- [05] Y. Oliver et al., J. Phys. Chem. Lett. 2018, 9, 20, 6149-6163 (https://doi.org/10.1021/acs.jpclett.8b02327)(xTB code)
 - [06] P. O'Keeffe et al., Photochem Photobiol Sci 21, 923-934 (2022) (https://doi.org/10.1007/s43630-021-00165-0)(MD=DFTB+, TD-DFT=ORCA)
 - [1] A. A. Rudnick et al., J. Chem. Phys. 144, 214906 (2016) (https://doi.org/10.1063/1.4953102)(Gaussian 09 program)
 - [2] G. Sun et al., Sci Rep 11, 17686 (2021) (https://doi.org/10.1038/s41598-021-97229-z)(Gaussian 16 program) (Open Access)
@@ -45,6 +45,12 @@
 - [25] A. Steffen et al., Inorg. Chem. 2014, 53, 7055-7069 (https://pubs.acs.org/doi/10.1021/ic501115k)(Gaussian 09 program)
 - [26] S. Hirata et al., J. Phys. Chem. Lett. 2016, 7, 8, 1539-1545 (https://doi.org/10.1021/acs.jpclett.6b00554)(Gaussian 09 program)
 
+## xTB
+- Github: https://github.com/grimme-lab/xtb
+- Manual: https://xtb-docs.readthedocs.io/en/latest/
+
+## xtb4stda
+- Github: https://github.com/grimme-lab/xtb4stda
 
 # Important tools
 
