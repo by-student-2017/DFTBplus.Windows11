@@ -13,12 +13,13 @@
 
 ## Related information
 - [1] A. A. Rudnick et al., J. Chem. Phys. 144, 214906 (2016) (https://doi.org/10.1063/1.4953102)
-- [2] Z. C. Wong et al., RSC Adv., 2016, 6, 87237-87245 (10.1039/C6RA11495D)
-- [3] B. de Souza et al., J. Chem. Theory Comput. 2019, 15, 1896-1904 (10.1021/acs.jctc.8b00841)
+- [2] Z. C. Wong et al., RSC Adv., 2016, 6, 87237-87245 (https://doi.org/10.1039/C6RA11495D)
+- [3] B. de Souza et al., J. Chem. Theory Comput. 2019, 15, 1896-1904 (https://doi.org/10.1021/acs.jctc.8b00841)
 - [4] S.-J. Woo et al., ChemRxiv. (https://doi.org/10.26434/chemrxiv.13338986.v1)
 - [5] A. K. Pal et al., J. Phys. Chem. A 2020, 124, 11025-11037 (https://pubs.acs.org/doi/10.1021/acs.jpca.0c10203)
-- [6] A. Steffen et al., Inorg. Chem. 2014, 53, 7055−7069 (dx.doi.org/10.1021/ic501115k)
-- [7] H. Ma et al., J. Am. Chem. Soc. 2019, 141, 1010−1015 (10.1021/jacs.8b11224J)
+- [6] A. Steffen et al., Inorg. Chem. 2014, 53, 7055−7069 (https://pubs.acs.org/doi/10.1021/ic501115k)
+- [7] H. Ma et al., J. Am. Chem. Soc. 2019, 141, 1010−1015 (https://doi.org/10.1021/jacs.8b11224)
+- [8] W. Qiu et al., J. Phys. Chem. Lett. 2022, 13, 4971−4980 (https://doi.org/10.1021/acs.jpclett.2c01205)
 
 # Important tools
 
