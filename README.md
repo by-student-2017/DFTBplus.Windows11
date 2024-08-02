@@ -11,6 +11,9 @@
 ## Youtube
 - https://www.youtube.com/@dftbplus
 
+## Solvent
+- COSMO or SASA: https://dftbplus.org/documentation.html
+
 ## Related information
 - [01] A. D.-Castro et al., Nanoscale, 2021, 13, 6786-6797 (10.1039/D1NR00213A ) (DFTB+)
 - [02] J. Hoche et al., Chem. Sci., 2021, 12, 11965-11975 (10.1039/D1SC03214C) (DFTB+)
