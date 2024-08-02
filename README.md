@@ -21,6 +21,12 @@
 - [04] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
 - [05] Y. Oliver et al., J. Phys. Chem. Lett. 2018, 9, 20, 6149-6163 (https://doi.org/10.1021/acs.jpclett.8b02327) (xTB code)
 - [06] P. O'Keeffe et al., Photochem Photobiol Sci 21, 923-934 (2022) (https://doi.org/10.1007/s43630-021-00165-0) (MD=DFTB+, TD-DFT=ORCA)
+
+- [07] L. Stojanovic et al., J. Chem. Theory Comput. 2017, 13, 12, 5846-5860 (https://doi.org/10.1021/acs.jctc.7b01000) (DFTB+)
+- [08] Y. Li et al., Phys. Chem. Chem. Phys., 2022,24, 1722-1735 (https://doi.org/10.1039/D1CP04848A) (DFTB+, Gaussian09, NEWTON-X)
+- [09] S. Maity et al.,  J. Phys. Chem. Lett. 2020, 11, 20, 8660-8667 (https://doi.org/10.1021/acs.jpclett.0c02526) (DFTB+)
+- [010] K. Maghrebi et al., J. Phys. Chem. C 2023, 127, 39, 19675-19686 (https://doi.org/10.1021/acs.jpcc.3c05266) (DFTB+)
+
 - [1] A. A. Rudnick et al., J. Chem. Phys. 144, 214906 (2016) (https://doi.org/10.1063/1.4953102) (Gaussian 09 program)
 - [2] G. Sun et al., Sci Rep 11, 17686 (2021) (https://doi.org/10.1038/s41598-021-97229-z) (Gaussian 16 program) (Open Access)
 - [3] D. Blasco et al., Phys. Chem. Chem. Phys., 2024, 26, 5922-5931 (10.1039/D3CP05242G ) (GAMESS-US)
