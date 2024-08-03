@@ -1,5 +1,7 @@
 #---------------------------------------------------------------------------------------------------------------------------------
 - [C1] M. Malis et al., J. Chem. Theory Comput. 2022, 18, 7, 4082-4094 (https://doi.org/10.1021/acs.jctc.1c01046) (CP2K code)
+- [C2] R. M. Khisamov et al., Mol. Syst. Des. Eng., 2021,6, 1056-1065 (https://doi.org/10.1039/D1ME00117E) (CP2k ver.8.1)
+- [C3] M. Buyuktemiz et al., J. Org. Chem. 2021, 86, 6, 4547-4556 (https://doi.org/10.1021/acs.joc.0c02976) (CP2k ver.4.1)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [D1] A. D.-Castro et al., Nanoscale, 2021, 13, 6786-6797 (10.1039/D1NR00213A ) (DFTB+)
 - [D2] J. Hoche et al., Chem. Sci., 2021, 12, 11965-11975 (10.1039/D1SC03214C) (DFTB+)
@@ -8,6 +10,9 @@
 - [D5] Y. Li et al., Phys. Chem. Chem. Phys., 2022,24, 1722-1735 (https://doi.org/10.1039/D1CP04848A) (DFTB+, Gaussian09, NEWTON-X)
 - [D6] S. Maity et al.,  J. Phys. Chem. Lett. 2020, 11, 20, 8660-8667 (https://doi.org/10.1021/acs.jpclett.0c02526) (DFTB+)
 - [D7] K. Maghrebi et al., J. Phys. Chem. C 2023, 127, 39, 19675-19686 (https://doi.org/10.1021/acs.jpcc.3c05266) (DFTB+)
+- [D8] G. D. Miron et al., J. Chem. Theory Comput. 2024, 20, 9, 3864-3878 (https://doi.org/10.1021/acs.jctc.4c00125) (QM=DFTB+, MM=NAMD)
+- [D9] Y. Niidome et al., J. Phys. Chem. C 2021, 125, 23, 12758-12766 (https://doi.org/10.1021/acs.jpcc.1c02109) (DFTB+ ver.19.1)
+- [D10] T. A. Niehaus et al., J. Phys. Chem. C 2016, 120, 7, 3699-3704 (https://doi.org/10.1021/acs.jpcc.5b12355) (DFTB+)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [G1] A. A. Rudnick et al., J. Chem. Phys. 144, 214906 (2016) (https://doi.org/10.1063/1.4953102) (Gaussian 09 program)
 - [G2] G. Sun et al., Sci Rep 11, 17686 (2021) (https://doi.org/10.1038/s41598-021-97229-z) (Gaussian 16 program) (Open Access)
@@ -19,6 +24,7 @@
 - [G8] S.-J. Woo et al., ChemRxiv. (https://doi.org/10.26434/chemrxiv.13338986.v1) (Gaussian09 software)
 - [G9] A. Steffen et al., Inorg. Chem. 2014, 53, 7055-7069 (https://pubs.acs.org/doi/10.1021/ic501115k) (Gaussian 09 program)
 - [G10] S. Hirata et al., J. Phys. Chem. Lett. 2016, 7, 8, 1539-1545 (https://doi.org/10.1021/acs.jpclett.6b00554) (Gaussian 09 program)
+- [G11] Z. Tang et al., Phys. Chem. Chem. Phys., 2023,25, 18139-18148 (https://doi.org/10.1039/D3CP01760E) (Gaussian 16 program)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [N1] T. A. Niehaus et al., RSC Adv., 2015, 5, 63318-63329 (10.1039/C5RA12962A) (the NWChem code)
 - [N2] M. Stella et al., J. Chem. Theory Comput. 2022, 18, 5, 3027-3038 (https://doi.org/10.1021/acs.jctc.1c00548) (the NWChem code)
@@ -38,8 +44,14 @@
 - [U1] D. Blasco et al., Phys. Chem. Chem. Phys., 2024, 26, 5922-5931 (10.1039/D3CP05242G ) (GAMESS-US)
 - [U2] A. Y. Freidzon et al., J. Phys. Chem. A 2020, 124, 39, 7927-7934 (https://doi.org/10.1021/acs.jpca.0c06440) (GAMESS-US code)
 - [U3] C. Camacho et al., Chem. Sci., 2013, 4, 187-195 (10.1039/C2SC20878D) (GAMESS quantum chemistry package)
+- [U4] B. Zhi et al., Chem. Sci., 2021, 12, 2441-2455 (10.1039/D0SC05743F) (GAMESS-US code)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [X1] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w) (xTB code) (Open Access)
 - [X2] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
 - [X3] Y. Oliver et al., J. Phys. Chem. Lett. 2018, 9, 20, 6149-6163 (https://doi.org/10.1021/acs.jpclett.8b02327) (xTB code)
+#---------------------------------------------------------------------------------------------------------------------------------
+- [TH1] T. Suenobu et al., J. Phys. Chem. A 2020, 124, 1, 46-55 (https://doi.org/10.1021/acs.jpca.9b09846) (Supporting Information)
+- [FG1] F. Plasser et al., Theor Chem Acc 131, 1073 (2012) (https://doi.org/10.1007/s00214-011-1073-y)
+- [NX1] M. Barbatti et al., J. Chem. Theory Comput. 2022, 18, 11, 6851-6865 (https://doi.org/10.1021/acs.jctc.2c00804) (Open Access)
+- Newton-X (open source): https://newtonx.org/, https://en.wikipedia.org/wiki/Newton-X, https://www.youtube.com/user/mbarbatti, 
 #---------------------------------------------------------------------------------------------------------------------------------
