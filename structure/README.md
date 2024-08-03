@@ -1,7 +1,5 @@
 # References
 
-#---------------------------------------------------------------------------------------------------------------------------------
-
 - [C1] M. Malis et al., J. Chem. Theory Comput. 2022, 18, 7, 4082-4094 (https://doi.org/10.1021/acs.jctc.1c01046) (CP2K code)
 - [C2] R. M. Khisamov et al., Mol. Syst. Des. Eng., 2021,6, 1056-1065 (https://doi.org/10.1039/D1ME00117E) (CP2k ver.8.1)
 - [C3] M. Buyuktemiz et al., J. Org. Chem. 2021, 86, 6, 4547-4556 (https://doi.org/10.1021/acs.joc.0c02976) (CP2k ver.4.1)
