@@ -1,3 +1,4 @@
+# References
 #---------------------------------------------------------------------------------------------------------------------------------
 - [C1] M. Malis et al., J. Chem. Theory Comput. 2022, 18, 7, 4082-4094 (https://doi.org/10.1021/acs.jctc.1c01046) (CP2K code)
 - [C2] R. M. Khisamov et al., Mol. Syst. Des. Eng., 2021,6, 1056-1065 (https://doi.org/10.1039/D1ME00117E) (CP2k ver.8.1)
@@ -63,9 +64,26 @@
 - [O7] I. S.-Diaz et al., Inorg. Chem. 2021, 60, 17, 13222-13232 (https://doi.org/10.1021/acs.inorgchem.1c01604) (Orca 4.1.2 software)
 - [O8] S. E.-Florez et al.,  J. Phys. Chem. A 2019, 123, 30, 6496-6505 (https://doi.org/10.1021/acs.jpca.9b04492) (ORCA computational package)
 - [O9] G. Farias et al., J. Mater. Chem. C, 2020,8, 14595-14604 (https://doi.org/10.1039/D0TC03660A) (Orca 4.0.1 software package)
+- [O10] E. Bassan et al., Photochem Photobiol Sci 21, 777–786 (2022) (https://doi.org/10.1007/s43630-021-00152-5) 
+- [O11] R. Mahaan et al., J. Phys. Chem. A 2024, 128, 13, 2611-2628 (https://doi.org/10.1021/acs.jpca.4c00085) (ORCA software)
+- [O12] L. Lv et al., New J. Chem., 2023,47, 18972-18982 (https://doi.org/10.1039/D3NJ03488G) (ORCA 5.0 package)
+- [O13] G. Farias et al., Chem. Sci., 2021,12, 15116-15127 (https://doi.org/10.1039/D1SC04936D) (Orca 4.2.1 software package)
+- [O14] F. Siddique et al., J. Phys. Chem. C 2020, 124, 26, 14327-14337 (https://doi.org/10.1021/acs.jpcc.0c02175)
+ For DFT and TD-DFT calculations with the CAM-B3LYP-D3 functional, the Gaussian 09 program suite was used. The DLPNO-CCSD(T) calculations were performed with the ORCA program package.
+ Charge transfer (qCT) was analyzed in terms of the transition density matrix and natural transition orbitals (NTOs) using the TheoDore program.
+- [O15] M. Ahmed et al., J. Mol. Model 30, 122 (2024) (https://doi.org/10.1007/s00894-024-05912-5) (ORCA software)
+- [O16] X.-F. Song et al., Chem. Eur. J. 28 (2022) e202201782 (https://doi.org/10.1002/chem.202201782) (ORCA 4.2.1)
+- [O17] C. A. M. Salla et al., Phys. Chem. Chem. Phys., 2023,25, 684-689 (https://doi.org/10.1039/D2CP04658J) (Orca 4.2.1)
+- [O18] D. Barman et al., J. Phys. Chem. C 2023, 127, 5, 2694-2704 (https://doi.org/10.1021/acs.jpcc.2c08479) (Orca 4.2.0 software package)
+- [O19] K. Dhbaibi et al., J. Phys. Chem. Lett. 2023, 14, 4, 1073-1081 (https://doi.org/10.1021/acs.jpclett.2c03831) (ORCA program)
+- [O20] M. Moral et al., J. Chem. Theory Comput. 2015, 11, 1, 168-177 (https://doi.org/10.1021/ct500957s) (ORCA 3.0.0 quantum-chemical package)
+- [O21] Y. Gao et al., Chem. Phys. 573 (2023) 112006 (https://doi.org/10.1016/j.chemphys.2023.112006) (ORCA 5.0.2 program)
+- [O22] G. Farias et al., Dalton Trans., 2022,51, 1008-1018 (https://doi.org/10.1039/D1DT03912A) (Orca 5.0)
+- [O23] Y Zhang et al., Inorg. Chem. 2024, 63, 20, 9002-9013 (https://doi.org/10.1021/acs.inorgchem.4c00365) (ORCA 5.0 program suite)
+- [O24] D. Majumdar et al., J. Mol. Struct. 1179 (2019) 694-708 (https://doi.org/10.1016/j.molstruc.2018.11.010) (ORCA 3.0.3, Gaussian09 and Gauss view 5.0)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [T1] H. Ma et al., J. Am. Chem. Soc. 2019, 141, 1010-1015 (https://doi.org/10.1021/jacs.8b11224) (QM/MM model, QM=Turbomole 6.5, MM=GAFF)
-- [T2] R. Grotjahn et al., . Phys. Chem. A 2021, 125, 32, 7099-7110 (https://doi.org/10.1021/acs.jpca.1c05101) (TURBOMOLE ver. 7.5)
+- [T2] R. Grotjahn et al., . Phys. Chem. A 2021, 125, 32, 7099-7110 (https://doi.org/10.1021/acs.jpca.1c05101) (TURBOMOLE ver.7.5)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [U1] D. Blasco et al., Phys. Chem. Chem. Phys., 2024, 26, 5922-5931 (10.1039/D3CP05242G ) (GAMESS-US)
 - [U2] A. Y. Freidzon et al., J. Phys. Chem. A 2020, 124, 39, 7927-7934 (https://doi.org/10.1021/acs.jpca.0c06440) (GAMESS-US code)
@@ -95,6 +113,7 @@
 - [SI2] H. Gao et al., https://doi.org/10.1002/adom.202400619 (CIF file)
 - [SI3] M. Graf et al., Inorganica Chimica Acta 527 (2021) 120554 (https://doi.org/10.1016/j.ica.2021.120554) (CCDC)
 - [SI4] O. Kotova et al., J. Photochem. Photobio. A 218 (2011) 117-129 (https://doi.org/10.1016/j.jphotochem.2010.12.011) (CCDC)
+- [SI5] H. C. Braga et al., Dyes and Pigments 117 (2015) 149-156 (https://doi.org/10.1016/j.dyepig.2015.02.012) (CCDC)
 - [FG1] F. Plasser et al., Theor Chem Acc 131, 1073 (2012) (https://doi.org/10.1007/s00214-011-1073-y) (Fig.1)
   llustration of photodynamical processes occurring on ground and excited potential energy curves of a molecule. PA photoabsorption, ISC Intersystem crossing, IC internal conversion, Fl Fluorescence, Ph Phosphorescence.
   PA(fs), FI(ns), Ph(ms), IC(ps)
