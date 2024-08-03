@@ -51,6 +51,8 @@
 - [N14] E. Molenbroek et al., Dalton Trans., 2013, 42, 2973-2984 (https://doi.org/10.1039/C2DT32488A) (NWCHEM package)
 - [N15] S. Park et al., J. Mater. Chem. C, 2024,12, 4384-4391 (https://doi.org/10.1039/D4TC00288A) (NWChem program)
 - [N16] J. Skiba et al., Eur. J. Inorg. Chem. 20 (2019) 2565-2565 (https://doi.org/10.1002/ejic.201600281) (NWChem) (free access)
+- [N17] J. Skiba et al., New J. Chem., 2019,43, 573-583 (https://doi.org/10.1039/C8NJ05494K) (NWChem)
+- [N18] F. Scalambra et al., Eur. J. Inorg. Chem. 10 (2016) 1528-1540 (https://doi.org/10.1002/ejic.201501357) (NWChem)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [O1] L. Lv et al., Phys. Chem. Chem. Phys., 2018, 20, 6548-6561 (10.1039/C7CP08264A) (the ORCA software package)
 - [O2] L. Lv et al., ACS Omega 2022, 7, 8, 7380-7392 (https://doi.org/10.1021/acsomega.2c00036) (the ORCA software package)
