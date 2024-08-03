@@ -1,5 +1,8 @@
 # References
 
+
+## CP2k
+
 - [C1] M. Malis et al., J. Chem. Theory Comput. 2022, 18, 7, 4082-4094 (https://doi.org/10.1021/acs.jctc.1c01046) (CP2K code)
 - [C2] R. M. Khisamov et al., Mol. Syst. Des. Eng., 2021,6, 1056-1065 (https://doi.org/10.1039/D1ME00117E) (CP2k ver.8.1)
 - [C3] M. Buyuktemiz et al., J. Org. Chem. 2021, 86, 6, 4547-4556 (https://doi.org/10.1021/acs.joc.0c02976) (CP2k ver.4.1)
@@ -11,7 +14,8 @@
 - [C9] R. R. Ramazanov et al., J. Phys. Chem. Lett. 2016, 7, 18, 3560-3566 (https://doi.org/10.1021/acs.jpclett.6b01672) (QM=CP2k, MM=AMBER)
 - [C10] S. Theivendran et al., J. Phys. Chem. C 2018, 122, 8, 4524-4531 (https://doi.org/10.1021/acs.jpcc.8b00556) (CP2k)
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## DFTB+
 
 - [D1] A. D.-Castro et al., Nanoscale, 2021, 13, 6786-6797 (10.1039/D1NR00213A ) (DFTB+)
 - [D2] J. Hoche et al., Chem. Sci., 2021, 12, 11965-11975 (10.1039/D1SC03214C) (DFTB+)
@@ -25,7 +29,8 @@
 - [D10] T. A. Niehaus et al., J. Phys. Chem. C 2016, 120, 7, 3699-3704 (https://doi.org/10.1021/acs.jpcc.5b12355) (DFTB+)
 - [D11] Z. Wang et al., J. Phys. Chem. C 2017, 121, 36, 20031-20038 (https://doi.org/10.1021/acs.jpcc.7b05643) (DFTB+)
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## Gaussian
 
 - [G1] A. A. Rudnick et al., J. Chem. Phys. 144, 214906 (2016) (https://doi.org/10.1063/1.4953102) (Gaussian 09 program)
 - [G2] G. Sun et al., Sci Rep 11, 17686 (2021) (https://doi.org/10.1038/s41598-021-97229-z) (Gaussian 16 program) (Open Access)
@@ -40,7 +45,8 @@
 - [G11] Z. Tang et al., Phys. Chem. Chem. Phys., 2023,25, 18139-18148 (https://doi.org/10.1039/D3CP01760E) (Gaussian 16 program)
 - [G12] L. A. Galan et al., J. Phys. Chem. B 2021, 125, 30, 8572-8580 (https://doi.org/10.1021/acs.jpcb.1c05082) (Gaussian16 software)
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## NWChem
 
 - [N1] T. A. Niehaus et al., RSC Adv., 2015, 5, 63318-63329 (10.1039/C5RA12962A) (the NWChem code)
 - [N2] M. Stella et al., J. Chem. Theory Comput. 2022, 18, 5, 3027-3038 (https://doi.org/10.1021/acs.jctc.1c00548) (the NWChem code)
@@ -61,7 +67,8 @@
 - [N17] J. Skiba et al., New J. Chem., 2019,43, 573-583 (https://doi.org/10.1039/C8NJ05494K) (NWChem)
 - [N18] F. Scalambra et al., Eur. J. Inorg. Chem. 10 (2016) 1528-1540 (https://doi.org/10.1002/ejic.201501357) (NWChem)
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## ORCA
 
 - [O1] L. Lv et al., Phys. Chem. Chem. Phys., 2018, 20, 6548-6561 (10.1039/C7CP08264A) (the ORCA software package)
 - [O2] L. Lv et al., ACS Omega 2022, 7, 8, 7380-7392 (https://doi.org/10.1021/acsomega.2c00036) (the ORCA software package)
@@ -90,12 +97,14 @@
 - [O23] Y Zhang et al., Inorg. Chem. 2024, 63, 20, 9002-9013 (https://doi.org/10.1021/acs.inorgchem.4c00365) (ORCA 5.0 program suite)
 - [O24] D. Majumdar et al., J. Mol. Struct. 1179 (2019) 694-708 (https://doi.org/10.1016/j.molstruc.2018.11.010) (ORCA 3.0.3, Gaussian09 and Gauss view 5.0)
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## Turbomole
 
 - [T1] H. Ma et al., J. Am. Chem. Soc. 2019, 141, 1010-1015 (https://doi.org/10.1021/jacs.8b11224) (QM/MM model, QM=Turbomole 6.5, MM=GAFF)
 - [T2] R. Grotjahn et al., . Phys. Chem. A 2021, 125, 32, 7099-7110 (https://doi.org/10.1021/acs.jpca.1c05101) (TURBOMOLE ver.7.5)
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## GAMESS (US)
 
 - [U1] D. Blasco et al., Phys. Chem. Chem. Phys., 2024, 26, 5922-5931 (10.1039/D3CP05242G ) (GAMESS-US)
 - [U2] A. Y. Freidzon et al., J. Phys. Chem. A 2020, 124, 39, 7927-7934 (https://doi.org/10.1021/acs.jpca.0c06440) (GAMESS-US code)
@@ -116,13 +125,15 @@
 - [U16] S. Pi et al., J. Phys. Chem. A 2022, 126, 38, 6604-6616 (https://doi.org/10.1021/acs.jpca.2c04311) 
   The (TD) DFT, SF-TD DFT, and multi-reference computations were performed using Gaussian 16, GAMESS US, and MOLCAS 8.0, respectively.
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## xTB
 
 - [X1] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w) (xTB code) (Open Access)
 - [X2] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
 - [X3] Y. Oliver et al., J. Phys. Chem. Lett. 2018, 9, 20, 6149-6163 (https://doi.org/10.1021/acs.jpclett.8b02327) (xTB code)
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## Other informations
 
 - [TH1] T. Suenobu et al., J. Phys. Chem. A 2020, 124, 1, 46-55 (https://doi.org/10.1021/acs.jpca.9b09846) (Supporting Information)
 - [SI1] S. JK. M. Nalluri et al., J. Am. Chem. Soc. 2019, 141, 3, 1290-1303 (https://doi.org/10.1021/jacs.8b11201) (CIF file)
@@ -140,7 +151,8 @@
 - [CTS1] M. Sumita et al., Science Advances 8 (2022) (DOI: 10.1126/sciadv.abj3906)
 - FL_ChemTS: https://github.com/tsudalab/FL_ChemTS/ , Zenodo: https://doi.org/10.5281/zenodo.5716545
 
-#---------------------------------------------------------------------------------------------------------------------------------
+
+## Note
 
 The calculations of excited-state properties with Time-Dependent Density Functional Theory
 Carlo Adamo and Denis Jacquemin
@@ -148,5 +160,3 @@ DOI: 10.1039/C2CS35394F (Tutorial Review) Chem. Soc. Rev., 2013, 42, 845-856
 There exist several free or commercial codes (non-exhaustive alphabetic list: ADF, Dalton, Gamess, Gaussian, NWChem, Octopus, Orca,
  Q-Chem, Turbomole, Yambo), to perform TD-DFT calculations of transition energies, gradients and densities both in gas and
  in condensed phases, using continuum models for the latter. Below, is a short FAQ intended to beginners.
-
-#---------------------------------------------------------------------------------------------------------------------------------
