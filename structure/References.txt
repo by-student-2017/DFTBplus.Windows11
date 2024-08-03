@@ -79,6 +79,7 @@
 - [O21] Y. Gao et al., Chem. Phys. 573 (2023) 112006 (https://doi.org/10.1016/j.chemphys.2023.112006) (ORCA 5.0.2 program)
 - [O22] G. Farias et al., Dalton Trans., 2022,51, 1008-1018 (https://doi.org/10.1039/D1DT03912A) (Orca 5.0)
 - [O23] Y Zhang et al., Inorg. Chem. 2024, 63, 20, 9002-9013 (https://doi.org/10.1021/acs.inorgchem.4c00365) (ORCA 5.0 program suite)
+- [O24] D. Majumdar et al., J. Mol. Struct. 1179 (2019) 694-708 (https://doi.org/10.1016/j.molstruc.2018.11.010) (ORCA 3.0.3, Gaussian09 and Gauss view 5.0)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [T1] H. Ma et al., J. Am. Chem. Soc. 2019, 141, 1010-1015 (https://doi.org/10.1021/jacs.8b11224) (QM/MM model, QM=Turbomole 6.5, MM=GAFF)
 - [T2] R. Grotjahn et al., . Phys. Chem. A 2021, 125, 32, 7099-7110 (https://doi.org/10.1021/acs.jpca.1c05101) (TURBOMOLE ver.7.5)
