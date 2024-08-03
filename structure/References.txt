@@ -73,6 +73,7 @@
 - [O15] M. Ahmed et al., J. Mol. Model 30, 122 (2024) (https://doi.org/10.1007/s00894-024-05912-5) (ORCA software)
 - [O16] X.-F. Song et al., Chem. Eur. J. 28 (2022) e202201782 (https://doi.org/10.1002/chem.202201782) (ORCA 4.2.1)
 - [O17] C. A. M. Salla et al., Phys. Chem. Chem. Phys., 2023,25, 684-689 (https://doi.org/10.1039/D2CP04658J) (Orca 4.2.1)
+- [O18] D. Barman et al., J. Phys. Chem. C 2023, 127, 5, 2694-2704 (https://doi.org/10.1021/acs.jpcc.2c08479) (Orca 4.2.0 software package)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [T1] H. Ma et al., J. Am. Chem. Soc. 2019, 141, 1010-1015 (https://doi.org/10.1021/jacs.8b11224) (QM/MM model, QM=Turbomole 6.5, MM=GAFF)
 - [T2] R. Grotjahn et al., . Phys. Chem. A 2021, 125, 32, 7099-7110 (https://doi.org/10.1021/acs.jpca.1c05101) (TURBOMOLE ver. 7.5)
