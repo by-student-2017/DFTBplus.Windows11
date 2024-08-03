@@ -59,6 +59,10 @@
 - [O3] X. Wang et al., Phys. Rev. Research 4, 033147 (https://doi.org/10.1103/PhysRevResearch.4.033147) (the ORCA software package)
 - [O4] B. de Souza et al., J. Chem. Theory Comput. 2019, 15, 1896-1904 (https://doi.org/10.1021/acs.jctc.8b00841) (the ORCA software package)
 - [O5] W. Qiu et al., J. Phys. Chem. Lett. 2022, 13, 4971-4980 (https://doi.org/10.1021/acs.jpclett.2c01205) (the ORCA software package)
+- [O6] M. Geppert et al., Inorg. Chem. 2024, XXXX, XXX, XXX-XXX (https://doi.org/10.1021/acs.inorgchem.4c01023) (ORCA 5.0.4 software package)
+- [O7] I. S.-Diaz et al., Inorg. Chem. 2021, 60, 17, 13222-13232 (https://doi.org/10.1021/acs.inorgchem.1c01604) (Orca 4.1.2 software)
+- [O8] S. E.-Florez et al.,  J. Phys. Chem. A 2019, 123, 30, 6496-6505 (https://doi.org/10.1021/acs.jpca.9b04492) (ORCA computational package)
+- [O9] G. Farias et al., J. Mater. Chem. C, 2020,8, 14595-14604 (https://doi.org/10.1039/D0TC03660A) (Orca 4.0.1 software package)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [T1] H. Ma et al., J. Am. Chem. Soc. 2019, 141, 1010-1015 (https://doi.org/10.1021/jacs.8b11224) (QM/MM model, QM=Turbomole 6.5, MM=GAFF)
 - [T2] R. Grotjahn et al., . Phys. Chem. A 2021, 125, 32, 7099-7110 (https://doi.org/10.1021/acs.jpca.1c05101) (TURBOMOLE ver. 7.5)
@@ -75,6 +79,12 @@
 - [U10] M. T. do Casal et al., Phys. Chem. Chem. Phys., 2022,24, 23279-23288 (https://doi.org/10.1039/D2CP03533B) (GAMESS-US 2019 R2)
 - [U11] B. F. Minaev et al., J. Phys. Chem. A 2015, 119, 10, 1948-1956 (https://doi.org/10.1021/acs.jpca.5b00394) (Firefly and Gamess-Us)
 - [U12] M. D'Alessandro et al.,  J. Phys. Chem. C 2013, 117, 27, 13785-13797 (https://doi.org/10.1021/jp401173s) (Gamess US)
+- [U13] I. Knysh et al., J. Mater. Chem. C, 2021,9, 15820-15830 (https://doi.org/10.1039/D1TC03316F) (GAMESS US code and MOLPRO)
+- [U14] Z. Quan et al., J. Phys. Chem. A 2024, 128, 28, 5659-5667 (https://doi.org/10.1021/acs.jpca.4c03461) 
+  The (TD) DFT, MRSF-DFT, and MS-CASPT2 calculations were completed by Gaussian 16, GAMESS-US, and Molcas 8.2. The spin density isosurfaces were drawn using Multiwfn.
+- [U15] R. R. Valiev et al., Phys. Chem. Chem. Phys., 2018,20, 6121-6133 (https://doi.org/10.1039/C7CP08703A) (GAMESS-US)
+- [U16] S. Pi et al., J. Phys. Chem. A 2022, 126, 38, 6604-6616 (https://doi.org/10.1021/acs.jpca.2c04311) 
+  The (TD) DFT, SF-TD DFT, and multi-reference computations were performed using Gaussian 16, GAMESS US, and MOLCAS 8.0, respectively.
 #---------------------------------------------------------------------------------------------------------------------------------
 - [X1] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w) (xTB code) (Open Access)
 - [X2] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
@@ -84,6 +94,7 @@
 - [SI1] S. JK. M. Nalluri et al., J. Am. Chem. Soc. 2019, 141, 3, 1290-1303 (https://doi.org/10.1021/jacs.8b11201) (CIF file)
 - [SI2] H. Gao et al., https://doi.org/10.1002/adom.202400619 (CIF file)
 - [SI3] M. Graf et al., Inorganica Chimica Acta 527 (2021) 120554 (https://doi.org/10.1016/j.ica.2021.120554) (CCDC)
+- [SI4] O. Kotova et al., J. Photochem. Photobio. A 218 (2011) 117-129 (https://doi.org/10.1016/j.jphotochem.2010.12.011) (CCDC)
 - [FG1] F. Plasser et al., Theor Chem Acc 131, 1073 (2012) (https://doi.org/10.1007/s00214-011-1073-y) (Fig.1)
   llustration of photodynamical processes occurring on ground and excited potential energy curves of a molecule. PA photoabsorption, ISC Intersystem crossing, IC internal conversion, Fl Fluorescence, Ph Phosphorescence.
   PA(fs), FI(ns), Ph(ms), IC(ps)
