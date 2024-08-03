@@ -69,6 +69,9 @@
 - [U4] B. Zhi et al., Chem. Sci., 2021, 12, 2441-2455 (10.1039/D0SC05743F) (GAMESS-US code)
 - [U5] I. Soldevilla et al., J. Mater. Chem. C, 2022,10, 4894-4904 (https://doi.org/10.1039/D1TC04905D) (GAMESS-US code)
 - [U6] A. I. Martynov et al., Phys. Chem. Chem. Phys., 2020,22, 25243-25254 (https://doi.org/10.1039/D0CP03065A) (GAMESS US version 30 September 2018 (R3))
+- [U7] A. Kadashchuk et al., J. Phys. Chem. C 2014, 118, 40, 22923-22934 (https://doi.org/10.1021/jp506959m) (GAMESS-US computer program)
+- [U8] T. Zeng et al., J. Phys. Chem. Lett. 2018, 9, 11, 2919-2927 (https://doi.org/10.1021/acs.jpclett.8b01226) (GAMESS-US and T2 Hessian calculations = ORCA)
+- [U9] E Epifanovsky et al., J. Chem. Theory Comput. 2009, 5, 7, 1895-1906 (https://doi.org/10.1021/ct900143j) (PC GAMESS version of the GAMESS(US))
 #---------------------------------------------------------------------------------------------------------------------------------
 - [X1] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w) (xTB code) (Open Access)
 - [X2] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
