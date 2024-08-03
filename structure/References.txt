@@ -8,6 +8,7 @@
 - [C7] S. Hu et al., Inorg. Chem. Front., 2023, 10, 3706-3713 (https://doi.org/10.1039/D3QI00549F) (CP2k)
 - [C8] J. Guo et al., Nat Commun 15, 139 (2024) (https://doi.org/10.1038/s41467-023-43700-6) (CP2k) (Open Access)
 - [C9] R. R. Ramazanov et al., J. Phys. Chem. Lett. 2016, 7, 18, 3560-3566 (https://doi.org/10.1021/acs.jpclett.6b01672) (QM=CP2k, MM=AMBER)
+- [C10] S. Theivendran et al., J. Phys. Chem. C 2018, 122, 8, 4524-4531 (https://doi.org/10.1021/acs.jpcc.8b00556) (CP2k)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [D1] A. D.-Castro et al., Nanoscale, 2021, 13, 6786-6797 (10.1039/D1NR00213A ) (DFTB+)
 - [D2] J. Hoche et al., Chem. Sci., 2021, 12, 11965-11975 (10.1039/D1SC03214C) (DFTB+)
@@ -38,6 +39,7 @@
 - [N3] A. Schinabeck et al., Chem. Mater. 2019, 31, 12, 4392-4404 (https://doi.org/10.1021/acs.chemmater.9b00671) (NWChem 6.5 code)
 - [N4] M. A. Zwijnenburg, J. Phys. Chem. C 2012, 116, 38, 20191-20198 (https://doi.org/10.1021/jp305146p) (NWChem 6.0)
 - [N5] D.-C. Sergentu et al., Phys. Chem. Chem. Phys., 2014, 16, 25393-25403 (10.1039/C4CP03277B) (NWChem release 6.1.1)
+- [N6] R. Scholz et al., J. Phys. Chem. A 2020, 124, 8, 1535-1553 (https://doi.org/10.1021/acs.jpca.9b11083) (NWChem)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [O1] L. Lv et al., Phys. Chem. Chem. Phys., 2018, 20, 6548-6561 (10.1039/C7CP08264A) (the ORCA software package)
 - [O2] L. Lv et al., ACS Omega 2022, 7, 8, 7380-7392 (https://doi.org/10.1021/acsomega.2c00036) (the ORCA software package)
