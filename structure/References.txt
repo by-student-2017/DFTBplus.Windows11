@@ -40,6 +40,13 @@
 - [N4] M. A. Zwijnenburg, J. Phys. Chem. C 2012, 116, 38, 20191-20198 (https://doi.org/10.1021/jp305146p) (NWChem 6.0)
 - [N5] D.-C. Sergentu et al., Phys. Chem. Chem. Phys., 2014, 16, 25393-25403 (10.1039/C4CP03277B) (NWChem release 6.1.1)
 - [N6] R. Scholz et al., J. Phys. Chem. A 2020, 124, 8, 1535-1553 (https://doi.org/10.1021/acs.jpca.9b11083) (NWChem)
+- [N7] H. Yersin et al., Chem. Mater. 2019, 31, 16, 6110-6116 (https://doi.org/10.1021/acs.chemmater.9b01168) (NWChem)
+- [N8] M. Klein et al., Chem. Mater. 2020, 32, 24, 10365-10382 (https://doi.org/10.1021/acs.chemmater.0c02683) (NWChem 6.6 and Orca 3.0.3)
+- [N9] E. Berardo et al., J. Chem. Theory Comput. 2014, 10, 12, 5538-5548 (https://doi.org/10.1021/ct500787x) (NWChem 6.3 code)
+- [N10] D. Jacquemin et al., J. Chem. Theory Comput. 2017, 13, 2, 767-783 (https://doi.org/10.1021/acs.jctc.6b01169) (NWChem)
+- [N11] A. Schinabeck et al., J. Phys. Chem. Lett. 2018, 9, 11, 2848-2856 (https://doi.org/10.1021/acs.jpclett.8b00957) (NWChem 6.5 code)
+- [N12] L. Kunze et al., ChemRix 2024 (https://doi.org/10.26434/chemrxiv-2024-v8mmt) (NWChem program version 7.2.2)
+- [N13] N. K. Swenson et al., J. Phys. Chem. C 2016, 120, 12, 6859-6868 (https://doi.org/10.1021/acs.jpcc.5b12770) (NWChem 6.5)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [O1] L. Lv et al., Phys. Chem. Chem. Phys., 2018, 20, 6548-6561 (10.1039/C7CP08264A) (the ORCA software package)
 - [O2] L. Lv et al., ACS Omega 2022, 7, 8, 7380-7392 (https://doi.org/10.1021/acsomega.2c00036) (the ORCA software package)
@@ -69,4 +76,11 @@
 - Newton-X (open source): https://newtonx.org/, https://en.wikipedia.org/wiki/Newton-X, https://www.youtube.com/user/mbarbatti, 
 - [PA1] W. Li et al., Nanoscale, 2021, 13, 10239-10265 (10.1039/D1NR01990B)
 - PYXAID: https://quantum-dynamics-hub.github.io/pyxaid/index.html
+#---------------------------------------------------------------------------------------------------------------------------------
+The calculations of excited-state properties with Time-Dependent Density Functional Theory
+Carlo Adamo and Denis Jacquemin
+DOI: 10.1039/C2CS35394F (Tutorial Review) Chem. Soc. Rev., 2013, 42, 845-856
+There exist several free or commercial codes (non-exhaustive alphabetic list: ADF, Dalton, Gamess, Gaussian, NWChem, Octopus, Orca,
+ Q-Chem, Turbomole, Yambo), to perform TD-DFT calculations of transition energies, gradients and densities both in gas and
+ in condensed phases, using continuum models for the latter. Below, is a short FAQ intended to beginners.
 #---------------------------------------------------------------------------------------------------------------------------------
