@@ -7,6 +7,7 @@
 - [C6] M. Yu et al., Inorg. Chem. 2024, 63, 1, 369-380 (https://doi.org/10.1021/acs.inorgchem.3c03271) (CP2k)
 - [C7] S. Hu et al., Inorg. Chem. Front., 2023, 10, 3706-3713 (https://doi.org/10.1039/D3QI00549F) (CP2k)
 - [C8] J. Guo et al., Nat Commun 15, 139 (2024) (https://doi.org/10.1038/s41467-023-43700-6) (CP2k) (Open Access)
+- [C9] R. R. Ramazanov et al., J. Phys. Chem. Lett. 2016, 7, 18, 3560-3566 (https://doi.org/10.1021/acs.jpclett.6b01672) (QM=CP2k, MM=AMBER)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [D1] A. D.-Castro et al., Nanoscale, 2021, 13, 6786-6797 (10.1039/D1NR00213A ) (DFTB+)
 - [D2] J. Hoche et al., Chem. Sci., 2021, 12, 11965-11975 (10.1039/D1SC03214C) (DFTB+)
