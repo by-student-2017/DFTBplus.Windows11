@@ -106,6 +106,7 @@
 - [SI2] H. Gao et al., https://doi.org/10.1002/adom.202400619 (CIF file)
 - [SI3] M. Graf et al., Inorganica Chimica Acta 527 (2021) 120554 (https://doi.org/10.1016/j.ica.2021.120554) (CCDC)
 - [SI4] O. Kotova et al., J. Photochem. Photobio. A 218 (2011) 117-129 (https://doi.org/10.1016/j.jphotochem.2010.12.011) (CCDC)
+- [SI5] H. C. Braga et al., Dyes and Pigments 117 (2015) 149-156 (https://doi.org/10.1016/j.dyepig.2015.02.012) (CCDC)
 - [FG1] F. Plasser et al., Theor Chem Acc 131, 1073 (2012) (https://doi.org/10.1007/s00214-011-1073-y) (Fig.1)
   llustration of photodynamical processes occurring on ground and excited potential energy curves of a molecule. PA photoabsorption, ISC Intersystem crossing, IC internal conversion, Fl Fluorescence, Ph Phosphorescence.
   PA(fs), FI(ns), Ph(ms), IC(ps)
