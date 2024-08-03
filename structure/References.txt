@@ -74,6 +74,7 @@
 - [U9] E Epifanovsky et al., J. Chem. Theory Comput. 2009, 5, 7, 1895-1906 (https://doi.org/10.1021/ct900143j) (PC GAMESS version of the GAMESS(US))
 - [U10] M. T. do Casal et al., Phys. Chem. Chem. Phys., 2022,24, 23279-23288 (https://doi.org/10.1039/D2CP03533B) (GAMESS-US 2019 R2)
 - [U11] B. F. Minaev et al., J. Phys. Chem. A 2015, 119, 10, 1948-1956 (https://doi.org/10.1021/acs.jpca.5b00394) (Firefly and Gamess-Us)
+- [U12] M. D'Alessandro et al.,  J. Phys. Chem. C 2013, 117, 27, 13785-13797 (https://doi.org/10.1021/jp401173s) (Gamess US)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [X1] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w) (xTB code) (Open Access)
 - [X2] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
