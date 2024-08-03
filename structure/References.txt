@@ -4,7 +4,8 @@
 - [C3] M. Buyuktemiz et al., J. Org. Chem. 2021, 86, 6, 4547-4556 (https://doi.org/10.1021/acs.joc.0c02976) (CP2k ver.4.1)
 - [C4] K. Ostrowska et al., Cryst. Growth Des. 2022, 22, 3, 1571-1582 (https://doi.org/10.1021/acs.cgd.1c00947) (CP2k)
 - [C5] E. K. Pylova et al., CrystEngComm, 2022,24, 8256-8265 (https://doi.org/10.1039/D2CE01215D) (CP2K v. 8.1 package)
-- [C6] M. Yu et al.,  Inorg. Chem. 2024, 63, 1, 369-380 (https://doi.org/10.1021/acs.inorgchem.3c03271) (CP2k)
+- [C6] M. Yu et al., Inorg. Chem. 2024, 63, 1, 369-380 (https://doi.org/10.1021/acs.inorgchem.3c03271) (CP2k)
+- [C7] S. Hu et al., Inorg. Chem. Front., 2023, 10, 3706-3713 (https://doi.org/10.1039/D3QI00549F) (CP2k)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [D1] A. D.-Castro et al., Nanoscale, 2021, 13, 6786-6797 (10.1039/D1NR00213A ) (DFTB+)
 - [D2] J. Hoche et al., Chem. Sci., 2021, 12, 11965-11975 (10.1039/D1SC03214C) (DFTB+)
