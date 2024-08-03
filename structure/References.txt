@@ -74,9 +74,14 @@
 - [O16] X.-F. Song et al., Chem. Eur. J. 28 (2022) e202201782 (https://doi.org/10.1002/chem.202201782) (ORCA 4.2.1)
 - [O17] C. A. M. Salla et al., Phys. Chem. Chem. Phys., 2023,25, 684-689 (https://doi.org/10.1039/D2CP04658J) (Orca 4.2.1)
 - [O18] D. Barman et al., J. Phys. Chem. C 2023, 127, 5, 2694-2704 (https://doi.org/10.1021/acs.jpcc.2c08479) (Orca 4.2.0 software package)
+- [O19] K. Dhbaibi et al., J. Phys. Chem. Lett. 2023, 14, 4, 1073-1081 (https://doi.org/10.1021/acs.jpclett.2c03831) (ORCA program)
+- [O20] M. Moral et al., J. Chem. Theory Comput. 2015, 11, 1, 168-177 (https://doi.org/10.1021/ct500957s) (ORCA 3.0.0 quantum-chemical package)
+- [O21] Y. Gao et al., Chem. Phys. 573 (2023) 112006 (https://doi.org/10.1016/j.chemphys.2023.112006) (ORCA 5.0.2 program)
+- [O22] G. Farias et al., Dalton Trans., 2022,51, 1008-1018 (https://doi.org/10.1039/D1DT03912A) (Orca 5.0)
+- [O23] Y Zhang et al., Inorg. Chem. 2024, 63, 20, 9002-9013 (https://doi.org/10.1021/acs.inorgchem.4c00365) (ORCA 5.0 program suite)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [T1] H. Ma et al., J. Am. Chem. Soc. 2019, 141, 1010-1015 (https://doi.org/10.1021/jacs.8b11224) (QM/MM model, QM=Turbomole 6.5, MM=GAFF)
-- [T2] R. Grotjahn et al., . Phys. Chem. A 2021, 125, 32, 7099-7110 (https://doi.org/10.1021/acs.jpca.1c05101) (TURBOMOLE ver. 7.5)
+- [T2] R. Grotjahn et al., . Phys. Chem. A 2021, 125, 32, 7099-7110 (https://doi.org/10.1021/acs.jpca.1c05101) (TURBOMOLE ver.7.5)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [U1] D. Blasco et al., Phys. Chem. Chem. Phys., 2024, 26, 5922-5931 (10.1039/D3CP05242G ) (GAMESS-US)
 - [U2] A. Y. Freidzon et al., J. Phys. Chem. A 2020, 124, 39, 7927-7934 (https://doi.org/10.1021/acs.jpca.0c06440) (GAMESS-US code)
