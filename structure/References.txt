@@ -62,4 +62,6 @@
   PA(fs), FI(ns), Ph(ms), IC(ps)
 - [NX1] M. Barbatti et al., J. Chem. Theory Comput. 2022, 18, 11, 6851-6865 (https://doi.org/10.1021/acs.jctc.2c00804) (Open Access)
 - Newton-X (open source): https://newtonx.org/, https://en.wikipedia.org/wiki/Newton-X, https://www.youtube.com/user/mbarbatti, 
+- [PA1] W. Li et al., Nanoscale, 2021, 13, 10239-10265 (10.1039/D1NR01990B)
+- PYXAID: https://quantum-dynamics-hub.github.io/pyxaid/index.html
 #---------------------------------------------------------------------------------------------------------------------------------
