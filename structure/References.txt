@@ -56,6 +56,7 @@
 #---------------------------------------------------------------------------------------------------------------------------------
 - [TH1] T. Suenobu et al., J. Phys. Chem. A 2020, 124, 1, 46-55 (https://doi.org/10.1021/acs.jpca.9b09846) (Supporting Information)
 - [SI1] S. JK. M. Nalluri et al., J. Am. Chem. Soc. 2019, 141, 3, 1290-1303 (https://doi.org/10.1021/jacs.8b11201) (CIF file)
+- [SI2] H. Gao et al., https://doi.org/10.1002/adom.202400619 (CIF file)
 - [FG1] F. Plasser et al., Theor Chem Acc 131, 1073 (2012) (https://doi.org/10.1007/s00214-011-1073-y) (Fig.1)
   llustration of photodynamical processes occurring on ground and excited potential energy curves of a molecule. PA photoabsorption, ISC Intersystem crossing, IC internal conversion, Fl Fluorescence, Ph Phosphorescence.
   PA(fs), FI(ns), Ph(ms), IC(ps)
