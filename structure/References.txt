@@ -67,6 +67,7 @@
 - [U2] A. Y. Freidzon et al., J. Phys. Chem. A 2020, 124, 39, 7927-7934 (https://doi.org/10.1021/acs.jpca.0c06440) (GAMESS-US code)
 - [U3] C. Camacho et al., Chem. Sci., 2013, 4, 187-195 (10.1039/C2SC20878D) (GAMESS quantum chemistry package)
 - [U4] B. Zhi et al., Chem. Sci., 2021, 12, 2441-2455 (10.1039/D0SC05743F) (GAMESS-US code)
+- [U5] I. Soldevilla et al., 	J. Mater. Chem. C, 2022,10, 4894-4904 (https://doi.org/10.1039/D1TC04905D) (GAMESS-US code)
 #---------------------------------------------------------------------------------------------------------------------------------
 - [X1] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w) (xTB code) (Open Access)
 - [X2] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
