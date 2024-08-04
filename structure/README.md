@@ -126,6 +126,9 @@
 - [O49] X. Fu et al., ChemRixv (2024) (10.26434/chemrxiv-2024-dfv2d) (ORCA)
 - [O50] M. L.-Espejel et al., J. Mater. Chem. B, 2021,9, 7698-7712 (https://doi.org/10.1039/D1TB01405F) (ORCA 4.2 package)
 - [O51] R. B.-Pache et al., J. Chem. Theory Comput. 2020, 16, 1, 564-575 (https://doi.org/10.1021/acs.jctc.9b00559) (ORCA 4.1 suite of programs)
+- [O52] Y.-Y. Liu et al., Dalton Trans., 2011,40, 5926-5938 (https://doi.org/10.1039/C0DT01750G) (ORCA 2.7 software)
+- [O53] R. C. Silva et al., Dalton Trans., 2024,53, 5466-5477 (https://doi.org/10.1039/D3DT02531D) (ORCA package 5.0.3) (python script)
+- [O54] J. Yan et al., Inorg. Chem. Front., 2024,11, 2413-2426 (https://doi.org/10.1039/D4QI00454J) (ORCA)
 
 
 ## Turbomole
