@@ -135,6 +135,11 @@
 - [O57] Y. Zhang et al., Chem. Eur. J. 25 (2019) 3042-3052 (https://doi.org/10.1002/chem.201804671) (ORCA program package) (ORCA input file (solvent: COSMO))
 - [O58] C. G.-Iriepa et al., Materials 2017, 10(9), 1025 (https://doi.org/10.3390/ma10091025) (ORCA 3, etc)
 - [O59] S. Ullmann et al., Dalton Trans., 2018,47, 5801-5811 (https://doi.org/10.1039/C8DT00757H) (ORCA (PBE0/TZV(P)))
+- [O60] D. M. Mayder et al., Chem. Mater. 2022, 34, 6, 2624-2635 (https://doi.org/10.1021/acs.chemmater.1c03870) (Gaussian 16 Rev. B.01 or Orca 4.2.1 computational packages)
+- [O61] G. D. Gutierrez et al., J. Org. Chem. 2016, 81, 11, 4789-4796 (https://doi.org/10.1021/acs.joc.6b00789) (ORCA software package)
+- [O62] X. Zhang et al., Chem. Sci., 2023,14, 5014-5027 (https://doi.org/10.1039/D3SC00854A) (ORCA programs)
+- [O63] A. Soupart et al., Theor. Chem. Acc. 137, 37 (2018) (https://doi.org/10.1007/s00214-018-2216-1) (ORCA)
+- [O64] Y.-J. Ma et al., Inorg. Chem. 2022, 61, 41, 16477-16483 (https://doi.org/10.1021/acs.inorgchem.2c02750) (ORCA package (version 5.0.3) software)
 
 
 ## Turbomole
