@@ -187,6 +187,7 @@
 - [U15] R. R. Valiev et al., Phys. Chem. Chem. Phys., 2018,20, 6121-6133 (https://doi.org/10.1039/C7CP08703A) (GAMESS-US)
 - [U16] S. Pi et al., J. Phys. Chem. A 2022, 126, 38, 6604-6616 (https://doi.org/10.1021/acs.jpca.2c04311) 
   The (TD) DFT, SF-TD DFT, and multi-reference computations were performed using Gaussian 16, GAMESS US, and MOLCAS 8.0, respectively.
+- [U17] W. Jeong et al., J. Chem. Theory Comput. 2021, 17, 12, 7518-7530 (https://doi.org/10.1021/acs.jctc.1c00769) (GAMESS-US)
 
 
 ## xTB

@@ -3,3 +3,6 @@ https://www.faccts.de/docs/orca/5.0/tutorials/first_steps/input_output.html
 #---------------------------------------------------------------------
 https://pc-chem.info/programs/440 (Japanese)
 #---------------------------------------------------------------------
+other informations
+https://doi.org/10.11370/isj.54.587 (https://www.jstage.jst.go.jp/article/isj/54/6/54_587/_pdf/-char/ja)
+#---------------------------------------------------------------------
