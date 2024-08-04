@@ -102,6 +102,29 @@
    All EOM-CCSD and CCSD calculations were carried out with Q-Chem 5.0. On the other hand, ORCA (version 4.0.1) was used for DLPNO-CCSD(T) calculations with “TightPNO” threshold, recommended for noncovalent interactions.
 - [O28] A. A. Adeniyi et al., J. Mol. Model 30, 109 (2024) (https://doi.org/10.1007/s00894-024-05881-9) (Orca 4.2)
 - [O29] M. J. Percono et al., Cryst. Eng. Comm., 2014,16, 8591-8604 (https://doi.org/10.1039/C4CE00327F) (ORCA program)
+- [O30] T. Francese et al., Phys. Chem. Chem. Phys., 2022,24, 10101-10113 (https://doi.org/10.1039/D2CP01147F) (Orca v.4.2.1)
+- [O31] D. A. Lazovskiy et al., Dalton. Trans., 2022,51, 5687-5698 (https://doi.org/10.1039/D2DT00307D) (Orca v.4.2.1 software package)
+- [O32] L. Lv et al., J. Mater. Chem. C, 2020,8, 10369-10381 (https://doi.org/10.1039/D0TC02235G) (Orca 4.2.1 program package)
+- [O33] H. Matsuoka et al., J. Am. Chem. Soc. 2017, 139, 37, 12968-12975 (https://doi.org/10.1021/jacs.7b04561) (ORCA software package)
+- [O34] X.-F. Song et al., 	Phys. Chem. Chem. Phys., 2023,25, 29603-29613 (https://doi.org/10.1039/D3CP03444E) (ORCA 5.0.1 software)
+- [O35] A. Omist et al., Phys. Chem. Chem. Phys., 2021,23, 24016-24028 (https://doi.org/10.1039/D1CP03232A)
+ The ORCA 4.0 package was used for the FT-DFT, (TD-)DFT, SA-CASSCF, and SC-NEVPT2 calculations, with CIS, CIS(D), (SCS-)CC2 carried out with the TURBOMOLE 7.4 package, and SF-TD-DFT with the Q-CHEM 5.4 package.
+- [O36] H. Kurz et al., Chem. Eur. J. 27 (2021) 15159-15171 (https://doi.org/10.1002/chem.202102086) (ORCA program package)
+- [O37] G. K. Weragoda et al., J. Phys. Chem. A 2023, 127, 12, 2765-2778 (https://doi.org/10.1021/acs.jpca.3c00543) (ORCA 4.2.1)
+- [O38] L. Kunze et al., J. Phys. Chem. Lett. 2024, 15, XXX, 8065-8077 (https://doi.org/10.1021/acs.jpclett.4c01649) ()
+ Several different programs were used throughout this study, including the Q-Chem program version 5.4.2 (for all ΔUKS, ΔROKS, ΔCC, and TDA-DFT excited-state calculations), the ORCA program version 5.0.4 (for all DFT ground-state geometry optimizations), the MRCC program (for all single-reference correlated WFT calculations, mainly LR-CC2), the NWChem program version 7.2.2 with the Tensor Contraction Engine (for all multireference correlated WFT calculations), and the DALTON program version 2020.1 (for LR-CC3 calculations). 
+- [O39] L. Lv et al., RSC Adv., 2024,14, 23987-23999 (https://doi.org/10.1039/D4RA03566F) (ORCA 5.0.4 program)
+- [O40] M. Gernert et al., Chem. Eur. J. 10 (2017) 2206-2216 (https://doi.org/10.1002/chem.201605412) (ORCA 3.0.2 program suite)
+- [O41] R. Shafei et al., J. Chem. Phys. 159, 084102 (2023) (https://doi.org/10.1063/5.0153742) (ORCA 5.0 suite of programs and ADF2019 package) (ORCA input file)
+- [O42] P. Pander et al., Chem. Sci., 2023,14, 13934-13943 (https://doi.org/10.1039/D3SC04450E) (Orca)
+- [O43] M. A. T.-Suarez et al., Quantum Chem. 5 (2020) e26083 (https://doi.org/10.1002/qua.26083) (ORCA 4.0 code)
+- [O44] B. Ventura et al., Chem. Eur. J. 29 (2023) e202301853 (https://doi.org/10.1002/chem.202301853) (ORCA 5.0 software package) (Open Access)
+- [O45] L. Lv et al., Org. Electron. 51 (2017) 207-219 (https://doi.org/10.1016/j.orgel.2017.09.017) (ORCA package)
+- [O46] A. Baschieri et al., norg. Chem. 2023, 62, 5, 2456-2469 (https://doi.org/10.1021/acs.inorgchem.2c04449) (ORCA 5.0.3)
+- [O47] J. Zhang et al., J. Mater. Chem. C, 2022,10, 4795-4804 (https://doi.org/10.1039/D1TC04903H) (ORCA 4.2.1 program)
+- [O48] T. Rozic et al., J. Phys. Chem. A 2022, 126, 7, 1094-1102 (https://doi.org/10.1021/acs.jpca.1c09256) (ORCA 4.2)
+- [O49] X. Fu et al., ChemRixv (2024) (10.26434/chemrxiv-2024-dfv2d) (ORCA)
+- [O50] M. L.-Espejel et al., J. Mater. Chem. B, 2021,9, 7698-7712 (https://doi.org/10.1039/D1TB01405F) (ORCA 4.2 package)
 
 
 ## Turbomole
