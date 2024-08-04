@@ -13,6 +13,7 @@
 
 ## Solvent
 - COSMO or SASA: https://dftbplus.org/documentation.html
+- Note: -> Solvation models do not work with linear response yet. (ver.24.1)
 
 ## xTB
 - Github: https://github.com/grimme-lab/xtb
