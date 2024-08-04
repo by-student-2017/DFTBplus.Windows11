@@ -140,6 +140,21 @@
 - [O62] X. Zhang et al., Chem. Sci., 2023,14, 5014-5027 (https://doi.org/10.1039/D3SC00854A) (ORCA programs)
 - [O63] A. Soupart et al., Theor. Chem. Acc. 137, 37 (2018) (https://doi.org/10.1007/s00214-018-2216-1) (ORCA)
 - [O64] Y.-J. Ma et al., Inorg. Chem. 2022, 61, 41, 16477-16483 (https://doi.org/10.1021/acs.inorgchem.2c02750) (ORCA package (version 5.0.3) software)
+- [O65] M. Yoshinaga et al., J. Phys. Chem. B 2021, 125, 31, 8932-8943 (https://doi.org/10.1021/acs.jpcb.1c05463) (ORCA program package)
+- [O66] N. Xu et al., Phys. Chem. Chem. Phys., 2021,23, 17402-17407 (https://doi.org/10.1039/D1CP03160K) (ORCA 4.2.1)
+- [O67] J. C. S.-Garcia et al., J. Chem. Phys. 156, 034105 (2022) (https://doi.org/10.1063/5.0076545) (ORCA 5.0 package)
+- [O68] B. Walls et al., J. Phys. Chem. Lett. 2022, 13, 35, 8312-8318 (https://doi.org/10.1021/acs.jpclett.2c02287) (ORCA 5.0.2 package)
+- [O69] A. G. Nair et al., ChemPhysChem 24 (2023) e202300445 (https://doi.org/10.1002/cphc.202300445) (ORCA 4.1.2)
+- [O70] M. Hempe et al., J. Org. Chem. 2021, 86, 1, 429-445 (https://doi.org/10.1021/acs.joc.0c02174) (Orca package)
+- [O71] K. Veys et al., J. Chem. Theory Comput. 2023, 19, 24, 9344-9357 (https://doi.org/10.1021/acs.jctc.3c00931) (ORCA) (python script)
+- [O72] A. Ruduss et al., Phys. Chem. Chem. Phys., 2023,25, 3220-3231 (https://doi.org/10.1039/D2CP05237G) (Orca program package)
+- [O73] R. J. Ortiz et al., Inorg. Chem. 2021, 60, 22, 16881-16894 (https://doi.org/10.1021/acs.inorgchem.1c02551) (ORCA version 4.1.2)
+- [O74] S. J. P. Marlton et al., J. Chem. Phys. 155, 184302 (2021) (https://doi.org/10.1063/5.0071847) (ORCA/4.2.1 package)
+- [O75] Y. Xu et al., J. Phys. Chem. A 2024, 128, 19, 3830-3839 (https://doi.org/10.1021/acs.jpca.4c01260) (ORCA 5.0 program package) (ORCA input)
+- [O76] A. Sirohiwal et al., J. Chem. Theory Comput. 2021, 17, 3, 1858-1873 (https://doi.org/10.1021/acs.jctc.0c01152) (ORCA package )
+- [O77] H. C. London et al., norg. Chem. 2022, 61, 28, 10986-10998 (https://doi.org/10.1021/acs.inorgchem.2c01746) (ORCA 4.2.1)
+- [O78] A. Tigreros et al., Eur. J. Org. Chem. 26 (2023) e202300089 (https://doi.org/10.1002/ejoc.202300089) (ORCA 5.0.3)
+- [O79] H. Liu et al., 	J. Mater. Chem. C, 2021,9, 2738-2743 (https://doi.org/10.1039/D0TC05468B) (ORCA)
 
 
 ## Turbomole
@@ -185,6 +200,7 @@
 - [SI3] M. Graf et al., Inorganica Chimica Acta 527 (2021) 120554 (https://doi.org/10.1016/j.ica.2021.120554) (CCDC)
 - [SI4] O. Kotova et al., J. Photochem. Photobio. A 218 (2011) 117-129 (https://doi.org/10.1016/j.jphotochem.2010.12.011) (CCDC)
 - [SI5] H. C. Braga et al., Dyes and Pigments 117 (2015) 149-156 (https://doi.org/10.1016/j.dyepig.2015.02.012) (CCDC)
+- [SI6] R. Mahaan et al., ChemPhotoChem 8 (2024) e202300211 (https://doi.org/10.1002/cptc.202300211)
 - [FG1] F. Plasser et al., Theor Chem Acc 131, 1073 (2012) (https://doi.org/10.1007/s00214-011-1073-y) (Fig.1)
   llustration of photodynamical processes occurring on ground and excited potential energy curves of a molecule. PA photoabsorption, ISC Intersystem crossing, IC internal conversion, Fl Fluorescence, Ph Phosphorescence.
   PA(fs), FI(ns), Ph(ms), IC(ps)

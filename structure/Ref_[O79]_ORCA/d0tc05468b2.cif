@@ -1,0 +1,5094 @@
+# Electronic Supplementary Material (ESI) for Journal of Materials Chemistry C.
+# This journal is © The Royal Society of Chemistry 2021
+
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_1
+_database_code_depnum_ccdc_archive 'CCDC 2045679'
+loop_
+_audit_author_name
+_audit_author_address
+'hao liu'
+;Jilin university
+China
+;
+_audit_update_record             
+;
+2020-11-21 deposited with the CCDC.	2021-01-11 downloaded from the CCDC.
+;
+_audit_creation_date             2020-11-21
+_audit_creation_method           
+;
+Olex2 1.2
+(compiled 2017.03.28 svn.r3405 for OlexSys, GUI svn.r5337)
+;
+_shelx_SHELXL_version_number     2016/6
+_chemical_name_common            ?
+_chemical_name_systematic        ?
+_chemical_formula_moiety         'C20 H12 Br2 F2 N2 O2'
+_chemical_formula_sum            'C20 H12 Br2 F2 N2 O2'
+_chemical_formula_weight         510.14
+_chemical_melting_point          ?
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+C C 0.0033 0.0016 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+H H 0.0000 0.0000 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Br Br -0.2901 2.4595 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+F F 0.0171 0.0103 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+N N 0.0061 0.0033 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+O O 0.0106 0.0060 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+
+_shelx_space_group_comment       
+;
+The symmetry employed for this shelxl refinement is uniquely defined
+by the following loop, which should always be used as a source of
+symmetry information in preference to the above space-group names.
+They are only intended as comments.
+;
+_space_group_crystal_system      monoclinic
+_space_group_IT_number           14
+_space_group_name_H-M_alt        'P 1 21/c 1'
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_space_group_symop_operation_xyz
+'x, y, z'
+'-x, y+1/2, -z+1/2'
+'-x, -y, -z'
+'x, -y-1/2, z-1/2'
+
+_cell_length_a                   4.9455(14)
+_cell_length_b                   20.946(6)
+_cell_length_c                   8.884(3)
+_cell_angle_alpha                90
+_cell_angle_beta                 90.940(12)
+_cell_angle_gamma                90
+_cell_volume                     920.2(5)
+_cell_formula_units_Z            2
+_cell_measurement_reflns_used    3233
+_cell_measurement_temperature    150(2)
+_cell_measurement_theta_max      26.00
+_cell_measurement_theta_min      3.01
+_shelx_estimated_absorpt_T_max   ?
+_shelx_estimated_absorpt_T_min   ?
+_exptl_absorpt_coefficient_mu    4.444
+_exptl_absorpt_correction_T_max  ?
+_exptl_absorpt_correction_T_min  ?
+_exptl_absorpt_correction_type   none
+_exptl_absorpt_process_details   ?
+_exptl_absorpt_special_details   ?
+_exptl_crystal_colour            colourless
+_exptl_crystal_colour_primary    colourless
+_exptl_crystal_density_diffrn    1.841
+_exptl_crystal_density_meas      .
+_exptl_crystal_density_method    ?
+_exptl_crystal_description       block
+_exptl_crystal_F_000             500
+_exptl_crystal_size_max          ?
+_exptl_crystal_size_mid          ?
+_exptl_crystal_size_min          ?
+_exptl_transmission_factor_max   ?
+_exptl_transmission_factor_min   ?
+_diffrn_reflns_av_R_equivalents  0.0554
+_diffrn_reflns_av_unetI/netI     0.0406
+_diffrn_reflns_Laue_measured_fraction_full 0.994
+_diffrn_reflns_Laue_measured_fraction_max 0.978
+_diffrn_reflns_limit_h_max       6
+_diffrn_reflns_limit_h_min       -6
+_diffrn_reflns_limit_k_max       27
+_diffrn_reflns_limit_k_min       -27
+_diffrn_reflns_limit_l_max       11
+_diffrn_reflns_limit_l_min       -11
+_diffrn_reflns_number            10647
+_diffrn_reflns_point_group_measured_fraction_full 0.994
+_diffrn_reflns_point_group_measured_fraction_max 0.978
+_diffrn_reflns_theta_full        25.242
+_diffrn_reflns_theta_max         27.463
+_diffrn_reflns_theta_min         3.007
+_diffrn_ambient_temperature      150.01
+_diffrn_detector_area_resol_mean ?
+_diffrn_measured_fraction_theta_full 0.994
+_diffrn_measured_fraction_theta_max 0.978
+_diffrn_measurement_device_type  'CCD area detector'
+_diffrn_measurement_method       'phi and omega scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_source                   ?
+_reflns_Friedel_coverage         0.000
+_reflns_Friedel_fraction_full    .
+_reflns_Friedel_fraction_max     .
+_reflns_number_gt                1524
+_reflns_number_total             2063
+_reflns_special_details          
+;
+ Reflections were merged by SHELXL according to the crystal
+ class for the calculation of statistics and refinement.
+ 
+ _reflns_Friedel_fraction is defined as the number of unique
+ Friedel pairs measured divided by the number that would be
+ possible theoretically, ignoring centric projections and
+ systematic absences.
+;
+_reflns_threshold_expression     'I > 2\s(I)'
+_computing_cell_refinement       'SAINT V8.38A (?, 2016)'
+_computing_data_collection       ?
+_computing_data_reduction        'SAINT V8.38A (?, 2016)'
+_computing_molecular_graphics    'Olex2 (Dolomanov et al., 2009)'
+_computing_publication_material  'Olex2 (Dolomanov et al., 2009)'
+_computing_structure_refinement  'XL (Sheldrick, 2008)'
+_computing_structure_solution    'XS (Sheldrick, 2008)'
+_refine_diff_density_max         0.625
+_refine_diff_density_min         -0.544
+_refine_diff_density_rms         0.075
+_refine_ls_extinction_coef       .
+_refine_ls_extinction_method     none
+_refine_ls_goodness_of_fit_ref   1.086
+_refine_ls_hydrogen_treatment    constr
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     127
+_refine_ls_number_reflns         2063
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_all          0.0745
+_refine_ls_R_factor_gt           0.0466
+_refine_ls_restrained_S_all      1.086
+_refine_ls_shift/su_max          0.001
+_refine_ls_shift/su_mean         0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details     
+'w=1/[\s^2^(Fo^2^)+(0.0297P)^2^+1.3849P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.0863
+_refine_ls_wR_factor_ref         0.0929
+_refine_special_details          ?
+_olex2_refinement_description    
+;
+1. Fixed Uiso
+ At 1.2 times of:
+  All C(H) groups, All N(H) groups
+2.a Aromatic/amide H refined with riding coordinates:
+ N1(H1), C6(H6), C10(H10), C12(H12), C13(H13), C15(H15)
+;
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   ?
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_site_symmetry_order
+_atom_site_calc_flag
+_atom_site_refinement_flags_posn
+_atom_site_refinement_flags_adp
+_atom_site_refinement_flags_occupancy
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+Br1 Br 0.42254(9) 0.51634(2) 0.22149(5) 0.05030(17) Uani 1 1 d . . . . .
+F1 F -0.2949(5) 0.75319(12) 0.6057(3) 0.0560(7) Uani 1 1 d . . . . .
+O1 O 0.4304(5) 0.64000(13) 0.4243(4) 0.0519(8) Uani 1 1 d . . . . .
+C4 C 0.1819(7) 0.50878(17) 0.3853(4) 0.0318(8) Uani 1 1 d . . . . .
+N1 N -0.0048(5) 0.67392(13) 0.4310(4) 0.0317(7) Uani 1 1 d . . . . .
+H1 H -0.174047 0.660966 0.430750 0.038 Uiso 1 1 calc R . . . .
+C6 C -0.0948(7) 0.55198(16) 0.5794(4) 0.0300(8) Uani 1 1 d . . . . .
+H6 H -0.159665 0.587409 0.634974 0.036 Uiso 1 1 calc R . . . .
+C7 C 0.0877(7) 0.56213(16) 0.4630(4) 0.0299(8) Uani 1 1 d . . . . .
+C8 C 0.0424(6) 0.74070(16) 0.4260(4) 0.0276(8) Uani 1 1 d . . . . .
+C9 C 0.1884(7) 0.62897(17) 0.4362(4) 0.0314(8) Uani 1 1 d . . . . .
+C10 C 0.2341(7) 0.76824(18) 0.3329(5) 0.0374(9) Uani 1 1 d . . . . .
+H10 H 0.341397 0.742204 0.269879 0.045 Uiso 1 1 calc R . . . .
+C11 C -0.1104(7) 0.78040(18) 0.5146(4) 0.0350(9) Uani 1 1 d . . . . .
+C12 C 0.1110(9) 0.8721(2) 0.4231(6) 0.0537(12) Uani 1 1 d . . . . .
+H12 H 0.135610 0.917115 0.421833 0.064 Uiso 1 1 calc R . . . .
+C13 C 0.2669(9) 0.8341(2) 0.3331(5) 0.0482(11) Uani 1 1 d . . . . .
+H13 H 0.398444 0.853075 0.270444 0.058 Uiso 1 1 calc R . . . .
+C15 C -0.0806(9) 0.8457(2) 0.5151(5) 0.0497(11) Uani 1 1 d . . . . .
+H15 H -0.189267 0.871866 0.577154 0.060 Uiso 1 1 calc R . . . .
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Br1 0.0489(3) 0.0424(2) 0.0604(3) 0.0041(2) 0.0229(2) -0.0002(2)
+F1 0.0451(13) 0.0633(16) 0.0604(16) 0.0001(13) 0.0276(12) 0.0013(12)
+O1 0.0146(12) 0.0349(15) 0.106(3) 0.0025(15) 0.0047(14) -0.0016(11)
+C4 0.0208(17) 0.0330(19) 0.042(2) 0.0027(16) 0.0036(15) 0.0024(14)
+N1 0.0138(13) 0.0287(15) 0.053(2) 0.0044(14) 0.0029(13) -0.0031(12)
+C6 0.0220(17) 0.0225(17) 0.045(2) -0.0021(16) -0.0002(16) 0.0002(13)
+C7 0.0195(17) 0.0248(17) 0.045(2) 0.0028(16) -0.0022(16) -0.0014(13)
+C8 0.0190(16) 0.0255(18) 0.038(2) 0.0049(15) -0.0015(15) -0.0017(13)
+C9 0.0214(18) 0.0305(19) 0.042(2) 0.0001(17) -0.0002(16) -0.0006(14)
+C10 0.032(2) 0.038(2) 0.043(2) 0.0052(18) 0.0053(17) -0.0061(16)
+C11 0.0275(19) 0.038(2) 0.040(2) 0.0012(18) 0.0035(16) 0.0013(16)
+C12 0.063(3) 0.030(2) 0.067(3) 0.006(2) -0.011(3) -0.008(2)
+C13 0.045(2) 0.040(2) 0.060(3) 0.016(2) -0.001(2) -0.0132(19)
+C15 0.058(3) 0.037(2) 0.055(3) -0.010(2) -0.006(2) 0.011(2)
+
+_geom_special_details            
+;
+ All esds (except the esd in the dihedral angle between two l.s. planes)
+ are estimated using the full covariance matrix.  The cell esds are taken
+ into account individually in the estimation of esds in distances, angles
+ and torsion angles; correlations between esds in cell parameters are only
+ used when they are defined by crystal symmetry.  An approximate (isotropic)
+ treatment of cell esds is used for estimating esds involving l.s. planes.
+;
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+Br1 C4 1.901(4) . ?
+F1 C11 1.355(4) . ?
+O1 C9 1.226(4) . ?
+C4 C6 1.381(5) 3_566 ?
+C4 C7 1.397(5) . ?
+N1 C8 1.419(4) . ?
+N1 C9 1.341(4) . ?
+C6 C7 1.400(5) . ?
+C7 C9 1.506(5) . ?
+C8 C10 1.393(5) . ?
+C8 C11 1.379(5) . ?
+C10 C13 1.390(5) . ?
+C11 C15 1.376(6) . ?
+C12 C13 1.374(6) . ?
+C12 C15 1.378(6) . ?
+
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+C6 C4 Br1 116.9(3) 3_566 . ?
+C6 C4 C7 121.1(3) 3_566 . ?
+C7 C4 Br1 122.0(3) . . ?
+C9 N1 C8 125.2(3) . . ?
+C4 C6 C7 121.0(3) 3_566 . ?
+C4 C7 C6 117.9(3) . . ?
+C4 C7 C9 123.5(3) . . ?
+C6 C7 C9 118.5(3) . . ?
+C10 C8 N1 122.7(3) . . ?
+C11 C8 N1 119.0(3) . . ?
+C11 C8 C10 118.3(3) . . ?
+O1 C9 N1 124.1(3) . . ?
+O1 C9 C7 121.0(3) . . ?
+N1 C9 C7 114.9(3) . . ?
+C13 C10 C8 119.4(4) . . ?
+F1 C11 C8 117.9(3) . . ?
+F1 C11 C15 119.3(3) . . ?
+C15 C11 C8 122.8(4) . . ?
+C13 C12 C15 120.7(4) . . ?
+C12 C13 C10 120.6(4) . . ?
+C11 C15 C12 118.2(4) . . ?
+
+_shelx_res_file                  
+;
+TITL 1 in P21/c #14
+    1.res
+    created by SHELXL-2016/6 at 14:25:03 on 21-Nov-2020
+REM reset to P21/c #14
+CELL 0.71073 4.9455 20.9458 8.8841 90 90.94 90
+ZERR 2 0.0014 0.0059 0.0027 0 0.012 0
+LATT 1
+SYMM -X,0.5+Y,0.5-Z
+SFAC C H Br F N O
+UNIT 40 24 4 4 4 4
+
+L.S. 4
+PLAN  20
+TEMP -123.14
+BOND
+fmap 2
+ACTA
+REM <olex2.extras>
+REM <HklSrc "%.\\1.hkl">
+REM </olex2.extras>
+
+WGHT    0.029700    1.384900
+FVAR       0.12635
+BR1   3    0.422543    0.516340    0.221487    11.00000    0.04891    0.04236 =
+         0.06035    0.00406    0.02290   -0.00016
+F1    4   -0.294924    0.753191    0.605662    11.00000    0.04509    0.06332 =
+         0.06045    0.00012    0.02760    0.00133
+O1    6    0.430439    0.639999    0.424287    11.00000    0.01461    0.03490 =
+         0.10622    0.00249    0.00470   -0.00158
+C4    1    0.181915    0.508777    0.385276    11.00000    0.02081    0.03296 =
+         0.04166    0.00275    0.00356    0.00245
+N1    5   -0.004764    0.673917    0.431032    11.00000    0.01375    0.02866 =
+         0.05261    0.00441    0.00287   -0.00306
+AFIX  43
+H1    2   -0.174047    0.660966    0.430750    11.00000   -1.20000
+AFIX   0
+C6    1   -0.094802    0.551977    0.579416    11.00000    0.02202    0.02255 =
+         0.04543   -0.00214   -0.00020    0.00021
+AFIX  43
+H6    2   -0.159665    0.587409    0.634974    11.00000   -1.20000
+AFIX   0
+C7    1    0.087663    0.562126    0.462965    11.00000    0.01953    0.02478 =
+         0.04519    0.00277   -0.00223   -0.00140
+C8    1    0.042377    0.740699    0.425971    11.00000    0.01905    0.02552 =
+         0.03820    0.00491   -0.00155   -0.00173
+C9    1    0.188359    0.628970    0.436211    11.00000    0.02141    0.03053 =
+         0.04232    0.00012   -0.00023   -0.00058
+C10   1    0.234069    0.768238    0.332918    11.00000    0.03181    0.03759 =
+         0.04288    0.00515    0.00527   -0.00612
+AFIX  43
+H10   2    0.341397    0.742204    0.269879    11.00000   -1.20000
+AFIX   0
+C11   1   -0.110392    0.780396    0.514567    11.00000    0.02749    0.03782 =
+         0.03979    0.00118    0.00348    0.00126
+C12   1    0.111013    0.872137    0.423074    11.00000    0.06336    0.03010 =
+         0.06734    0.00640   -0.01056   -0.00783
+AFIX  43
+H12   2    0.135610    0.917115    0.421833    11.00000   -1.20000
+AFIX   0
+C13   1    0.266912    0.834132    0.333119    11.00000    0.04481    0.04013 =
+         0.05964    0.01602   -0.00056   -0.01315
+AFIX  43
+H13   2    0.398444    0.853075    0.270444    11.00000   -1.20000
+AFIX   0
+C15   1   -0.080649    0.845713    0.515078    11.00000    0.05783    0.03666 =
+         0.05451   -0.00990   -0.00623    0.01064
+AFIX  43
+H15   2   -0.189267    0.871866    0.577154    11.00000   -1.20000
+AFIX   0
+HKLF 4
+
+
+
+
+REM  1 in P21/c #14
+REM R1 =  0.0466 for    1524 Fo > 4sig(Fo)  and  0.0745 for all    2063 data
+REM    127 parameters refined using      0 restraints
+
+END
+
+WGHT      0.0297      1.3850
+
+REM Highest difference peak  0.625,  deepest hole -0.544,  1-sigma level  0.075
+Q1    1   0.2592  0.5168  0.1972  11.00000  0.05    0.63
+Q2    1   0.1869  0.7475  0.4362  11.00000  0.05    0.34
+Q3    1   0.2913  0.5398  0.1292  11.00000  0.05    0.33
+Q4    1   0.4481  0.4879  0.3158  11.00000  0.05    0.31
+Q5    1   0.4331  0.5339  0.3370  11.00000  0.05    0.29
+Q6    1   0.4081  0.5599  0.2362  11.00000  0.05    0.29
+Q7    1   0.3922  0.5481  0.1366  11.00000  0.05    0.27
+Q8    1   0.0777  0.8550  0.5143  11.00000  0.05    0.27
+Q9    1   0.2795  0.5374  0.6703  11.00000  0.05    0.26
+Q10   1   0.3969  0.4875  0.1175  11.00000  0.05    0.26
+Q11   1  -0.1887  0.8379  0.6417  11.00000  0.05    0.25
+Q12   1   0.3918  0.5035  0.4627  11.00000  0.05    0.24
+Q13   1   0.0000  0.7526  0.5340  11.00000  0.05    0.23
+Q14   1   0.1760  0.7982  0.2883  11.00000  0.05    0.22
+Q15   1   0.0881  0.9526  0.3451  11.00000  0.05    0.22
+Q16   1   0.5121  0.5156 -0.0009  11.00000  0.05    0.22
+Q17   1   0.1220  0.5999  0.4644  11.00000  0.05    0.21
+Q18   1   0.0374  0.7747  0.5031  11.00000  0.05    0.21
+Q19   1   0.5928  0.5137  0.3562  11.00000  0.05    0.21
+Q20   1  -0.1350  0.7474  0.5965  11.00000  0.05    0.21
+;
+_shelx_res_checksum              92648
+_olex2_submission_special_instructions 'No special instructions were received'
+####################################################################### 
+# 
+# This file contains crystal structure data downloaded from the 
+# Cambridge Structural Database (CSD) hosted by the Cambridge 
+# Crystallographic Data Centre (CCDC).
+# 
+# Full information about CCDC data access policies and citation 
+# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
+# 
+# Audit and citation data items may have been added by the CCDC. 
+# Please retain this information to preserve the provenance of 
+# this file and to allow appropriate attribution of the data. 
+# 
+#######################################################################
+
+data_2
+_database_code_depnum_ccdc_archive 'CCDC 2045680'
+loop_
+_audit_author_name
+_audit_author_address
+'hao liu'
+;Jilin university
+China
+;
+_audit_update_record             
+;
+2020-11-21 deposited with the CCDC.	2021-01-11 downloaded from the CCDC.
+;
+_audit_creation_date             2020-11-21
+_audit_creation_method           
+;
+Olex2 1.2
+(compiled 2017.03.28 svn.r3405 for OlexSys, GUI svn.r5337)
+;
+_chemical_formula_moiety         'C20 H12 Br2 F2 N2 O2'
+_chemical_formula_sum            'C20 H12 Br2 F2 N2 O2'
+_chemical_formula_weight         510.13
+_chemical_absolute_configuration unk
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_Cromer_Mann_a1
+_atom_type_scat_Cromer_Mann_a2
+_atom_type_scat_Cromer_Mann_a3
+_atom_type_scat_Cromer_Mann_a4
+_atom_type_scat_Cromer_Mann_b1
+_atom_type_scat_Cromer_Mann_b2
+_atom_type_scat_Cromer_Mann_b3
+_atom_type_scat_Cromer_Mann_b4
+_atom_type_scat_Cromer_Mann_c
+_atom_type_scat_source
+_atom_type_scat_dispersion_source
+C 0.00347 0.00161 2.31000 1.02000 1.58860 0.86500 20.84390 10.20750 0.56870
+51.65120 0.215599998832
+'International Tables Volume C Table 6.1.1.4 (pp. 500-502)'
+'Henke, Gullikson and Davis, At. Data and Nucl. Data Tables, 1993, 54, 2'
+F 0.01794 0.01033 3.53920 2.64120 1.51700 1.02430 10.28250 4.29440 0.26150
+26.14760 0.277599990368
+'International Tables Volume C Table 6.1.1.4 (pp. 500-502)'
+'Henke, Gullikson and Davis, At. Data and Nucl. Data Tables, 1993, 54, 2'
+H 0.00000 0.00000 0.49300 0.32291 0.14019 0.04081 10.51090 26.12570 3.14236
+57.79970 0.0030380000826
+'International Tables Volume C Table 6.1.1.4 (pp. 500-502)'
+'Henke, Gullikson and Davis, At. Data and Nucl. Data Tables, 1993, 54, 2'
+O 0.01158 0.00611 3.04850 2.28680 1.54630 0.86700 13.27710 5.70110 0.32390
+32.90890 0.250800013542
+'International Tables Volume C Table 6.1.1.4 (pp. 500-502)'
+'Henke, Gullikson and Davis, At. Data and Nucl. Data Tables, 1993, 54, 2'
+N 0.00653 0.00323 12.21260 3.13220 2.01250 1.16630 0.00570 9.89330 28.99750
+0.58260 -11.5290002823
+'International Tables Volume C Table 6.1.1.4 (pp. 500-502)'
+'Henke, Gullikson and Davis, At. Data and Nucl. Data Tables, 1993, 54, 2'
+Br -0.28346 2.55990 17.17890 5.23580 5.63770 3.98510 2.17230 16.57960 0.26090
+41.43280 2.95569992065
+'International Tables Volume C Table 6.1.1.4 (pp. 500-502)'
+'Henke, Gullikson and Davis, At. Data and Nucl. Data Tables, 1993, 54, 2'
+
+_space_group_crystal_system      triclinic
+_space_group_IT_number           1
+_space_group_name_H-M_alt        'P 1'
+_space_group_name_Hall           ' P 1'
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 x,y,z
+
+_symmetry_Int_Tables_number      1
+_cell_length_a                   4.9177(3)
+_cell_length_b                   9.0079(6)
+_cell_length_c                   10.8617(6)
+_cell_angle_alpha                73.100(3)
+_cell_angle_beta                 86.036(2)
+_cell_angle_gamma                88.774(3)
+_cell_volume                     459.27(5)
+_cell_formula_units_Z            1
+_cell_measurement_reflns_used    7266
+_cell_measurement_temperature    152(2)
+_cell_measurement_theta_max      27.40
+_cell_measurement_theta_min      3.48
+_exptl_absorpt_coefficient_mu    4.451
+_exptl_absorpt_correction_type   none
+_exptl_crystal_colour            white
+_exptl_crystal_colour_primary    white
+_exptl_crystal_density_diffrn    1.8443
+_exptl_crystal_density_meas      .
+_exptl_crystal_description       plate
+_exptl_crystal_F_000             249.5850
+_diffrn_reflns_av_R_equivalents  0.0208
+_diffrn_reflns_av_unetI/netI     0.0287
+_diffrn_reflns_limit_h_max       6
+_diffrn_reflns_limit_h_min       -6
+_diffrn_reflns_limit_k_max       11
+_diffrn_reflns_limit_k_min       -11
+_diffrn_reflns_limit_l_max       14
+_diffrn_reflns_limit_l_min       -14
+_diffrn_reflns_number            10029
+_diffrn_reflns_theta_full        27.4868
+_diffrn_reflns_theta_max         27.49
+_diffrn_reflns_theta_min         3.48
+_diffrn_ambient_temperature      151.71
+_diffrn_measured_fraction_theta_full 0.9759
+_diffrn_measured_fraction_theta_max 0.9759
+_diffrn_measurement_device_type  'CCD area detector'
+_diffrn_measurement_method       'phi and omega scans'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71073
+_reflns_Friedel_coverage         0.961
+_reflns_limit_h_max              6
+_reflns_limit_h_min              -6
+_reflns_limit_k_max              11
+_reflns_limit_k_min              -11
+_reflns_limit_l_max              14
+_reflns_limit_l_min              -14
+_reflns_number_gt                3686
+_reflns_number_total             4124
+_reflns_threshold_expression     I>=2u(I)
+_computing_cell_refinement       'SAINT V8.38A (?, 2016)'
+_computing_data_reduction        'SAINT V8.38A (?, 2016)'
+_computing_molecular_graphics    'Olex2 (Dolomanov et al., 2009)'
+_computing_publication_material  'Olex2 (Dolomanov et al., 2009)'
+_computing_structure_refinement  'olex2.refine (Bourhis et al., 2015)'
+_computing_structure_solution    'XS (Sheldrick, 2008)'
+_refine_diff_density_max         0.9307
+_refine_diff_density_min         -0.6476
+_refine_diff_density_rms         0.1310
+_refine_ls_abs_structure_details 
+'Flack, H. D. (1983). Acta Cryst. A39, 876-881.'
+_refine_ls_abs_structure_Flack   0.50(4)
+_refine_ls_d_res_high            0.7699
+_refine_ls_d_res_low             5.8471
+_refine_ls_goodness_of_fit_ref   1.0363
+_refine_ls_hydrogen_treatment    constr
+_refine_ls_matrix_type           full
+_refine_ls_number_constraints    24
+_refine_ls_number_parameters     253
+_refine_ls_number_reflns         4124
+_refine_ls_number_restraints     3
+_refine_ls_R_factor_all          0.0560
+_refine_ls_R_factor_gt           0.0498
+_refine_ls_restrained_S_all      1.0363
+_refine_ls_shift/su_max          0.0007
+_refine_ls_shift/su_mean         0.0001
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details     
+'w=1/[\s^2^(Fo^2^)+(0.0833P)^2^+1.9775P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_gt          0.1612
+_refine_ls_wR_factor_ref         0.1661
+_olex2_refinement_description    
+;
+1. Fixed Uiso
+ At 1.2 times of:
+  All C(H) groups, All N(H) groups
+2.a Aromatic/amide H refined with riding coordinates:
+ N1(H1), N2(H2), C7(H7), C11(H11), C18(H18), C19(H19), C22(H22), C23(H23),
+ C26(H26), C27(H27), C28(H28), C31(H31)
+;
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_adp_type
+_atom_site_occupancy
+_atom_site_refinement_flags_posn
+Br1 Br 0.11951(7) 0.04449(6) 0.77650(6) 0.0523(3) Uani 1.000000 .
+Br2 Br 0.99188(7) -0.53057(6) 0.87250(6) 0.0523(3) Uani 1.000000 .
+N1 N 0.5950(12) -0.0624(9) 0.4693(7) 0.037(2) Uani 1.000000 .
+H1 H 0.7617(12) -0.0758(9) 0.4952(7) 0.044(2) Uiso 1.000000 R
+N2 N 0.5047(11) -0.4290(9) 1.1740(7) 0.0319(18) Uani 1.000000 .
+H2 H 0.3386(11) -0.4239(9) 1.1477(7) 0.038(2) Uiso 1.000000 R
+C5 C 0.3675(12) -0.1278(9) 0.8008(7) 0.0233(16) Uani 1.000000 .
+C6 C 0.7462(18) -0.3711(13) 0.8471(11) 0.049(3) Uani 1.000000 .
+C7 C 0.6703(16) -0.2935(13) 0.7283(10) 0.042(3) Uani 1.000000 .
+H7 H 0.7522(16) -0.3251(13) 0.6582(10) 0.050(3) Uiso 1.000000 R
+C8 C 0.6330(15) -0.3155(12) 0.9522(10) 0.046(3) Uani 1.000000 .
+C11 C 0.4400(15) -0.1940(10) 0.9288(8) 0.030(2) Uani 1.000000 .
+H11 H 0.3612(15) -0.1578(10) 0.9971(8) 0.037(2) Uiso 1.000000 R
+C12 C 0.5456(15) -0.4861(9) 1.3077(9) 0.033(2) Uani 1.000000 .
+C13 C 0.4848(14) -0.1724(10) 0.6987(7) 0.028(2) Uani 1.000000 .
+C14 C 0.5731(15) 0.0030(11) 0.3358(7) 0.034(2) Uani 1.000000 .
+C15 C 0.3925(15) -0.1070(12) 0.5620(8) 0.036(2) Uani 1.000000 .
+C16 C 0.3845(16) -0.4400(11) 1.4034(9) 0.038(2) Uani 1.000000 .
+C17 C 0.7116(14) -0.3840(12) 1.0892(9) 0.039(2) Uani 1.000000 .
+C18 C 0.7275(18) -0.6065(11) 1.3633(11) 0.053(3) Uani 1.000000 .
+H18 H 0.8480(18) -0.6454(11) 1.3077(11) 0.063(4) Uiso 1.000000 R
+C19 C 0.7490(18) -0.0538(14) 0.2573(10) 0.047(3) Uani 1.000000 .
+H19 H 0.8675(18) -0.1384(14) 0.2908(10) 0.057(3) Uiso 1.000000 R
+C20 C 0.3776(16) 0.1135(12) 0.2927(8) 0.044(3) Uani 1.000000 .
+C22 C 0.603(2) -0.6174(16) 1.5658(11) 0.075(5) Uani 1.000000 .
+H22 H 0.623(2) -0.6639(16) 1.6552(11) 0.090(6) Uiso 1.000000 R
+C23 C 0.550(2) 0.1244(13) 0.0661(10) 0.060(3) Uani 1.000000 .
+H23 H 0.540(2) 0.1628(13) -0.0248(10) 0.072(4) Uiso 1.000000 R
+C26 C 0.7443(18) 0.0217(14) 0.1215(11) 0.057(3) Uani 1.000000 .
+H26 H 0.8869(18) -0.0017(14) 0.0664(11) 0.068(4) Uiso 1.000000 R
+C27 C 0.4148(19) -0.4923(14) 1.5312(9) 0.057(3) Uani 1.000000 .
+H27 H 0.3198(19) -0.4498(14) 1.5923(9) 0.069(4) Uiso 1.000000 R
+C28 C 0.3522(18) 0.1727(13) 0.1586(11) 0.059(4) Uani 1.000000 .
+H28 H 0.2094(18) 0.2433(13) 0.1270(11) 0.071(4) Uiso 1.000000 R
+C31 C 0.738(2) -0.6688(15) 1.4920(12) 0.070(5) Uani 1.000000 .
+H31 H 0.854(2) -0.7550(15) 1.5243(12) 0.084(6) Uiso 1.000000 R
+O1 O 0.1468(11) -0.1085(10) 0.5436(6) 0.072(3) Uani 1.000000 .
+O2 O 0.9461(10) -0.3977(10) 1.1149(8) 0.073(3) Uani 1.000000 .
+F2 F 0.1851(9) -0.3201(7) 1.3474(5) 0.0725(17) Uani 1.000000 .
+F4 F 0.2161(9) 0.1710(6) 0.3815(6) 0.0736(17) Uani 1.000000 .
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Br1 0.0512(7) 0.0571(7) 0.0412(6) 0.0149(5) -0.0056(5) -0.0033(5)
+Br2 0.0462(6) 0.0635(7) 0.0419(6) 0.0190(5) -0.0046(5) -0.0081(5)
+N1 0.026(4) 0.046(5) 0.029(4) 0.000(3) 0.001(3) 0.003(4)
+N2 0.017(3) 0.052(5) 0.023(4) 0.004(3) -0.011(3) -0.005(3)
+C5 0.012(3) 0.036(4) 0.021(4) 0.007(3) -0.005(3) -0.007(3)
+C6 0.045(7) 0.051(7) 0.047(6) -0.013(5) 0.003(5) -0.006(5)
+C7 0.030(5) 0.060(7) 0.033(5) 0.006(5) -0.007(4) -0.008(5)
+C8 0.021(5) 0.058(7) 0.048(6) -0.016(5) 0.005(4) 0.002(5)
+C11 0.030(5) 0.046(6) 0.018(4) -0.008(4) -0.002(3) -0.012(4)
+C12 0.025(4) 0.030(5) 0.039(5) 0.009(3) -0.005(4) 0.001(4)
+C13 0.023(4) 0.050(6) 0.012(3) 0.008(4) -0.008(3) -0.010(3)
+C14 0.031(5) 0.052(6) 0.016(4) -0.015(4) -0.005(3) -0.005(4)
+C15 0.030(5) 0.061(7) 0.017(4) -0.005(4) 0.006(3) -0.013(4)
+C16 0.033(5) 0.043(5) 0.032(5) 0.006(4) -0.001(4) -0.002(4)
+C17 0.016(4) 0.059(6) 0.040(6) 0.006(4) -0.018(4) -0.008(5)
+C18 0.053(7) 0.036(6) 0.059(7) 0.024(5) -0.003(5) 0.001(5)
+C19 0.039(5) 0.070(8) 0.034(5) -0.007(5) -0.008(4) -0.015(5)
+C20 0.042(6) 0.061(7) 0.026(4) -0.007(5) -0.018(4) -0.003(4)
+C22 0.086(10) 0.102(12) 0.026(5) -0.040(9) -0.019(6) 0.007(6)
+C23 0.082(8) 0.065(7) 0.023(5) -0.014(6) -0.009(5) 0.006(4)
+C26 0.046(5) 0.081(8) 0.049(6) -0.012(5) -0.006(4) -0.025(6)
+C27 0.068(7) 0.086(8) 0.020(4) -0.038(6) 0.005(4) -0.018(5)
+C28 0.058(7) 0.056(7) 0.043(6) 0.002(6) -0.016(5) 0.021(5)
+C31 0.081(11) 0.063(8) 0.061(9) -0.006(8) -0.042(8) -0.002(7)
+O1 0.026(3) 0.159(10) 0.022(3) -0.015(4) -0.009(3) -0.011(4)
+O2 0.012(3) 0.143(9) 0.054(5) 0.001(4) 0.001(3) -0.010(5)
+F2 0.066(4) 0.089(4) 0.066(4) 0.034(3) -0.011(3) -0.028(3)
+F4 0.074(4) 0.078(4) 0.069(4) 0.041(3) -0.018(3) -0.022(3)
+
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+Br1 C5 1.921(7) . ?
+Br2 C6 1.828(11) . ?
+N1 C14 1.408(11) . ?
+N1 C15 1.345(10) . ?
+N2 C12 1.420(11) . ?
+N2 C17 1.311(11) . ?
+C5 C11 1.412(11) . ?
+C5 C13 1.373(11) . ?
+C6 C7 1.350(15) . ?
+C6 C8 1.448(16) . ?
+C7 C13 1.386(13) . ?
+C8 C11 1.411(14) . ?
+C8 C17 1.509(14) . ?
+C12 C16 1.415(13) . ?
+C12 C18 1.412(11) . ?
+C13 C15 1.526(10) . ?
+C14 C19 1.367(14) . ?
+C14 C20 1.373(13) . ?
+C15 O1 1.240(9) . ?
+C16 C27 1.348(14) . ?
+C16 F2 1.468(10) . ?
+C17 O2 1.201(9) . ?
+C18 C31 1.351(17) . ?
+C19 C26 1.436(16) . ?
+C20 C28 1.411(14) . ?
+C20 F4 1.413(12) . ?
+C22 C27 1.421(18) . ?
+C22 C31 1.195(19) . ?
+C23 C26 1.360(15) . ?
+C23 C28 1.499(17) . ?
+
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+C15 N1 C14 128.0(7) . . ?
+C17 N2 C12 120.8(6) . . ?
+C11 C5 Br1 115.1(6) . . ?
+C13 C5 Br1 121.8(6) . . ?
+C13 C5 C11 122.8(7) . . ?
+C7 C6 Br2 121.8(9) . . ?
+C8 C6 Br2 121.9(8) . . ?
+C8 C6 C7 116.2(10) . . ?
+C13 C7 C6 126.5(10) . . ?
+C11 C8 C6 120.1(9) . . ?
+C17 C8 C6 122.4(9) . . ?
+C17 C8 C11 117.5(10) . . ?
+C8 C11 C5 118.0(8) . . ?
+C16 C12 N2 123.3(7) . . ?
+C18 C12 N2 124.9(9) . . ?
+C18 C12 C16 111.4(9) . . ?
+C7 C13 C5 116.3(7) . . ?
+C15 C13 C5 122.3(7) . . ?
+C15 C13 C7 121.0(7) . . ?
+C19 C14 N1 116.0(8) . . ?
+C20 C14 N1 119.6(8) . . ?
+C20 C14 C19 124.4(9) . . ?
+C13 C15 N1 115.1(7) . . ?
+O1 C15 N1 125.4(8) . . ?
+O1 C15 C13 119.2(7) . . ?
+C27 C16 C12 125.2(9) . . ?
+F2 C16 C12 112.1(8) . . ?
+F2 C16 C27 122.6(9) . . ?
+C8 C17 N2 114.4(6) . . ?
+O2 C17 N2 124.2(9) . . ?
+O2 C17 C8 121.4(8) . . ?
+C31 C18 C12 122.8(11) . . ?
+C26 C19 C14 116.2(10) . . ?
+C28 C20 C14 118.5(9) . . ?
+F4 C20 C14 120.0(7) . . ?
+F4 C20 C28 121.3(9) . . ?
+C31 C22 C27 125.5(11) . . ?
+C28 C23 C26 115.2(10) . . ?
+C23 C26 C19 124.5(10) . . ?
+C22 C27 C16 113.5(10) . . ?
+C23 C28 C20 120.1(9) . . ?
+C22 C31 C18 121.1(12) . . ?
+
+_iucr_refine_fcf_details         
+;
+data_1_CCDC1
+_computing_structure_refinement   'olex2.refine (Bourhis et al., 2015)'
+_shelx_refln_list_code            4
+loop_
+  _space_group_symop_id
+  _space_group_symop_operation_xyz
+  1  x,y,z
+
+_space_group_crystal_system       triclinic
+_space_group_IT_number            1
+_space_group_name_H-M_alt         'P 1'
+_space_group_name_Hall            ' P 1'
+_symmetry_space_group_name_H-M    'P 1'
+_symmetry_space_group_name_Hall   ' P 1'
+_symmetry_Int_Tables_number       1
+_cell_length_a                    4.9177(3)
+_cell_length_b                    9.0079(6)
+_cell_length_c                    10.8617(6)
+_cell_angle_alpha                 73.100(3)
+_cell_angle_beta                  86.036(2)
+_cell_angle_gamma                 88.774(3)
+_cell_volume                      459.27(5)
+loop_
+  _refln_index_h
+  _refln_index_k
+  _refln_index_l
+  _refln_F_squared_calc
+  _refln_F_squared_meas
+  _refln_F_squared_sigma
+  _refln_F_squared_weight
+  _refln_observed_status
+-6 -4 -3 9.605 4.895 5.296 98.990 o
+-6 -4 -2 26.763 22.065 6.018 48.572 o
+-6 -4 -1 49.015 50.375 3.437 34.696 o
+-6 -3 -5 58.561 56.167 6.900 23.746 o
+-6 -3 -4 28.894 25.701 2.722 64.782 o
+-6 -3 -3 11.776 19.016 4.975 81.051 o
+-6 -3 -2 5.801 8.184 4.975 115.333 o
+-6 -3 -1 4.263 4.333 4.574 148.820 o
+-6 -3 0 1.977 6.339 4.253 176.081 o
+-6 -3 1 4.705 1.758 1.598 438.858 o
+-6 -2 -5 25.192 20.385 2.661 76.286 o
+-6 -2 -4 5.129 9.934 2.296 232.503 o
+-6 -2 -3 6.575 2.906 2.104 288.845 o
+-6 -2 -2 3.850 4.390 2.407 316.605 o
+-6 -2 -1 38.865 36.027 5.135 39.459 o
+-6 -2 0 7.590 5.135 3.932 150.624 o
+-6 -2 1 94.155 93.520 3.858 16.772 o
+-6 -2 2 18.510 24.977 1.888 92.699 o
+-6 -1 -5 6.082 4.172 7.061 72.222 o
+-6 -1 -4 11.768 16.048 4.574 91.115 o
+-6 -1 -3 45.363 47.581 5.697 31.748 o
+-6 -1 -2 43.795 53.519 6.900 28.164 o
+-6 -1 -1 30.765 40.360 4.895 44.321 o
+-6 -1 0 35.794 46.297 5.135 38.270 o
+-6 -1 1 14.571 9.147 4.493 94.360 o
+-6 -1 2 1.310 1.889 1.387 894.151 o
+-6 -1 3 33.513 26.494 2.454 59.038 o
+-6 0 -5 9.395 14.523 4.172 109.225 o
+-6 0 -4 47.605 55.204 6.499 27.658 o
+-6 0 -3 5.967 1.043 3.611 202.267 o
+-6 0 -2 5.116 5.376 3.530 191.513 o
+-6 0 -1 56.666 47.982 6.178 26.694 o
+-6 0 0 10.287 9.227 3.450 136.300 o
+-6 0 1 78.486 73.016 6.660 18.556 o
+-6 0 2 2.066 6.580 3.691 211.507 o
+-6 0 3 33.470 30.270 1.853 58.733 o
+-6 1 -4 33.408 29.929 4.333 48.943 o
+-6 1 -3 62.699 75.825 6.098 21.850 o
+-6 1 -2 40.681 39.638 5.215 37.151 o
+-6 1 -1 32.525 42.205 5.215 41.146 o
+-6 1 0 41.032 50.069 5.617 33.254 o
+-6 1 1 12.949 22.226 3.611 94.389 o
+-6 1 2 36.358 49.667 5.456 36.012 o
+-6 1 3 6.080 13.930 1.497 220.061 o
+-6 2 -3 9.334 15.887 3.210 129.217 o
+-6 2 -2 14.967 19.979 3.129 98.472 o
+-6 2 -1 3.913 9.950 2.808 221.357 o
+-6 2 0 2.920 4.092 2.648 322.224 o
+-6 2 1 17.100 12.036 2.889 108.558 o
+-6 2 2 34.367 36.107 3.611 48.479 o
+-6 2 3 82.617 62.822 3.441 21.718 o
+-6 3 2 56.736 58.493 4.172 28.606 o
+-5 -7 -6 20.384 24.049 3.702 73.629 o
+-5 -7 -5 17.008 17.765 3.208 94.504 o
+-5 -7 -4 0.092 -2.433 1.864 1222.100 o
+-5 -7 -3 3.254 2.526 2.431 368.396 o
+-5 -7 -2 5.964 2.447 4.189 161.620 o
+-5 -7 -1 18.191 12.038 2.264 113.086 o
+-5 -6 -7 5.033 6.551 1.800 305.012 o
+-5 -6 -6 12.613 11.461 1.831 153.769 o
+-5 -6 -5 23.744 15.662 1.968 90.439 o
+-5 -6 -4 2.355 3.649 1.720 515.625 o
+-5 -6 -3 6.501 4.473 1.809 292.321 o
+-5 -6 -2 29.108 22.417 2.277 69.352 o
+-5 -6 -1 2.323 4.130 1.927 459.687 o
+-5 -6 0 5.862 10.765 2.064 225.595 o
+-5 -6 1 3.665 5.347 2.033 348.314 o
+-5 -6 2 22.459 28.241 3.412 68.655 o
+-5 -5 -8 2.795 6.407 1.230 460.866 o
+-5 -5 -7 18.821 19.354 1.793 101.483 o
+-5 -5 -6 20.415 20.961 2.672 86.454 o
+-5 -5 -5 11.381 8.321 1.647 183.464 o
+-5 -5 -4 0.782 1.022 1.503 1106.990 o
+-5 -5 -3 59.302 59.193 2.935 29.250 o
+-5 -5 -2 1.516 5.995 1.697 494.097 o
+-5 -5 -1 0.954 -0.579 1.812 967.114 o
+-5 -5 0 11.326 18.081 1.981 137.063 o
+-5 -5 1 12.329 10.935 1.899 156.654 o
+-5 -5 2 15.942 16.087 2.047 116.892 o
+-5 -5 3 39.100 39.742 2.838 45.514 o
+-5 -4 -9 56.681 59.998 4.895 27.217 o
+-5 -4 -8 32.924 27.074 3.811 53.292 o
+-5 -4 -7 24.734 23.874 2.346 75.753 o
+-5 -4 -6 1.768 1.585 1.707 696.158 o
+-5 -4 -5 10.904 12.619 1.958 160.105 o
+-5 -4 -4 15.739 14.933 1.969 121.597 o
+-5 -4 -3 24.916 19.718 1.697 83.754 o
+-5 -4 -2 20.130 18.219 3.119 86.286 o
+-5 -4 -1 3.175 1.329 1.656 559.736 o
+-5 -4 0 44.648 43.847 2.612 40.580 o
+-5 -4 1 35.001 34.432 2.139 53.691 o
+-5 -4 2 36.230 40.670 2.673 47.969 o
+-5 -4 3 0.098 1.056 1.695 1187.980 o
+-5 -4 4 1.797 4.029 2.091 465.266 o
+-5 -4 5 1.704 2.850 2.060 523.045 o
+-5 -3 -9 20.212 17.652 3.129 86.696 o
+-5 -3 -8 22.188 23.214 2.929 77.547 o
+-5 -3 -7 90.147 73.519 5.817 17.514 o
+-5 -3 -6 4.174 1.435 1.801 449.818 o
+-5 -3 -5 22.826 23.123 2.357 80.558 o
+-5 -3 -4 86.459 79.925 3.901 19.001 o
+-5 -3 -3 221.436 206.399 7.623 5.415 o
+-5 -3 -2 17.574 21.584 4.895 68.824 o
+-5 -3 -1 110.294 109.336 3.131 14.114 o
+-5 -3 0 80.399 79.430 2.858 20.817 o
+-5 -3 1 1.237 0.221 1.527 1068.070 o
+-5 -3 2 0.251 -0.624 1.555 1597.990 o
+-5 -3 3 1.542 -0.616 2.301 598.909 o
+-5 -3 4 2.617 5.680 1.706 430.875 o
+-5 -3 5 14.649 17.356 2.345 115.820 o
+-5 -2 -9 58.482 59.617 5.215 26.205 o
+-5 -2 -8 30.350 19.578 5.296 51.126 o
+-5 -2 -7 103.329 105.942 4.853 14.404 o
+-5 -2 -6 75.287 72.405 6.058 19.786 o
+-5 -2 -5 174.470 177.979 5.777 7.385 o
+-5 -2 -4 18.903 25.617 2.627 84.794 o
+-5 -2 -3 32.654 30.228 4.172 50.254 o
+-5 -2 -2 6.973 11.115 2.848 174.911 o
+-5 -2 -1 26.929 22.922 2.434 71.923 o
+-5 -2 0 253.659 238.542 4.946 4.647 o
+-5 -2 1 99.845 76.238 3.634 17.308 o
+-5 -2 2 49.347 60.764 3.487 32.095 o
+-5 -2 3 49.659 51.249 2.755 35.337 o
+-5 -2 4 101.228 109.033 6.087 13.849 o
+-5 -2 5 31.203 34.462 2.620 56.360 o
+-5 -2 6 10.440 14.411 2.111 153.198 o
+-5 -1 -8 6.025 11.634 3.290 163.523 o
+-5 -1 -7 72.840 53.724 4.153 24.494 o
+-5 -1 -6 21.578 22.912 2.776 80.431 o
+-5 -1 -5 170.078 155.512 8.746 7.411 o
+-5 -1 -4 303.605 306.652 9.428 3.289 o
+-5 -1 -3 76.884 76.501 3.992 21.058 o
+-5 -1 -2 70.130 75.019 5.938 20.634 o
+-5 -1 -1 210.708 210.980 12.116 5.037 o
+-5 -1 0 36.716 43.840 6.820 32.682 o
+-5 -1 1 24.897 37.560 1.914 65.444 o
+-5 -1 2 35.772 82.839 3.226 33.650 o
+-5 -1 3 22.015 45.687 2.750 60.258 o
+-5 -1 4 9.204 9.255 1.580 206.063 o
+-5 -1 5 24.819 23.079 2.086 77.946 o
+-5 -1 6 53.600 48.974 2.939 33.691 o
+-5 -1 7 15.791 17.454 3.035 101.258 o
+-5 0 -7 50.601 52.476 5.857 28.560 o
+-5 0 -6 31.166 39.571 3.404 50.632 o
+-5 0 -5 88.646 76.715 4.651 18.394 o
+-5 0 -4 6.727 5.318 2.179 252.574 o
+-5 0 -3 20.245 24.185 2.536 84.019 o
+-5 0 -2 73.762 75.181 4.935 20.979 o
+-5 0 -1 0.092 -1.550 1.773 1345.300 o
+-5 0 0 199.998 196.096 5.888 6.260 o
+-5 0 1 8.197 7.056 1.867 226.832 o
+-5 0 2 272.955 271.477 6.914 3.986 o
+-5 0 3 266.043 243.548 5.611 4.363 o
+-5 0 4 249.052 261.508 5.304 4.510 o
+-5 0 5 40.002 39.050 2.095 46.836 o
+-5 0 6 43.717 48.487 3.025 38.879 o
+-5 0 7 20.287 26.865 2.181 83.336 o
+-5 1 -6 12.622 8.425 3.611 121.684 o
+-5 1 -5 2.354 2.126 2.156 478.080 o
+-5 1 -4 14.827 18.512 2.407 111.702 o
+-5 1 -3 29.139 30.278 3.410 57.768 o
+-5 1 -2 300.791 270.233 26.037 2.389 o
+-5 1 -1 323.371 311.644 11.314 2.992 o
+-5 1 0 83.521 90.840 4.527 18.170 o
+-5 1 1 209.797 218.488 8.826 5.406 o
+-5 1 2 49.725 43.405 1.812 38.813 o
+-5 1 3 2.138 3.237 1.216 678.567 o
+-5 1 4 37.886 31.753 1.907 52.656 o
+-5 1 5 5.341 3.167 1.438 387.271 o
+-5 1 6 21.361 13.583 1.766 102.937 o
+-5 1 7 14.023 7.687 2.134 151.016 o
+-5 2 -7 36.473 38.996 4.092 43.845 o
+-5 2 -6 146.622 146.113 7.944 8.758 o
+-5 2 -5 209.403 198.428 8.746 5.652 o
+-5 2 -4 57.500 61.944 5.215 26.152 o
+-5 2 -3 336.004 350.022 10.591 2.760 o
+-5 2 -2 40.868 50.556 4.333 36.771 o
+-5 2 -1 3.645 6.660 2.568 275.663 o
+-5 2 0 13.306 26.782 2.506 100.589 o
+-5 2 1 41.333 39.659 3.073 43.233 o
+-5 2 2 196.851 178.515 3.363 6.852 o
+-5 2 3 15.531 59.608 2.820 59.320 o
+-5 2 4 26.216 31.228 2.247 66.978 o
+-5 2 5 37.663 61.322 2.614 39.469 o
+-5 2 6 96.329 111.341 4.281 15.148 o
+-5 2 7 63.123 81.980 3.335 24.162 o
+-5 3 -7 26.291 22.948 2.728 71.285 o
+-5 3 -6 53.929 53.768 3.174 32.124 o
+-5 3 -5 6.860 5.328 1.514 290.413 o
+-5 3 -4 2.107 -0.074 1.306 977.071 o
+-5 3 -3 17.011 13.319 2.407 113.439 o
+-5 3 -1 48.214 37.712 3.290 38.836 o
+-5 3 0 91.163 91.391 4.253 17.140 o
+-5 3 1 297.543 282.197 9.067 3.503 o
+-5 3 2 142.015 126.240 2.982 10.736 o
+-5 3 3 96.828 101.834 2.865 16.250 o
+-5 3 4 126.706 132.188 3.360 11.556 o
+-5 3 5 49.033 45.919 2.479 37.534 o
+-5 3 6 1.410 1.222 1.445 922.150 o
+-5 3 7 13.895 11.473 1.743 145.916 o
+-5 4 1 5.237 6.098 3.370 195.327 o
+-5 4 2 7.886 4.452 1.415 280.769 o
+-5 4 3 5.345 3.353 1.496 377.198 o
+-5 4 4 54.777 49.005 2.887 33.221 o
+-5 4 5 116.487 100.298 3.743 13.755 o
+-5 4 6 77.344 69.797 5.336 20.403 o
+-5 4 7 33.201 22.472 2.324 62.693 o
+-5 5 -1 19.147 34.502 3.129 71.014 o
+-5 5 0 129.274 130.868 5.857 10.768 o
+-5 5 1 209.049 210.061 5.299 5.884 o
+-5 5 2 81.192 84.811 4.814 18.834 o
+-5 5 3 155.038 158.310 6.580 8.427 o
+-5 5 4 162.640 152.403 4.622 8.576 o
+-5 5 5 19.848 22.415 2.171 90.346 o
+-5 5 6 26.393 34.278 7.021 39.042 o
+-5 6 -2 79.656 84.838 3.771 19.866 o
+-5 6 -1 145.201 151.890 6.580 9.044 o
+-5 6 0 73.897 75.999 3.358 22.252 o
+-5 6 1 14.579 22.659 2.042 108.750 o
+-5 6 2 14.452 18.098 1.976 120.065 o
+-5 6 3 1.339 4.035 2.166 480.029 o
+-5 6 4 39.646 42.446 3.851 41.247 o
+-5 6 5 18.310 11.834 2.113 114.958 o
+-5 7 1 49.996 52.822 8.746 22.503 o
+-5 7 2 14.189 24.389 2.969 96.043 o
+-4 -9 -6 6.065 5.462 2.276 258.217 o
+-4 -9 -5 8.783 8.180 2.263 194.386 o
+-4 -9 -4 14.615 12.390 2.384 127.514 o
+-4 -9 -3 3.013 -0.838 2.196 497.920 o
+-4 -9 -2 0.463 1.163 2.233 690.170 o
+-4 -8 -8 13.505 15.734 2.211 127.445 o
+-4 -8 -7 3.706 1.895 1.932 442.165 o
+-4 -8 -6 0.503 -0.236 1.892 1035.400 o
+-4 -8 -5 6.556 4.053 2.671 235.274 o
+-4 -8 -4 4.385 3.358 2.461 310.139 o
+-4 -8 -3 46.713 40.151 2.697 40.272 o
+-4 -8 -2 6.636 8.057 2.171 229.765 o
+-4 -8 -1 6.419 6.687 2.167 245.975 o
+-4 -8 0 8.211 9.351 2.256 194.485 o
+-4 -8 1 15.230 17.804 2.490 110.353 o
+-4 -7 -9 28.853 24.611 2.691 65.839 o
+-4 -7 -8 10.339 13.045 2.277 155.285 o
+-4 -7 -7 7.376 5.521 1.801 259.586 o
+-4 -7 -6 15.973 11.756 1.908 129.511 o
+-4 -7 -5 34.773 33.922 2.671 52.554 o
+-4 -7 -4 28.218 42.922 2.740 54.495 o
+-4 -7 -3 6.000 5.600 2.473 244.645 o
+-4 -7 -2 99.668 106.463 5.198 14.608 o
+-4 -7 -1 23.031 31.010 2.401 71.845 o
+-4 -7 0 1.473 1.783 1.946 634.697 o
+-4 -7 1 4.570 3.132 2.026 356.877 o
+-4 -7 2 2.019 3.042 2.052 492.810 o
+-4 -7 3 31.370 31.027 3.096 56.200 o
+-4 -6 -10 13.179 16.037 2.318 126.596 o
+-4 -6 -9 3.218 2.256 1.885 470.339 o
+-4 -6 -8 27.125 27.857 2.082 69.016 o
+-4 -6 -7 3.056 3.324 1.641 489.090 o
+-4 -6 -6 57.304 62.065 3.005 29.373 o
+-4 -6 -5 1.699 0.829 2.124 600.753 o
+-4 -6 -4 10.773 12.163 1.808 166.641 o
+-4 -6 -3 70.803 55.561 2.820 26.164 o
+-4 -6 -2 14.047 11.963 1.828 141.804 o
+-4 -6 -1 262.433 223.616 5.542 4.594 o
+-4 -6 0 103.575 98.982 4.751 14.809 o
+-4 -6 1 39.650 42.489 2.884 43.917 o
+-4 -6 2 33.009 24.152 2.274 61.981 o
+-4 -6 3 16.977 13.900 2.216 114.940 o
+-4 -6 4 2.355 0.987 2.019 559.138 o
+-4 -6 5 14.855 17.612 3.849 92.045 o
+-4 -5 -11 21.222 17.894 1.675 96.796 o
+-4 -5 -10 4.457 1.188 1.321 517.931 o
+-4 -5 -9 6.144 1.156 1.245 416.401 o
+-4 -5 -8 1.213 0.612 1.125 1341.100 o
+-4 -5 -7 44.208 41.950 5.935 32.721 o
+-4 -5 -6 121.595 115.528 4.259 12.415 o
+-4 -5 -5 117.038 115.123 3.900 12.941 o
+-4 -5 -4 73.705 75.188 2.872 22.739 o
+-4 -5 -3 49.732 41.734 2.407 38.454 o
+-4 -5 -2 100.395 119.421 3.585 14.498 o
+-4 -5 -1 0.522 -0.703 1.438 1594.040 o
+-4 -5 0 22.856 24.836 1.971 81.017 o
+-4 -5 1 20.033 23.315 1.996 89.917 o
+-4 -5 2 2.112 -1.308 1.804 725.692 o
+-4 -5 3 23.369 19.065 2.107 85.883 o
+-4 -5 4 26.438 30.100 2.337 67.108 o
+-4 -5 5 8.936 6.078 2.236 206.937 o
+-4 -5 6 66.840 63.128 4.903 23.922 o
+-4 -4 -11 42.318 41.940 3.493 40.680 o
+-4 -4 -10 14.624 14.544 1.574 133.857 o
+-4 -4 -9 7.799 11.918 1.420 211.841 o
+-4 -4 -8 61.910 79.426 3.637 24.534 o
+-4 -4 -7 69.507 82.983 3.079 22.665 o
+-4 -4 -6 38.773 56.168 3.301 38.938 o
+-4 -4 -5 1.987 12.087 1.050 369.572 o
+-4 -4 -4 1.633 4.889 0.990 685.685 o
+-4 -4 -3 25.417 24.317 2.044 75.655 o
+-4 -4 -2 56.990 54.939 2.465 31.508 o
+-4 -4 -1 91.702 77.367 2.794 18.923 o
+-4 -4 0 9.338 18.267 2.131 146.716 o
+-4 -4 1 142.082 144.624 3.925 9.987 o
+-4 -4 2 192.842 166.906 4.300 7.105 o
+-4 -4 3 130.413 142.999 4.091 10.748 o
+-4 -4 4 40.876 54.237 4.994 34.098 o
+-4 -4 5 81.054 78.521 3.593 20.320 o
+-4 -4 6 16.969 15.230 2.198 112.344 o
+-4 -4 7 5.263 11.874 2.245 217.563 o
+-4 -3 -11 35.188 35.909 2.373 52.050 o
+-4 -3 -10 19.523 23.702 2.735 84.688 o
+-4 -3 -9 112.869 108.697 3.959 13.626 o
+-4 -3 -8 0.495 0.854 1.106 1799.560 o
+-4 -3 -7 8.492 1.511 1.052 323.953 o
+-4 -3 -6 42.890 48.224 3.083 39.336 o
+-4 -3 -5 20.519 20.013 1.457 97.112 o
+-4 -3 -4 145.487 146.236 3.530 9.803 o
+-4 -3 -3 154.672 123.714 2.581 10.058 o
+-4 -3 -2 333.333 343.505 5.509 2.961 o
+-4 -3 -1 30.090 27.615 1.675 65.943 o
+-4 -3 0 93.962 103.971 2.961 16.460 o
+-4 -3 1 262.881 259.727 7.036 4.211 o
+-4 -3 2 45.019 49.946 2.438 38.764 o
+-4 -3 3 23.477 22.401 1.743 83.739 o
+-4 -3 4 14.782 16.446 1.778 125.089 o
+-4 -3 5 29.585 21.720 3.625 61.437 o
+-4 -3 6 111.529 97.638 3.803 14.395 o
+-4 -3 7 17.799 20.557 2.363 97.562 o
+-4 -3 8 4.637 6.476 3.061 220.323 o
+-4 -2 -11 33.219 28.671 2.211 58.925 o
+-4 -2 -10 23.060 14.943 1.590 96.228 o
+-4 -2 -9 35.919 29.234 1.664 56.853 o
+-4 -2 -8 397.404 413.898 7.514 2.218 o
+-4 -2 -7 125.054 98.511 4.799 12.675 o
+-4 -2 -6 79.156 73.899 4.654 20.309 o
+-4 -2 -5 145.400 143.078 6.098 9.379 o
+-4 -2 -4 373.209 382.896 13.801 2.289 o
+-4 -2 -3 44.918 38.826 2.679 41.937 o
+-4 -2 -2 5.050 5.906 1.616 328.902 o
+-4 -2 -1 24.140 25.005 2.001 77.825 o
+-4 -2 0 3.438 5.015 1.045 486.009 o
+-4 -2 1 375.268 328.788 6.232 2.664 o
+-4 -2 2 92.615 104.955 2.922 16.592 o
+-4 -2 3 77.602 71.210 3.187 22.082 o
+-4 -2 4 112.544 110.514 3.288 13.775 o
+-4 -2 5 147.868 127.724 5.658 9.774 o
+-4 -2 6 2.834 8.909 1.925 325.982 o
+-4 -2 7 51.315 53.726 3.177 33.278 o
+-4 -2 8 2.067 1.696 1.933 577.538 o
+-4 -2 9 4.638 2.695 2.980 260.201 o
+-4 -1 -11 18.855 25.553 2.099 89.305 o
+-4 -1 -10 51.716 52.678 5.494 28.926 o
+-4 -1 -9 129.150 113.139 6.051 11.326 o
+-4 -1 -8 12.708 12.818 1.280 157.084 o
+-4 -1 -7 164.475 165.852 7.462 7.697 o
+-4 -1 -6 1.705 4.814 2.487 376.780 o
+-4 -1 -5 11.087 12.116 2.568 145.949 o
+-4 -1 -4 243.110 246.054 6.660 4.670 o
+-4 -1 -3 192.381 160.708 4.946 7.160 o
+-4 -1 -2 510.188 535.587 24.874 1.251 o
+-4 -1 -1 368.905 395.477 9.172 2.411 o
+-4 -1 0 1022.320 1019.090 14.750 0.463 o
+-4 -1 1 317.721 313.280 6.120 3.237 o
+-4 -1 2 8.056 18.017 1.672 167.744 o
+-4 -1 3 224.962 227.613 4.711 5.338 o
+-4 -1 4 33.848 39.895 2.633 50.625 o
+-4 -1 5 33.596 30.165 4.670 47.090 o
+-4 -1 6 10.447 9.824 1.716 183.668 o
+-4 -1 7 19.019 21.157 2.232 94.065 o
+-4 -1 8 43.503 34.497 2.448 45.073 o
+-4 -1 9 50.349 43.191 2.960 36.738 o
+-4 0 -11 24.775 26.265 2.211 74.094 o
+-4 0 -10 7.303 8.894 1.699 233.644 o
+-4 0 -9 41.585 35.582 2.942 44.917 o
+-4 0 -8 231.504 234.759 7.561 4.921 o
+-4 0 -7 21.189 26.545 5.938 52.084 o
+-4 0 -6 587.498 588.225 19.498 1.115 o
+-4 0 -5 779.856 786.653 25.195 0.683 o
+-4 0 -4 533.509 530.645 12.054 1.387 o
+-4 0 -3 119.208 130.623 4.473 11.927 o
+-4 0 -2 97.521 110.803 4.092 15.122 o
+-4 0 -1 118.566 110.004 3.871 13.045 o
+-4 0 0 69.497 89.229 4.373 20.946 o
+-4 0 1 228.692 229.869 3.888 5.277 o
+-4 0 2 12.726 53.469 2.149 71.502 o
+-4 0 3 143.282 178.499 4.054 8.968 o
+-4 0 4 480.146 524.277 9.456 1.587 o
+-4 0 5 200.949 249.868 5.246 5.597 o
+-4 0 6 103.721 109.117 3.384 14.771 o
+-4 0 7 203.585 230.658 5.290 5.763 o
+-4 0 8 75.103 79.061 3.469 21.566 o
+-4 0 9 9.405 20.076 2.210 138.669 o
+-4 1 -10 152.538 146.020 4.425 9.270 o
+-4 1 -9 123.605 121.663 3.260 12.246 o
+-4 1 -8 53.292 54.645 2.408 33.249 o
+-4 1 -7 182.954 170.254 3.761 7.454 o
+-4 1 -6 0.953 -1.525 2.808 480.380 o
+-4 1 -5 48.154 48.383 4.574 33.171 o
+-4 1 -4 98.419 94.384 4.056 16.043 o
+-4 1 -3 101.097 95.804 5.617 14.818 o
+-4 1 -2 129.135 137.542 4.510 10.925 o
+-4 1 -1 546.241 527.108 11.687 1.361 o
+-4 1 0 462.333 457.118 10.183 1.766 o
+-4 1 1 162.394 152.494 2.942 8.804 o
+-4 1 2 663.605 672.333 10.008 0.976 o
+-4 1 3 605.629 564.964 9.688 1.188 o
+-4 1 4 76.520 88.881 3.872 20.005 o
+-4 1 5 5.481 10.033 2.043 239.369 o
+-4 1 6 29.806 34.147 1.956 60.673 o
+-4 1 7 62.921 48.421 2.906 29.939 o
+-4 1 8 75.916 68.473 3.249 22.737 o
+-4 1 9 62.458 49.993 3.022 29.679 o
+-4 1 10 72.381 72.010 3.958 22.552 o
+-4 2 -10 4.703 5.135 2.568 268.859 o
+-4 2 -9 23.898 22.734 2.256 79.279 o
+-4 2 -8 1.594 1.841 1.553 764.417 o
+-4 2 -7 29.642 31.083 1.667 64.002 o
+-4 2 -6 224.304 205.137 7.591 5.369 o
+-4 2 -5 83.572 73.819 5.777 18.537 o
+-4 2 -4 158.166 148.360 7.542 8.292 o
+-4 2 -3 314.996 301.141 7.555 3.279 o
+-4 2 -2 536.469 540.656 12.044 1.365 o
+-4 2 -1 283.503 242.578 6.700 4.052 o
+-4 2 0 109.013 118.501 3.792 13.577 o
+-4 2 1 38.167 17.006 1.135 63.181 o
+-4 2 2 59.988 68.817 2.505 27.767 o
+-4 2 3 685.143 696.580 10.342 0.922 o
+-4 2 4 275.959 272.153 5.134 4.017 o
+-4 2 5 251.357 254.875 5.058 4.539 o
+-4 2 6 188.313 167.340 3.964 7.291 o
+-4 2 7 262.175 247.724 5.641 4.390 o
+-4 2 8 32.626 36.922 2.726 53.036 o
+-4 2 9 16.221 18.897 2.299 106.748 o
+-4 2 10 18.621 22.016 2.716 89.390 o
+-4 3 -9 31.511 34.102 2.381 57.081 o
+-4 3 -8 111.762 96.244 2.945 14.726 o
+-4 3 -7 240.466 224.118 4.614 5.052 o
+-4 3 -6 144.863 123.726 3.023 10.623 o
+-4 3 -5 91.064 97.978 2.373 17.517 o
+-4 3 -4 163.346 175.048 3.879 8.136 o
+-4 3 -3 7.061 11.498 1.689 217.003 o
+-4 3 -2 98.299 99.816 6.259 14.531 o
+-4 3 -1 271.233 322.236 11.795 3.416 o
+-4 3 0 214.869 251.100 4.795 5.297 o
+-4 3 1 299.800 323.971 5.085 3.398 o
+-4 3 2 727.758 751.298 12.755 0.817 o
+-4 3 3 99.763 84.675 3.247 16.884 o
+-4 3 4 43.559 44.824 2.452 41.285 o
+-4 3 5 76.360 93.819 6.038 17.869 o
+-4 3 6 61.492 72.216 2.681 26.585 o
+-4 3 7 13.618 21.273 1.830 118.293 o
+-4 3 8 1.492 35.474 2.581 132.521 o
+-4 3 9 5.341 14.318 2.318 196.718 o
+-4 3 10 32.811 37.506 2.944 51.778 o
+-4 4 -8 43.100 44.217 3.970 38.252 o
+-4 4 -7 38.464 35.177 2.318 49.382 o
+-4 4 -6 17.397 7.839 1.308 140.749 o
+-4 4 -5 53.967 44.978 2.372 35.298 o
+-4 4 -4 349.609 338.136 12.347 2.636 o
+-4 4 -3 220.947 213.994 5.191 5.553 o
+-4 4 -2 513.490 512.069 10.865 1.484 o
+-4 4 -1 113.622 108.685 8.305 11.639 o
+-4 4 0 308.191 313.052 6.949 3.309 o
+-4 4 1 51.811 50.149 2.568 34.813 o
+-4 4 2 203.101 185.798 4.567 6.447 o
+-4 4 3 46.290 37.062 2.350 42.266 o
+-4 4 4 47.063 46.699 3.611 36.259 o
+-4 4 5 22.061 13.714 1.730 100.544 o
+-4 4 6 140.915 136.029 4.451 10.218 o
+-4 4 7 115.385 97.646 3.853 13.967 o
+-4 4 8 96.309 108.202 4.333 15.314 o
+-4 4 9 96.899 83.066 4.270 16.906 o
+-4 4 10 40.181 42.709 3.171 42.710 o
+-4 5 -7 204.463 188.928 5.023 6.320 o
+-4 5 -6 58.924 58.590 2.456 30.019 o
+-4 5 -5 276.951 282.639 7.062 3.850 o
+-4 5 -4 163.976 158.017 4.651 8.381 o
+-4 5 -3 35.861 26.072 2.043 57.797 o
+-4 5 -2 25.923 30.205 2.066 69.136 o
+-4 5 -1 0.567 -0.685 1.462 1522.220 o
+-4 5 0 9.237 13.896 1.667 176.267 o
+-4 5 1 156.529 147.841 3.967 9.087 o
+-4 5 2 248.749 252.989 6.097 4.546 o
+-4 5 3 173.697 160.847 4.481 7.924 o
+-4 5 4 307.019 286.610 7.357 3.449 o
+-4 5 5 353.749 344.669 9.220 2.691 o
+-4 5 6 80.570 70.022 3.403 21.412 o
+-4 5 7 14.191 13.110 2.056 133.507 o
+-4 5 8 13.143 13.694 2.267 134.240 o
+-4 5 9 0.897 -0.080 2.100 785.305 o
+-4 6 -6 7.487 10.077 2.211 200.760 o
+-4 6 -5 33.776 37.184 2.667 51.923 o
+-4 6 -4 92.186 86.375 3.886 17.564 o
+-4 6 -3 110.517 110.376 4.056 13.744 o
+-4 6 -2 202.405 194.742 13.881 5.078 o
+-4 6 -1 243.224 240.280 6.342 4.740 o
+-4 6 0 279.931 274.670 7.344 3.849 o
+-4 6 1 282.589 283.516 7.346 3.758 o
+-4 6 2 73.008 91.037 3.449 20.771 o
+-4 6 3 60.710 87.060 3.632 23.858 o
+-4 6 4 17.782 41.447 3.001 68.281 o
+-4 6 5 12.638 26.215 2.657 102.067 o
+-4 6 6 32.331 41.993 3.228 49.088 o
+-4 6 7 17.838 18.004 2.324 102.152 o
+-4 6 8 33.541 23.394 2.570 60.549 o
+-4 6 9 54.635 52.927 3.992 30.690 o
+-4 7 -4 30.653 29.519 7.502 35.860 o
+-4 7 -3 52.486 59.101 7.623 23.491 o
+-4 7 -2 70.352 68.522 6.740 20.235 o
+-4 7 -1 8.874 8.437 2.066 199.191 o
+-4 7 0 2.722 -0.117 3.611 263.891 o
+-4 7 1 17.940 17.669 2.179 103.960 o
+-4 7 2 69.861 71.851 3.586 23.511 o
+-4 7 3 63.464 60.872 4.654 25.445 o
+-4 7 4 162.820 159.868 6.820 8.011 o
+-4 7 5 163.072 158.961 5.105 8.330 o
+-4 7 6 39.093 38.430 2.773 46.221 o
+-4 7 7 102.881 103.677 5.296 14.362 o
+-4 7 8 38.675 39.077 3.005 45.652 o
+-4 8 -2 42.842 49.843 5.215 33.612 o
+-4 8 -1 75.805 77.192 10.110 14.973 o
+-4 8 0 107.201 107.083 8.224 12.228 o
+-4 8 1 82.543 85.962 6.018 17.551 o
+-4 8 2 71.484 65.831 6.740 20.274 o
+-4 8 3 54.078 47.592 3.622 32.665 o
+-4 8 4 19.828 23.546 2.546 85.772 o
+-4 8 5 3.584 1.749 2.204 406.948 o
+-4 8 6 1.880 3.266 2.350 431.100 o
+-3 -10 -7 0.460 0.623 2.262 715.794 o
+-3 -10 -6 1.270 4.796 2.284 435.207 o
+-3 -10 -5 5.694 5.531 2.265 266.181 o
+-3 -10 -4 9.013 7.819 2.335 191.000 o
+-3 -10 -3 6.600 0.525 3.169 228.442 o
+-3 -10 -2 25.100 26.623 3.465 65.381 o
+-3 -10 -1 10.390 10.015 2.495 161.191 o
+-3 -9 -9 2.679 2.954 2.230 418.209 o
+-3 -9 -8 3.434 4.020 2.079 379.089 o
+-3 -9 -7 16.389 11.638 2.221 122.951 o
+-3 -9 -6 1.805 -0.261 1.992 691.021 o
+-3 -9 -5 8.133 8.527 2.160 204.507 o
+-3 -9 -4 4.411 10.542 2.075 253.113 o
+-3 -9 -3 8.587 14.226 2.377 162.060 o
+-3 -9 -2 2.743 2.120 2.068 470.636 o
+-3 -9 -1 9.275 4.750 2.113 217.043 o
+-3 -9 0 2.794 1.849 2.134 462.541 o
+-3 -9 1 0.695 0.031 2.162 783.159 o
+-3 -9 2 21.790 19.042 2.546 86.507 o
+-3 -8 -10 0.456 1.692 2.350 606.509 o
+-3 -8 -9 10.146 10.444 2.407 164.046 o
+-3 -8 -8 10.977 9.131 2.017 173.629 o
+-3 -8 -7 15.185 17.006 2.167 116.671 o
+-3 -8 -6 8.588 13.800 2.030 173.782 o
+-3 -8 -5 5.536 3.093 2.322 295.234 o
+-3 -8 -4 7.173 3.611 2.002 272.982 o
+-3 -8 -3 2.934 0.038 1.829 604.807 o
+-3 -8 -2 59.161 62.131 3.482 28.127 o
+-3 -8 -1 16.885 17.033 2.732 102.314 o
+-3 -8 0 30.464 32.233 2.737 58.118 o
+-3 -8 1 15.837 18.199 3.086 99.132 o
+-3 -8 2 15.880 18.613 2.401 107.355 o
+-3 -8 3 0.286 -0.543 2.832 523.029 o
+-3 -8 4 2.728 4.709 2.264 368.942 o
+-3 -7 -11 2.044 3.510 2.241 436.162 o
+-3 -7 -10 52.610 55.688 3.743 31.369 o
+-3 -7 -9 13.354 11.803 2.204 139.975 o
+-3 -7 -8 18.729 20.981 2.324 94.365 o
+-3 -7 -7 20.792 18.619 2.497 90.182 o
+-3 -7 -6 35.615 30.443 2.091 55.354 o
+-3 -7 -5 77.724 73.607 3.181 21.794 o
+-3 -7 -4 120.327 125.340 4.007 12.181 o
+-3 -7 -3 83.402 78.802 4.178 19.449 o
+-3 -7 -2 1.895 2.120 1.677 652.415 o
+-3 -7 -1 19.917 22.928 2.108 89.934 o
+-3 -7 0 12.330 16.742 1.960 135.367 o
+-3 -7 1 0.834 -1.004 1.733 1069.870 o
+-3 -7 2 17.524 22.073 2.325 96.401 o
+-3 -7 3 3.245 4.338 2.098 377.760 o
+-3 -7 4 17.809 12.588 2.250 113.724 o
+-3 -7 5 21.860 23.343 2.585 80.824 o
+-3 -6 -12 25.651 18.201 2.551 78.383 o
+-3 -6 -11 17.302 17.823 2.381 103.746 o
+-3 -6 -10 80.566 78.461 8.465 16.041 o
+-3 -6 -9 190.307 193.654 5.799 6.590 o
+-3 -6 -8 38.322 51.999 3.481 40.056 o
+-3 -6 -7 90.941 111.102 4.293 15.816 o
+-3 -6 -6 33.311 45.338 5.257 39.542 o
+-3 -6 -5 20.770 27.911 1.850 83.013 o
+-3 -6 -4 13.927 10.673 1.627 150.518 o
+-3 -6 -3 104.794 113.765 3.562 14.334 o
+-3 -6 -2 92.134 98.701 3.300 16.950 o
+-3 -6 -1 8.102 13.099 1.725 191.390 o
+-3 -6 0 83.921 88.653 3.352 19.013 o
+-3 -6 1 72.590 72.791 3.202 23.052 o
+-3 -6 2 142.634 139.871 4.200 10.046 o
+-3 -6 3 86.917 93.253 3.862 17.858 o
+-3 -6 4 95.261 117.170 5.422 14.392 o
+-3 -6 5 9.664 20.821 2.285 133.419 o
+-3 -6 6 3.545 5.035 2.889 267.060 o
+-3 -6 7 0.306 1.002 2.468 613.909 o
+-3 -5 -12 13.702 20.675 2.608 109.083 o
+-3 -5 -11 12.610 12.070 2.204 143.993 o
+-3 -5 -10 26.663 29.006 2.354 67.547 o
+-3 -5 -9 8.875 8.104 1.265 229.328 o
+-3 -5 -8 27.831 32.234 2.351 63.283 o
+-3 -5 -7 6.010 8.546 1.529 270.855 o
+-3 -5 -6 20.447 14.587 1.610 105.766 o
+-3 -5 -5 183.140 168.287 3.902 7.471 o
+-3 -5 -4 187.074 160.492 3.843 7.475 o
+-3 -5 -3 214.615 188.728 4.296 6.098 o
+-3 -5 -2 330.064 333.693 6.561 3.009 o
+-3 -5 -1 831.315 813.341 14.424 0.669 o
+-3 -5 0 182.335 182.753 4.410 7.184 o
+-3 -5 1 38.308 20.053 1.764 59.335 o
+-3 -5 2 7.286 7.840 1.617 247.144 o
+-3 -5 3 4.436 0.098 1.603 514.256 o
+-3 -5 4 91.336 84.947 3.720 17.895 o
+-3 -5 5 49.974 51.082 3.180 34.521 o
+-3 -5 6 20.132 14.289 2.776 95.590 o
+-3 -5 7 35.030 31.801 2.641 53.498 o
+-3 -5 8 7.054 9.275 2.379 204.406 o
+-3 -4 -12 1.050 0.805 2.090 698.486 o
+-3 -4 -11 2.468 1.949 1.838 552.424 o
+-3 -4 -10 115.588 117.466 4.056 12.919 o
+-3 -4 -9 54.398 51.075 3.089 32.629 o
+-3 -4 -8 20.128 21.596 1.448 95.883 o
+-3 -4 -7 505.069 492.031 8.570 1.566 o
+-3 -4 -6 225.224 259.747 4.878 4.986 o
+-3 -4 -5 257.896 247.102 4.565 4.516 o
+-3 -4 -4 120.280 149.862 3.447 11.357 o
+-3 -4 -3 109.518 110.312 2.877 14.215 o
+-3 -4 -2 177.517 174.841 3.940 7.556 o
+-3 -4 -1 67.224 73.170 2.502 24.909 o
+-3 -4 0 393.020 370.605 7.080 2.381 o
+-3 -4 1 240.400 218.606 7.008 4.950 o
+-3 -4 2 234.622 228.326 4.962 5.109 o
+-3 -4 3 267.277 243.526 5.308 4.358 o
+-3 -4 4 107.720 93.123 3.282 15.274 o
+-3 -4 5 63.241 68.358 3.202 26.155 o
+-3 -4 6 224.841 240.806 5.936 5.119 o
+-3 -4 7 14.582 10.581 2.368 133.035 o
+-3 -4 8 33.461 40.548 2.772 50.247 o
+-3 -4 9 2.209 3.120 2.331 420.667 o
+-3 -3 -12 67.210 86.485 4.168 21.897 o
+-3 -3 -11 59.117 74.861 3.600 25.995 o
+-3 -3 -10 82.333 94.676 6.660 16.442 o
+-3 -3 -9 6.442 10.556 1.610 237.897 o
+-3 -3 -8 134.880 138.919 3.915 10.623 o
+-3 -3 -7 38.071 35.233 2.082 50.313 o
+-3 -3 -6 225.141 241.647 4.522 5.193 o
+-3 -3 -5 119.241 153.454 3.101 11.367 o
+-3 -3 -4 111.061 123.724 3.252 13.280 o
+-3 -3 -3 529.874 550.543 8.120 1.404 o
+-3 -3 -2 543.957 586.031 8.798 1.314 o
+-3 -3 -1 308.904 348.929 6.370 3.140 o
+-3 -3 0 211.693 263.121 5.622 5.182 o
+-3 -3 1 157.026 128.244 3.157 9.710 o
+-3 -3 2 390.773 417.015 7.811 2.242 o
+-3 -3 3 43.898 72.717 3.929 31.133 o
+-3 -3 4 4.074 4.909 1.372 413.638 o
+-3 -3 5 23.190 37.587 2.715 64.459 o
+-3 -3 6 43.042 25.505 2.058 50.269 o
+-3 -3 7 241.055 234.082 6.579 4.822 o
+-3 -3 8 155.494 157.576 10.556 7.450 o
+-3 -3 9 114.209 133.202 4.792 12.129 o
+-3 -2 -12 42.898 40.626 2.967 42.055 o
+-3 -2 -11 2.978 2.107 1.756 520.029 o
+-3 -2 -10 22.805 21.101 2.259 83.665 o
+-3 -2 -9 5.846 2.497 1.415 381.703 o
+-3 -2 -8 74.076 78.910 5.296 20.200 o
+-3 -2 -7 449.382 453.204 18.695 1.657 o
+-3 -2 -6 196.548 189.932 5.184 6.523 o
+-3 -2 -5 201.960 191.580 3.627 6.467 o
+-3 -2 -4 626.468 628.295 10.451 1.077 o
+-3 -2 -3 223.946 200.205 3.945 5.729 o
+-3 -2 -2 158.026 118.180 2.270 10.056 o
+-3 -2 -1 25.191 19.562 0.990 86.384 o
+-3 -2 0 15.680 19.980 1.298 116.974 o
+-3 -2 1 80.261 68.063 2.086 22.491 o
+-3 -2 2 651.092 720.577 12.261 0.947 o
+-3 -2 3 334.638 281.693 6.843 3.203 o
+-3 -2 4 475.185 499.839 9.046 1.651 o
+-3 -2 5 392.484 364.301 7.096 2.405 o
+-3 -2 6 430.108 409.615 7.915 2.049 o
+-3 -2 7 12.161 17.287 3.148 113.603 o
+-3 -2 8 83.608 89.796 3.975 18.602 o
+-3 -2 9 5.148 2.478 2.004 349.729 o
+-3 -2 10 3.030 3.472 2.221 389.311 o
+-3 -1 -12 88.061 76.282 3.857 19.068 o
+-3 -1 -11 95.926 95.599 3.827 16.401 o
+-3 -1 -10 113.405 99.257 3.143 14.318 o
+-3 -1 -9 359.683 372.065 8.425 2.570 o
+-3 -1 -8 653.831 626.707 13.050 1.014 o
+-3 -1 -7 15.656 3.088 1.162 176.166 o
+-3 -1 -6 71.696 80.066 2.141 23.074 o
+-3 -1 -5 233.507 206.062 3.864 5.436 o
+-3 -1 -4 30.901 26.479 2.808 60.942 o
+-3 -1 -3 754.512 773.895 22.868 0.726 o
+-3 -1 -2 39.316 31.644 2.159 50.654 o
+-3 -1 -1 708.192 731.218 15.425 0.843 o
+-3 -1 0 916.839 908.402 13.049 0.565 o
+-3 -1 1 554.076 518.260 7.760 1.384 o
+-3 -1 2 851.511 852.614 14.273 0.634 o
+-3 -1 3 34.276 19.861 1.222 66.766 o
+-3 -1 4 128.978 127.772 3.261 11.571 o
+-3 -1 5 1.331 -0.904 1.204 1369.060 o
+-3 -1 6 1.834 2.235 1.989 558.089 o
+-3 -1 7 69.583 57.003 2.894 26.248 o
+-3 -1 8 15.683 15.352 1.866 122.173 o
+-3 -1 9 47.056 42.915 2.727 39.141 o
+-3 -1 10 45.429 35.744 3.167 41.506 o
+-3 -1 11 60.139 66.252 4.088 26.385 o
+-3 0 -12 76.279 76.151 4.333 20.932 o
+-3 0 -11 4.470 1.720 1.805 423.546 o
+-3 0 -10 8.729 11.953 1.507 196.778 o
+-3 0 -8 50.453 48.234 2.383 36.264 o
+-3 0 -7 414.431 433.404 9.106 2.049 o
+-3 0 -6 87.549 84.446 3.129 18.868 o
+-3 0 -5 729.348 780.482 13.109 0.796 o
+-3 0 -4 898.646 880.933 26.077 0.551 o
+-3 0 -3 960.320 966.627 28.244 0.481 o
+-3 0 -2 617.046 645.854 13.701 1.058 o
+-3 0 -1 1110.150 1111.550 22.637 0.390 o
+-3 0 0 257.638 254.282 6.151 4.384 o
+-3 0 1 34.807 31.830 4.293 47.121 o
+-3 0 2 85.711 124.388 12.517 10.481 o
+-3 0 4 378.708 386.945 6.908 2.424 o
+-3 0 5 369.861 358.505 6.692 2.585 o
+-3 0 6 276.218 276.939 5.494 3.966 o
+-3 0 7 106.806 123.121 3.532 13.647 o
+-3 0 8 376.131 351.280 7.112 2.558 o
+-3 0 9 43.475 47.446 3.110 39.157 o
+-3 0 10 12.800 11.116 2.060 149.014 o
+-3 0 11 2.023 7.677 2.216 344.715 o
+-3 1 -11 12.624 15.601 2.127 134.196 o
+-3 1 -10 111.531 106.188 4.090 13.842 o
+-3 1 -9 276.237 285.411 7.018 3.843 o
+-3 1 -8 299.510 275.218 5.410 3.676 o
+-3 1 -7 25.474 23.787 1.351 79.308 o
+-3 1 -6 1736.470 1713.850 35.007 0.173 o
+-3 1 -5 182.214 183.121 3.658 7.254 o
+-3 1 -4 39.507 45.736 4.012 39.819 o
+-3 1 -3 24.994 23.991 2.728 72.703 o
+-3 1 -2 10.399 18.631 2.126 138.548 o
+-3 1 -1 1609.060 1729.720 35.177 0.188 o
+-3 1 0 1109.420 1197.310 24.453 0.371 o
+-3 1 1 1064.360 1095.420 28.617 0.401 o
+-3 1 2 1092.270 1103.980 15.923 0.408 o
+-3 1 3 630.821 571.134 9.678 1.128 o
+-3 1 4 807.197 825.891 13.864 0.687 o
+-3 1 5 222.307 235.365 4.667 5.314 o
+-3 1 7 43.262 41.050 2.773 42.108 o
+-3 1 9 33.880 28.163 3.450 53.426 o
+-3 1 10 23.028 22.752 2.290 80.978 o
+-3 1 11 70.671 72.608 5.978 20.716 o
+-3 2 -11 25.014 21.424 3.290 71.021 o
+-3 2 -10 143.706 142.167 3.864 9.974 o
+-3 2 -9 34.665 31.468 1.879 56.460 o
+-3 2 -8 13.324 16.537 1.388 138.020 o
+-3 2 -7 98.807 90.939 2.631 16.809 o
+-3 2 -6 34.290 32.287 2.617 54.114 o
+-3 2 -5 1282.120 1240.740 20.296 0.312 o
+-3 2 -4 799.827 767.441 13.027 0.726 o
+-3 2 -3 845.963 841.414 14.097 0.644 o
+-3 2 -2 1325.110 1364.070 27.797 0.277 o
+-3 2 -1 634.925 513.291 8.802 1.185 o
+-3 2 0 381.875 349.287 5.287 2.558 o
+-3 2 1 186.176 161.829 2.756 7.576 o
+-3 2 2 131.834 150.466 3.117 10.586 o
+-3 2 3 1.741 1.003 0.736 1250.090 o
+-3 2 4 52.520 54.012 1.892 34.339 o
+-3 2 5 267.390 249.558 4.829 4.328 o
+-3 2 6 239.596 221.543 4.591 5.098 o
+-3 2 7 373.807 338.413 6.481 2.634 o
+-3 2 8 417.595 405.383 7.763 2.127 o
+-3 2 9 170.498 158.066 5.021 8.041 o
+-3 2 10 77.036 91.580 4.853 18.933 o
+-3 2 11 58.119 60.865 4.245 27.638 o
+-3 3 -10 103.776 101.003 4.959 14.575 o
+-3 3 -9 117.719 109.757 3.362 13.281 o
+-3 3 -8 136.846 126.098 4.058 10.893 o
+-3 3 -7 300.351 316.495 5.975 3.407 o
+-3 3 -6 551.282 523.821 11.177 1.357 o
+-3 3 -5 35.142 27.764 1.474 59.195 o
+-3 3 -4 50.597 44.689 2.861 36.380 o
+-3 3 -3 247.208 246.435 4.074 4.732 o
+-3 3 -2 4.268 4.196 0.961 465.296 o
+-3 3 -1 76.402 80.839 2.175 21.873 o
+-3 3 0 120.224 115.981 2.614 12.929 o
+-3 3 1 313.876 302.946 5.532 3.347 o
+-3 3 2 775.513 786.986 11.408 0.746 o
+-3 3 3 1375.190 1345.540 19.174 0.274 o
+-3 3 4 882.348 836.201 14.171 0.616 o
+-3 3 5 515.726 485.628 8.564 1.542 o
+-3 3 6 273.099 272.305 5.310 4.050 o
+-3 3 7 143.586 133.692 4.197 10.177 o
+-3 3 8 7.676 4.760 1.813 260.642 o
+-3 3 9 7.712 4.961 2.447 222.495 o
+-3 3 10 8.856 7.078 2.327 197.643 o
+-3 3 11 75.621 67.922 4.451 21.820 o
+-3 4 -9 24.328 28.927 2.714 69.571 o
+-3 4 -8 27.360 39.145 2.726 57.731 o
+-3 4 -7 68.761 78.566 2.759 23.610 o
+-3 4 -6 6.445 19.533 2.261 160.955 o
+-3 4 -5 36.191 38.247 2.370 49.934 o
+-3 4 -4 6.807 35.739 1.783 116.883 o
+-3 4 -3 337.703 329.732 6.341 2.964 o
+-3 4 -2 807.611 805.228 13.807 0.697 o
+-3 4 -1 622.448 615.375 10.670 1.095 o
+-3 4 0 719.795 719.483 12.217 0.850 o
+-3 4 1 1111.810 1203.460 20.161 0.375 o
+-3 4 2 79.931 104.842 3.451 18.271 o
+-3 4 3 234.989 299.780 5.731 4.405 o
+-3 4 4 176.548 285.243 6.242 5.675 o
+-3 4 5 23.988 59.783 2.311 51.486 o
+-3 4 6 213.033 206.788 7.221 5.645 o
+-3 4 7 99.901 80.078 6.379 15.382 o
+-3 4 8 195.749 184.466 5.303 6.619 o
+-3 4 9 62.244 65.769 3.687 26.319 o
+-3 4 10 81.886 85.454 6.660 17.124 o
+-3 4 11 68.766 68.720 7.903 18.999 o
+-3 5 -8 45.661 41.144 2.562 40.900 o
+-3 5 -7 146.734 130.534 3.623 10.185 o
+-3 5 -6 243.455 221.980 8.104 4.772 o
+-3 5 -5 264.747 261.560 5.209 4.260 o
+-3 5 -4 417.398 436.533 9.702 2.016 o
+-3 5 -3 492.242 475.410 10.468 1.617 o
+-3 5 -2 65.509 64.814 2.594 26.561 o
+-3 5 -1 18.558 14.972 1.484 113.728 o
+-3 5 0 2.692 4.209 1.238 554.259 o
+-3 5 1 76.544 68.488 2.405 23.157 o
+-3 5 2 183.755 185.188 4.017 7.130 o
+-3 5 3 298.904 288.205 5.676 3.595 o
+-3 5 4 101.203 87.228 2.725 16.701 o
+-3 5 5 205.655 191.273 4.236 6.318 o
+-3 5 6 228.941 225.801 5.645 5.210 o
+-3 5 7 180.801 182.943 7.302 6.853 o
+-3 5 8 38.758 34.664 3.691 45.164 o
+-3 5 9 65.814 62.907 5.135 23.903 o
+-3 5 10 3.922 2.136 2.193 383.214 o
+-3 5 11 15.413 13.435 4.975 79.253 o
+-3 6 -7 103.445 111.686 6.221 13.435 o
+-3 6 -6 3.098 3.709 1.494 497.291 o
+-3 6 -5 40.090 37.104 2.109 47.563 o
+-3 6 -4 0.520 1.277 1.943 828.000 o
+-3 6 -3 183.847 184.074 4.654 7.083 o
+-3 6 -2 48.230 38.561 3.290 38.576 o
+-3 6 -1 306.825 306.468 13.002 3.075 o
+-3 6 0 223.100 223.027 4.909 5.418 o
+-3 6 1 558.115 541.639 9.868 1.327 o
+-3 6 2 100.234 93.797 3.044 16.269 o
+-3 6 3 594.575 554.019 9.980 1.223 o
+-3 6 4 49.267 44.148 2.568 37.759 o
+-3 6 5 141.610 113.775 3.517 11.104 o
+-3 6 6 5.983 0.289 1.699 396.468 o
+-3 6 7 31.832 29.482 3.691 53.764 o
+-3 6 8 43.956 42.927 5.777 33.076 o
+-3 6 9 73.796 74.823 4.113 21.782 o
+-3 6 10 73.040 63.334 4.192 23.190 o
+-3 6 11 28.008 26.414 2.993 64.106 o
+-3 7 -6 125.271 124.126 5.106 11.520 o
+-3 7 -5 71.220 82.449 4.245 21.402 o
+-3 7 -4 296.425 297.275 8.067 3.478 o
+-3 7 -3 217.379 234.669 7.093 5.247 o
+-3 7 -2 111.798 138.440 4.705 12.139 o
+-3 7 -1 232.970 242.391 12.953 4.299 o
+-3 7 0 78.175 84.118 4.099 19.977 o
+-3 7 1 13.686 12.161 1.957 141.294 o
+-3 7 2 8.843 10.131 1.617 203.887 o
+-3 7 3 35.556 37.462 6.459 35.898 o
+-3 7 4 101.647 103.776 3.970 15.101 o
+-3 7 5 189.359 202.368 5.643 6.505 o
+-3 7 6 203.428 211.873 5.897 5.953 o
+-3 7 7 83.696 107.967 3.505 17.414 o
+-3 7 8 43.224 78.130 3.241 31.407 o
+-3 7 9 43.597 52.842 4.489 34.434 o
+-3 7 10 10.725 27.003 4.663 79.176 o
+-3 8 -4 3.674 -2.084 2.447 404.018 o
+-3 8 -3 4.459 6.820 3.450 195.529 o
+-3 8 -2 6.224 5.898 2.342 246.316 o
+-3 8 -1 63.700 58.140 3.847 26.844 o
+-3 8 0 140.913 145.237 4.535 9.922 o
+-3 8 1 127.126 126.110 4.318 11.531 o
+-3 8 2 209.279 207.126 5.984 5.855 o
+-3 8 3 144.109 134.783 4.299 10.091 o
+-3 8 4 120.128 129.622 4.141 11.987 o
+-3 8 5 58.159 56.024 3.654 29.314 o
+-3 8 6 17.591 12.965 2.769 106.652 o
+-3 8 7 4.087 2.781 2.236 356.752 o
+-3 8 8 3.638 -0.160 3.290 280.558 o
+-3 8 9 4.665 3.195 1.845 372.888 o
+-3 9 -2 69.448 66.918 12.397 13.643 o
+-3 9 -1 99.247 97.278 11.554 11.095 o
+-3 9 0 38.037 34.709 3.972 44.708 o
+-3 9 1 18.480 18.944 2.722 94.140 o
+-3 9 2 14.669 12.663 2.520 124.109 o
+-3 9 3 5.170 5.422 2.375 270.842 o
+-3 9 4 8.690 5.260 2.527 202.398 o
+-3 9 5 34.184 34.941 3.035 51.358 o
+-3 9 6 61.085 64.888 4.281 26.054 o
+-3 9 7 23.386 20.448 3.485 73.295 o
+-3 9 8 73.327 69.236 4.765 21.860 o
+-3 10 1 22.836 32.326 6.660 43.733 o
+-3 10 2 30.700 36.006 9.869 26.007 o
+-3 10 3 40.496 43.863 3.461 41.328 o
+-3 10 4 27.012 22.123 3.005 68.970 o
+-3 10 5 22.470 22.523 3.092 76.354 o
+-2 -11 -6 16.481 12.611 3.174 105.314 o
+-2 -11 -5 13.184 10.212 2.468 140.646 o
+-2 -11 -4 7.626 6.326 2.443 213.793 o
+-2 -11 -3 6.946 3.556 2.382 252.333 o
+-2 -11 -2 0.759 -0.012 2.443 630.443 o
+-2 -10 -9 8.460 10.672 2.516 175.010 o
+-2 -10 -8 5.831 2.537 3.563 197.828 o
+-2 -10 -7 3.680 2.546 2.141 392.634 o
+-2 -10 -6 0.956 0.922 2.111 694.113 o
+-2 -10 -5 1.527 0.403 2.231 604.665 o
+-2 -10 -4 3.924 0.186 2.434 389.883 o
+-2 -10 -3 8.519 4.217 2.095 234.373 o
+-2 -10 -2 2.564 0.798 2.382 457.290 o
+-2 -10 -1 17.235 16.780 3.231 94.990 o
+-2 -10 0 13.654 11.649 2.360 135.518 o
+-2 -10 1 18.713 17.208 2.495 98.640 o
+-2 -9 -11 13.708 12.918 3.771 104.446 o
+-2 -9 -10 6.432 8.219 2.603 209.076 o
+-2 -9 -9 5.609 2.682 2.684 266.048 o
+-2 -9 -8 9.136 6.984 2.048 205.945 o
+-2 -9 -7 3.629 0.301 2.244 436.683 o
+-2 -9 -6 79.203 88.235 3.916 19.539 o
+-2 -9 -5 20.403 19.963 2.212 91.916 o
+-2 -9 -4 45.907 49.357 3.159 37.103 o
+-2 -9 -3 57.995 64.504 3.668 27.883 o
+-2 -9 -2 12.905 14.962 2.107 134.774 o
+-2 -9 -1 59.101 66.107 3.619 27.323 o
+-2 -9 0 2.309 6.729 2.044 373.763 o
+-2 -9 1 1.548 -0.998 2.086 686.460 o
+-2 -9 2 8.126 8.308 2.461 193.453 o
+-2 -9 3 7.424 11.523 2.397 185.637 o
+-2 -9 4 43.670 41.739 8.798 25.056 o
+-2 -8 -12 13.120 9.709 2.780 135.506 o
+-2 -8 -11 1.613 -0.268 2.324 582.979 o
+-2 -8 -10 46.813 41.710 3.035 39.034 o
+-2 -8 -9 17.771 15.524 2.407 105.953 o
+-2 -8 -8 40.654 52.119 3.853 37.700 o
+-2 -8 -7 20.517 22.511 2.139 88.619 o
+-2 -8 -6 9.307 13.344 1.877 173.137 o
+-2 -8 -5 3.412 4.359 1.671 428.210 o
+-2 -8 -4 1.351 1.481 1.626 811.534 o
+-2 -8 -3 16.662 10.311 1.799 131.282 o
+-2 -8 -2 33.033 32.509 2.295 56.513 o
+-2 -8 -1 103.375 98.773 3.699 15.303 o
+-2 -8 0 72.862 73.461 3.521 22.653 o
+-2 -8 1 74.632 69.235 4.598 21.748 o
+-2 -8 2 62.146 67.835 3.675 26.053 o
+-2 -8 3 59.394 58.948 6.197 24.417 o
+-2 -8 4 1.916 6.060 2.156 390.764 o
+-2 -8 5 8.836 13.751 2.946 145.700 o
+-2 -7 -12 14.172 11.955 1.808 141.337 o
+-2 -7 -11 37.407 40.822 2.289 47.870 o
+-2 -7 -10 29.308 31.396 5.456 46.075 o
+-2 -7 -9 19.939 18.471 4.975 66.731 o
+-2 -7 -8 1.111 1.211 1.870 761.677 o
+-2 -7 -7 7.313 5.750 2.648 211.600 o
+-2 -7 -6 51.905 46.753 3.130 34.721 o
+-2 -7 -5 10.670 6.974 1.590 201.436 o
+-2 -7 -4 108.119 96.736 3.308 15.003 o
+-2 -7 -3 113.687 113.313 3.545 13.448 o
+-2 -7 -2 132.650 132.363 3.946 10.991 o
+-2 -7 -1 128.133 114.158 3.619 12.098 o
+-2 -7 0 8.296 12.597 1.749 191.373 o
+-2 -7 1 8.789 10.486 1.772 197.480 o
+-2 -7 2 11.337 15.818 1.954 144.830 o
+-2 -7 3 44.505 41.989 2.881 40.721 o
+-2 -7 4 26.576 20.368 2.220 76.328 o
+-2 -7 5 19.540 22.323 3.503 78.941 o
+-2 -7 6 75.579 80.068 4.186 20.803 o
+-2 -7 7 22.592 22.635 2.636 79.588 o
+-2 -6 -13 0.774 0.625 2.848 460.084 o
+-2 -6 -12 8.198 3.725 2.267 234.734 o
+-2 -6 -11 5.578 4.842 2.070 292.328 o
+-2 -6 -10 19.940 12.844 2.127 106.062 o
+-2 -6 -9 13.447 14.067 2.014 135.810 o
+-2 -6 -8 118.402 116.456 5.536 12.211 o
+-2 -6 -7 131.981 127.688 4.084 11.173 o
+-2 -6 -6 175.389 182.654 7.061 7.074 o
+-2 -6 -5 316.584 328.594 12.036 2.943 o
+-2 -6 -4 119.239 118.906 3.291 12.736 o
+-2 -6 -3 2.842 4.968 1.307 498.286 o
+-2 -6 -2 29.636 43.116 2.425 53.933 o
+-2 -6 -1 89.244 87.621 3.017 18.371 o
+-2 -6 0 102.084 109.916 3.355 14.923 o
+-2 -6 1 142.882 151.756 3.996 9.718 o
+-2 -6 2 110.178 90.016 3.335 15.148 o
+-2 -6 3 160.494 158.196 4.909 8.495 o
+-2 -6 4 46.407 56.388 3.201 34.932 o
+-2 -6 5 66.226 63.204 3.442 25.790 o
+-2 -6 6 39.687 33.360 2.507 48.601 o
+-2 -6 7 0.550 -0.411 2.060 884.020 o
+-2 -6 8 1.529 2.799 2.189 506.241 o
+-2 -5 -13 36.445 32.296 2.922 50.845 o
+-2 -5 -12 55.581 59.478 3.940 29.197 o
+-2 -5 -11 110.414 118.331 4.481 13.217 o
+-2 -5 -10 131.646 155.005 4.878 10.110 o
+-2 -5 -9 254.299 249.504 6.297 4.470 o
+-2 -5 -8 110.510 128.350 4.056 12.886 o
+-2 -5 -7 7.658 7.078 1.503 252.395 o
+-2 -5 -6 4.956 14.668 1.529 231.165 o
+-2 -5 -5 119.741 146.931 3.970 11.391 o
+-2 -5 -4 215.896 268.587 6.240 4.997 o
+-2 -5 -3 389.022 364.709 6.808 2.431 o
+-2 -5 -2 496.361 514.409 9.361 1.550 o
+-2 -5 -1 75.834 81.269 2.620 21.720 o
+-2 -5 0 274.733 308.010 6.081 3.756 o
+-2 -5 1 343.005 340.549 6.638 2.864 o
+-2 -5 2 181.686 191.290 6.450 6.816 o
+-2 -5 3 0.589 1.403 1.415 1184.310 o
+-2 -5 4 69.003 77.902 3.117 23.369 o
+-2 -5 5 12.641 33.065 6.379 53.723 o
+-2 -5 6 79.730 98.697 3.814 18.605 o
+-2 -5 7 23.802 38.453 2.541 63.768 o
+-2 -5 8 101.885 105.432 4.338 14.822 o
+-2 -5 9 12.892 16.459 2.544 123.092 o
+-2 -4 -13 15.278 21.448 4.092 82.720 o
+-2 -4 -12 14.132 10.384 2.267 138.294 o
+-2 -4 -11 10.882 7.703 2.728 159.550 o
+-2 -4 -10 55.096 46.520 3.145 33.247 o
+-2 -4 -9 218.457 219.013 5.588 5.522 o
+-2 -4 -8 335.227 332.543 8.144 2.922 o
+-2 -4 -7 139.970 121.308 5.296 10.542 o
+-2 -4 -6 775.329 789.578 16.284 0.728 o
+-2 -4 -5 375.586 331.327 7.120 2.633 o
+-2 -4 -4 352.625 346.428 7.517 2.740 o
+-2 -4 -3 104.337 72.258 2.199 17.510 o
+-2 -4 -2 2318.080 2361.930 38.402 0.100 o
+-2 -4 -1 130.511 149.158 3.403 10.669 o
+-2 -4 0 231.671 253.970 5.013 4.909 o
+-2 -4 1 91.192 88.167 2.584 18.192 o
+-2 -4 2 242.537 236.958 6.899 4.745 o
+-2 -4 3 697.769 690.022 11.976 0.901 o
+-2 -4 4 332.694 351.522 6.858 2.899 o
+-2 -4 5 482.966 434.966 8.323 1.752 o
+-2 -4 6 151.690 150.991 5.197 9.043 o
+-2 -4 7 44.346 44.848 2.842 39.990 o
+-2 -4 8 33.566 31.326 2.403 56.214 o
+-2 -4 9 5.767 2.555 2.084 318.727 o
+-2 -4 10 0.536 2.603 2.694 453.387 o
+-2 -3 -13 33.131 32.154 2.837 54.649 o
+-2 -3 -12 33.843 31.732 2.929 53.751 o
+-2 -3 -11 175.819 185.884 7.174 6.988 o
+-2 -3 -10 94.278 97.584 3.716 16.541 o
+-2 -3 -9 156.339 145.884 5.256 8.927 o
+-2 -3 -8 144.203 141.967 5.817 9.542 o
+-2 -3 -7 87.654 82.036 2.808 19.217 o
+-2 -3 -6 171.214 171.518 5.015 7.738 o
+-2 -3 -5 24.204 23.502 1.559 81.627 o
+-2 -3 -4 86.278 85.816 2.582 19.228 o
+-2 -3 -3 564.005 545.151 9.214 1.312 o
+-2 -3 -2 1232.870 1300.250 21.321 0.317 o
+-2 -3 -1 1270.570 1238.800 20.440 0.315 o
+-2 -3 0 3264.440 3194.920 52.438 0.053 o
+-2 -3 1 1674.320 1668.790 27.513 0.187 o
+-2 -3 2 447.828 409.820 7.196 1.972 o
+-2 -3 3 124.135 101.165 2.802 13.217 o
+-2 -3 4 280.556 284.834 5.663 3.847 o
+-2 -3 5 2.431 3.831 1.374 572.425 o
+-2 -3 6 22.501 24.337 2.011 82.183 o
+-2 -3 7 8.119 1.357 1.549 308.592 o
+-2 -3 8 31.327 21.809 2.064 67.138 o
+-2 -3 9 44.118 44.282 2.830 40.340 o
+-2 -3 10 82.007 89.446 5.548 17.757 o
+-2 -3 11 52.722 48.062 6.419 27.361 o
+-2 -2 -13 27.533 31.654 6.218 43.228 o
+-2 -2 -12 42.237 38.795 2.695 43.829 o
+-2 -2 -11 6.428 30.784 2.340 123.033 o
+-2 -2 -10 23.379 44.676 3.730 54.487 o
+-2 -2 -9 31.333 123.721 3.801 26.770 o
+-2 -2 -8 56.822 94.198 3.092 24.422 o
+-2 -2 -7 175.007 233.729 5.617 6.468 o
+-2 -2 -6 1672.520 1798.350 35.177 0.175 o
+-2 -2 -5 519.357 514.352 10.553 1.466 o
+-2 -2 -4 1760.580 1807.790 35.659 0.165 o
+-2 -2 -3 1751.580 1764.150 28.428 0.171 o
+-2 -2 -2 765.098 722.863 11.890 0.793 o
+-2 -2 -1 141.141 201.375 3.213 8.621 o
+-2 -2 0 320.540 371.532 7.671 2.895 o
+-2 -2 1 138.117 328.611 15.821 4.718 o
+-2 -2 2 358.648 617.897 20.259 1.648 o
+-2 -2 3 70.515 130.578 2.969 17.949 o
+-2 -2 4 554.285 804.338 13.646 1.029 o
+-2 -2 5 561.011 534.772 9.505 1.331 o
+-2 -2 6 360.512 367.732 7.073 2.611 o
+-2 -2 7 823.844 814.948 14.293 0.675 o
+-2 -2 8 251.034 234.386 5.374 4.710 o
+-2 -2 9 187.634 192.212 5.954 6.677 o
+-2 -2 10 27.623 32.405 2.721 61.786 o
+-2 -2 11 3.805 9.870 2.367 253.074 o
+-2 -1 -13 2.972 3.371 2.367 372.003 o
+-2 -1 -12 15.577 15.140 2.367 116.313 o
+-2 -1 -11 174.154 172.358 5.672 7.516 o
+-2 -1 -10 38.987 45.205 2.944 43.256 o
+-2 -1 -9 395.705 357.449 6.850 2.410 o
+-2 -1 -8 372.212 374.233 8.312 2.479 o
+-2 -1 -7 461.068 408.423 8.794 1.893 o
+-2 -1 -6 394.774 414.777 8.851 2.206 o
+-2 -1 -5 9.145 3.210 0.794 289.817 o
+-2 -1 -4 46.517 38.632 1.725 42.596 o
+-2 -1 -3 111.299 126.492 2.387 13.320 o
+-2 -1 -2 373.687 436.254 12.838 2.168 o
+-2 -1 -1 331.656 298.805 5.251 3.193 o
+-2 -1 0 1258.510 1325.020 18.522 0.308 o
+-2 -1 1 1938.800 1911.440 30.773 0.143 o
+-2 -1 2 515.060 481.380 8.176 1.555 o
+-2 -1 3 2178.190 2180.570 35.839 0.114 o
+-2 -1 4 1245.330 1257.200 20.674 0.320 o
+-2 -1 5 187.230 154.281 3.517 7.619 o
+-2 -1 6 5.329 4.419 1.552 350.829 o
+-2 -1 7 48.134 49.235 2.535 37.022 o
+-2 -1 8 232.617 255.280 5.733 4.836 o
+-2 -1 9 233.353 226.261 5.403 5.129 o
+-2 -1 10 127.620 135.077 4.351 11.157 o
+-2 -1 11 52.696 34.890 3.310 37.041 o
+-2 -1 12 45.198 47.581 5.055 33.488 o
+-2 0 -13 65.041 58.691 3.676 26.555 o
+-2 0 -12 78.286 85.698 4.574 19.448 o
+-2 0 -11 110.268 101.635 3.654 14.367 o
+-2 0 -10 222.381 206.455 7.943 5.361 o
+-2 0 -9 68.468 67.118 3.153 24.881 o
+-2 0 -8 14.025 13.445 1.605 140.563 o
+-2 0 -7 26.307 27.001 1.900 72.046 o
+-2 0 -6 114.894 111.529 3.035 13.556 o
+-2 0 -5 472.374 450.048 9.362 1.752 o
+-2 0 -4 1018.960 1037.490 20.993 0.450 o
+-2 0 -3 1801.170 1657.320 32.960 0.170 o
+-2 0 -2 682.743 653.699 18.936 0.909 o
+-2 0 -1 2881.530 2649.260 52.311 0.070 o
+-2 0 0 1008.030 1007.120 16.551 0.471 o
+-2 0 1 240.955 140.074 2.321 6.154 o
+-2 0 2 124.067 109.146 2.246 12.958 o
+-2 0 3 300.282 292.940 5.290 3.563 o
+-2 0 4 451.212 366.615 6.620 2.069 o
+-2 0 5 723.228 762.636 12.984 0.815 o
+-2 0 6 278.102 261.744 5.148 4.061 o
+-2 0 7 1019.170 1010.060 17.122 0.464 o
+-2 0 8 15.508 14.859 1.718 126.202 o
+-2 0 9 254.766 242.785 5.548 4.560 o
+-2 0 10 33.353 35.150 2.457 54.117 o
+-2 0 11 51.999 54.169 3.677 32.050 o
+-2 0 12 5.574 5.938 3.290 196.926 o
+-2 1 -12 5.223 9.950 2.969 194.577 o
+-2 1 -11 21.469 16.048 2.889 88.028 o
+-2 1 -10 94.163 89.863 3.218 17.335 o
+-2 1 -9 358.911 315.406 6.187 2.847 o
+-2 1 -8 610.017 605.400 10.766 1.129 o
+-2 1 -7 970.951 948.260 15.733 0.511 o
+-2 1 -6 445.612 452.645 7.842 1.877 o
+-2 1 -5 1009.190 1028.420 20.567 0.458 o
+-2 1 -4 855.437 766.120 15.943 0.664 o
+-2 1 -2 59.791 64.993 3.290 27.671 o
+-2 1 -1 299.869 313.429 6.776 3.402 o
+-2 1 0 1148.030 1276.350 17.881 0.351 o
+-2 1 1 743.738 707.634 10.178 0.834 o
+-2 1 2 362.693 352.439 5.273 2.688 o
+-2 1 3 3434.270 3461.050 56.100 0.048 o
+-2 1 4 344.346 319.615 10.484 2.818 o
+-2 1 5 417.493 450.567 9.936 1.978 o
+-2 1 6 323.987 359.894 6.605 2.945 o
+-2 1 7 340.552 405.876 7.578 2.606 o
+-2 1 10 4.272 8.255 2.066 282.383 o
+-2 1 11 69.606 60.133 4.024 24.647 o
+-2 1 12 112.282 107.961 5.034 13.319 o
+-2 2 -12 59.461 62.243 4.099 27.196 o
+-2 2 -11 178.751 182.840 5.643 7.163 o
+-2 2 -10 151.072 160.060 4.130 9.029 o
+-2 2 -9 65.741 84.812 2.925 23.466 o
+-2 2 -8 34.003 36.187 4.012 47.163 o
+-2 2 -7 226.654 234.497 7.064 5.060 o
+-2 2 -6 71.518 85.378 2.422 22.337 o
+-2 2 -5 48.356 31.175 1.541 44.247 o
+-2 2 -4 550.091 590.261 9.991 1.285 o
+-2 2 -3 477.562 414.389 7.133 1.830 o
+-2 2 -2 2918.770 3015.840 48.671 0.064 o
+-2 2 -1 2395.590 2466.450 40.533 0.093 o
+-2 2 0 2620.720 2590.850 42.031 0.081 o
+-2 2 1 1217.060 1251.170 17.640 0.332 o
+-2 2 2 1627.860 1564.880 22.215 0.203 o
+-2 2 3 91.479 67.320 3.450 19.508 o
+-2 2 4 104.192 93.165 6.905 13.876 o
+-2 2 5 24.576 6.981 5.697 61.115 o
+-2 2 6 177.417 180.225 3.825 7.469 o
+-2 2 7 450.377 395.238 8.879 1.971 o
+-2 2 8 118.939 132.587 4.227 11.940 o
+-2 2 9 416.003 365.573 9.518 2.211 o
+-2 2 10 200.839 209.003 6.070 6.042 o
+-2 2 11 54.442 57.034 7.502 23.508 o
+-2 2 12 10.345 27.241 6.218 60.989 o
+-2 3 -11 2.365 5.656 2.171 377.414 o
+-2 3 -10 1.623 -0.180 1.631 913.782 o
+-2 3 -9 63.940 58.860 2.965 27.667 o
+-2 3 -8 141.450 129.804 3.504 10.568 o
+-2 3 -7 514.989 506.616 8.755 1.509 o
+-2 3 -6 267.099 264.537 5.194 4.201 o
+-2 3 -5 2681.440 2608.140 41.384 0.078 o
+-2 3 -4 657.068 658.762 11.164 0.992 o
+-2 3 -3 902.376 886.042 14.716 0.580 o
+-2 3 -2 225.506 274.991 4.262 4.863 o
+-2 3 -1 233.190 228.029 5.400 5.115 o
+-2 3 0 571.169 755.959 10.928 1.058 o
+-2 3 1 171.874 187.665 3.066 7.606 o
+-2 3 2 776.500 805.206 13.524 0.729 o
+-2 3 3 1336.200 1405.240 33.370 0.264 o
+-2 3 4 474.468 466.698 11.915 1.676 o
+-2 3 5 1211.590 1230.640 25.106 0.329 o
+-2 3 6 1005.440 1009.080 20.369 0.465 o
+-2 3 7 227.543 203.080 5.276 5.520 o
+-2 3 8 228.248 209.881 5.559 5.405 o
+-2 3 9 74.356 77.024 3.976 21.545 o
+-2 3 10 2.803 6.004 2.889 272.870 o
+-2 3 11 2.425 1.889 2.193 473.060 o
+-2 3 12 23.740 21.123 2.773 77.701 o
+-2 3 13 4.063 2.875 3.231 247.024 o
+-2 4 -10 70.714 70.052 4.099 23.037 o
+-2 4 -9 183.983 198.294 5.897 6.703 o
+-2 4 -8 204.337 203.334 5.085 6.116 o
+-2 4 -7 268.010 288.116 5.791 3.991 o
+-2 4 -6 35.047 35.651 2.122 53.039 o
+-2 4 -5 26.356 21.083 1.713 78.765 o
+-2 4 -4 344.556 322.195 5.927 2.947 o
+-2 4 -3 362.628 325.111 5.247 2.796 o
+-2 4 -2 719.912 710.027 12.083 0.856 o
+-2 4 -1 1014.110 973.140 16.550 0.477 o
+-2 4 0 623.650 531.033 9.259 1.188 o
+-2 4 1 1356.880 1308.760 21.755 0.281 o
+-2 4 2 1011.110 931.500 13.446 0.496 o
+-2 4 3 687.085 663.065 11.285 0.940 o
+-2 4 4 308.030 308.079 5.764 3.376 o
+-2 4 5 172.095 163.498 4.312 7.957 o
+-2 4 6 55.331 53.890 2.667 32.193 o
+-2 4 7 73.201 56.006 4.172 24.081 o
+-2 4 8 115.745 93.442 3.631 14.226 o
+-2 4 9 363.580 344.783 11.715 2.539 o
+-2 4 10 220.998 199.718 6.499 5.611 o
+-2 4 11 66.009 70.300 4.111 24.160 o
+-2 4 12 93.765 90.203 5.015 16.409 o
+-2 4 13 52.367 71.974 8.666 20.371 o
+-2 5 -9 9.480 8.342 1.885 198.560 o
+-2 5 -8 16.464 15.756 2.201 113.340 o
+-2 5 -7 69.098 71.033 3.600 23.793 o
+-2 5 -6 170.651 174.340 4.090 7.820 o
+-2 5 -5 348.933 362.928 7.468 2.706 o
+-2 5 -4 170.353 200.924 4.173 7.313 o
+-2 5 -3 330.784 384.241 6.107 2.797 o
+-2 5 -2 682.358 782.965 13.562 0.852 o
+-2 5 -1 269.896 356.459 8.217 3.437 o
+-2 5 0 151.876 166.478 3.996 8.848 o
+-2 5 1 21.657 25.108 1.604 85.663 o
+-2 5 2 79.906 77.199 2.588 21.299 o
+-2 5 3 253.250 269.825 5.214 4.376 o
+-2 5 4 743.713 788.603 13.480 0.774 o
+-2 5 5 803.214 843.521 14.437 0.681 o
+-2 5 6 517.178 537.924 11.546 1.428 o
+-2 5 7 281.755 291.356 7.120 3.729 o
+-2 5 8 297.459 344.060 11.554 3.066 o
+-2 5 9 27.407 52.715 3.448 47.915 o
+-2 5 10 10.995 11.813 2.228 156.203 o
+-2 5 11 17.713 25.131 2.748 87.349 o
+-2 5 12 6.997 6.138 3.197 184.582 o
+-2 6 -8 89.545 80.749 3.591 18.595 o
+-2 6 -7 81.049 73.344 3.252 21.067 o
+-2 6 -6 160.573 175.547 4.466 8.171 o
+-2 6 -5 131.975 132.397 3.647 11.101 o
+-2 6 -4 35.284 34.687 2.780 51.292 o
+-2 6 -3 21.100 22.931 1.543 90.428 o
+-2 6 -2 69.538 59.830 4.381 24.295 o
+-2 6 -1 282.275 267.817 5.519 3.945 o
+-2 6 0 382.961 346.101 6.725 2.536 o
+-2 6 1 522.304 488.687 8.860 1.513 o
+-2 6 2 988.063 988.453 16.783 0.487 o
+-2 6 3 84.631 34.965 1.923 25.767 o
+-2 6 4 516.696 520.316 9.155 1.479 o
+-2 6 5 18.488 2.209 0.915 157.739 o
+-2 6 6 43.104 42.568 2.088 43.056 o
+-2 6 7 4.592 3.460 1.374 424.685 o
+-2 6 8 2.827 1.788 1.511 607.505 o
+-2 6 9 59.971 51.432 5.135 27.120 o
+-2 6 10 15.733 18.114 2.058 113.195 o
+-2 6 11 47.921 45.472 6.114 30.104 o
+-2 6 12 85.450 92.778 4.723 17.590 o
+-2 7 -7 6.556 5.325 2.673 224.588 o
+-2 7 -6 24.462 14.615 1.948 90.046 o
+-2 7 -5 89.249 82.262 3.356 18.647 o
+-2 7 -4 166.859 168.702 3.820 8.128 o
+-2 7 -3 261.197 263.217 5.468 4.290 o
+-2 7 -2 381.395 394.609 7.792 2.365 o
+-2 7 -1 162.759 161.976 4.209 8.409 o
+-2 7 0 157.738 147.685 3.896 9.040 o
+-2 7 1 82.610 88.300 3.080 19.424 o
+-2 7 2 32.350 29.378 1.827 60.868 o
+-2 7 3 0.020 -2.402 1.278 2648.340 o
+-2 7 4 17.898 18.096 1.843 106.731 o
+-2 7 5 16.040 12.970 1.587 130.056 o
+-2 7 6 72.379 69.960 3.516 23.188 o
+-2 7 7 156.585 148.550 3.946 9.069 o
+-2 7 8 178.747 177.471 4.275 7.425 o
+-2 7 9 57.254 44.876 2.523 33.531 o
+-2 7 10 84.803 84.972 4.395 18.527 o
+-2 7 11 23.041 24.822 2.768 75.386 o
+-2 7 12 2.505 2.970 2.326 409.883 o
+-2 8 -6 110.049 117.422 4.107 13.425 o
+-2 8 -5 44.849 44.230 2.723 40.109 o
+-2 8 -4 89.374 92.673 3.397 17.766 o
+-2 8 -3 42.860 51.688 3.173 38.135 o
+-2 8 -2 2.869 10.636 4.132 156.491 o
+-2 8 -1 12.718 23.472 5.095 73.170 o
+-2 8 0 49.063 65.737 3.142 31.698 o
+-2 8 1 56.168 106.079 3.604 22.673 o
+-2 8 2 240.818 260.686 5.725 4.638 o
+-2 8 3 62.144 91.182 4.683 21.991 o
+-2 8 4 449.929 428.676 8.213 1.906 o
+-2 8 5 99.802 101.967 3.550 15.604 o
+-2 8 6 146.953 133.380 3.951 10.027 o
+-2 8 7 31.238 27.460 2.608 60.745 o
+-2 8 8 3.573 2.272 1.581 500.681 o
+-2 8 9 0.759 12.112 2.065 328.074 o
+-2 8 10 6.596 13.003 2.365 187.832 o
+-2 8 11 16.158 26.570 3.176 85.183 o
+-2 9 -4 13.754 8.145 2.699 138.307 o
+-2 9 -3 86.190 91.659 7.422 15.528 o
+-2 9 -2 103.848 105.596 4.958 14.319 o
+-2 9 -1 74.358 67.302 3.541 23.010 o
+-2 9 0 184.772 188.047 9.629 6.275 o
+-2 9 1 97.172 80.479 6.178 15.826 o
+-2 9 2 59.642 50.029 4.832 27.971 o
+-2 9 3 19.770 21.261 2.051 93.204 o
+-2 9 4 3.069 3.468 1.803 455.098 o
+-2 9 5 7.176 5.712 2.156 241.580 o
+-2 9 6 22.376 26.135 2.393 77.996 o
+-2 9 7 36.010 36.730 3.382 47.625 o
+-2 9 8 20.404 26.178 3.089 76.862 o
+-2 9 9 18.031 19.396 4.439 74.925 o
+-2 9 10 28.738 27.019 2.480 65.229 o
+-2 10 -2 9.407 3.257 4.453 126.408 o
+-2 10 -1 6.817 4.462 4.533 134.215 o
+-2 10 0 1.872 2.808 3.851 228.995 o
+-2 10 1 13.960 17.577 3.252 104.206 o
+-2 10 2 14.691 17.195 2.483 113.987 o
+-2 10 3 48.672 40.511 6.299 30.256 o
+-2 10 4 61.547 56.427 4.009 27.585 o
+-2 10 5 50.475 57.263 4.106 31.278 o
+-2 10 6 41.107 34.734 3.330 44.500 o
+-2 10 7 28.517 22.477 3.001 66.273 o
+-2 10 8 19.345 17.968 3.771 81.291 o
+-2 11 3 24.001 17.863 3.571 73.824 o
+-2 11 4 1.737 4.544 2.393 397.208 o
+-1 -11 -8 1.098 2.189 2.301 535.905 o
+-1 -11 -7 2.634 1.937 2.912 331.164 o
+-1 -11 -6 0.821 4.972 3.161 305.340 o
+-1 -11 -5 2.739 6.648 3.851 191.521 o
+-1 -11 -4 5.129 -0.156 2.494 336.249 o
+-1 -11 -3 8.511 5.896 2.364 208.215 o
+-1 -11 -2 10.211 12.706 3.184 133.854 o
+-1 -11 -1 3.689 2.648 3.771 210.130 o
+-1 -11 0 0.359 1.206 2.981 432.396 o
+-1 -10 -10 0.293 -4.431 4.493 213.512 o
+-1 -10 -9 17.141 12.038 2.810 109.610 o
+-1 -10 -8 19.248 18.826 4.399 73.622 o
+-1 -10 -7 18.885 16.965 2.355 99.995 o
+-1 -10 -6 16.617 17.123 2.235 109.438 o
+-1 -10 -5 33.983 36.247 2.592 52.433 o
+-1 -10 -4 0.556 2.155 1.896 763.357 o
+-1 -10 -3 0.965 1.221 2.209 630.940 o
+-1 -10 -2 15.329 13.200 2.159 125.321 o
+-1 -10 -1 18.303 17.858 2.507 98.784 o
+-1 -10 0 24.546 24.717 2.878 71.862 o
+-1 -10 1 19.758 16.104 2.310 98.989 o
+-1 -10 2 28.686 26.419 3.316 61.322 o
+-1 -10 3 5.053 6.204 2.887 227.749 o
+-1 -9 -11 9.540 16.407 4.694 94.693 o
+-1 -9 -10 16.107 12.660 2.659 115.003 o
+-1 -9 -9 10.764 12.564 2.788 141.067 o
+-1 -9 -8 2.147 1.593 2.228 495.346 o
+-1 -9 -7 18.720 9.924 2.047 118.283 o
+-1 -9 -6 13.941 12.858 1.984 136.988 o
+-1 -9 -5 91.988 86.479 3.619 17.729 o
+-1 -9 -4 100.123 88.293 3.642 16.412 o
+-1 -9 -3 45.760 39.604 2.408 41.645 o
+-1 -9 -2 89.537 85.941 4.540 17.609 o
+-1 -9 -1 11.752 8.904 1.928 169.705 o
+-1 -9 0 27.526 25.155 2.263 69.787 o
+-1 -9 1 7.220 6.984 1.941 240.812 o
+-1 -9 2 14.770 13.532 2.174 127.160 o
+-1 -9 3 2.953 5.461 2.085 368.018 o
+-1 -9 4 1.997 1.199 2.751 398.917 o
+-1 -9 5 10.101 10.405 3.149 142.590 o
+-1 -8 -12 1.334 0.396 1.768 852.675 o
+-1 -8 -11 25.873 26.902 2.062 72.183 o
+-1 -8 -10 26.163 41.637 9.147 28.824 o
+-1 -8 -9 85.273 83.036 6.941 16.582 o
+-1 -8 -8 69.106 85.924 4.395 21.346 o
+-1 -8 -7 79.276 92.064 4.441 18.825 o
+-1 -8 -6 102.339 118.583 3.775 14.266 o
+-1 -8 -5 59.960 55.102 2.970 29.720 o
+-1 -8 -4 15.596 19.182 1.845 113.913 o
+-1 -8 -3 10.537 14.555 1.759 159.417 o
+-1 -8 -2 0.192 5.369 1.647 672.749 o
+-1 -8 -1 4.727 2.094 1.603 427.197 o
+-1 -8 0 85.550 94.461 3.513 18.169 o
+-1 -8 1 85.882 82.436 3.405 19.184 o
+-1 -8 2 130.487 142.328 4.315 10.716 o
+-1 -8 3 60.621 69.232 3.880 26.058 o
+-1 -8 4 301.807 293.542 7.932 3.445 o
+-1 -8 5 12.749 16.660 3.057 114.098 o
+-1 -8 6 13.768 14.644 3.289 109.847 o
+-1 -7 -13 5.872 6.587 2.574 231.630 o
+-1 -7 -12 18.790 19.039 2.199 98.438 o
+-1 -7 -11 13.053 14.839 2.120 134.031 o
+-1 -7 -10 127.106 136.613 4.468 11.110 o
+-1 -7 -9 2.518 3.421 1.371 585.121 o
+-1 -7 -8 8.548 4.843 1.870 239.694 o
+-1 -7 -7 0.901 1.886 1.645 853.333 o
+-1 -7 -5 307.744 315.483 10.391 3.160 o
+-1 -7 -4 87.197 116.409 3.474 16.332 o
+-1 -7 -3 230.843 221.444 4.932 5.263 o
+-1 -7 -2 532.680 531.547 9.802 1.410 o
+-1 -7 -1 199.868 182.717 4.411 6.605 o
+-1 -7 0 457.706 470.954 8.907 1.774 o
+-1 -7 1 107.144 111.233 3.607 14.202 o
+-1 -7 2 31.064 30.550 2.034 61.143 o
+-1 -7 3 1.439 0.776 1.612 875.926 o
+-1 -7 4 0.578 0.380 1.731 1095.100 o
+-1 -7 5 78.617 75.465 3.684 21.047 o
+-1 -7 6 15.944 22.899 2.618 97.018 o
+-1 -7 7 31.670 33.370 5.777 42.107 o
+-1 -7 8 30.578 23.072 5.055 50.763 o
+-1 -6 -13 20.133 17.453 2.208 96.575 o
+-1 -6 -12 18.568 16.131 2.026 106.102 o
+-1 -6 -11 44.398 39.264 2.593 42.329 o
+-1 -6 -10 0.322 0.752 1.423 1491.680 o
+-1 -6 -9 138.247 131.246 3.417 10.749 o
+-1 -6 -8 74.393 81.039 4.577 20.608 o
+-1 -6 -7 244.571 237.597 4.682 4.836 o
+-1 -6 -6 182.962 184.983 5.078 7.051 o
+-1 -6 -5 227.097 205.083 9.869 5.065 o
+-1 -6 -4 161.240 167.294 4.567 8.308 o
+-1 -6 -3 174.299 155.630 3.648 8.108 o
+-1 -6 -2 40.308 54.170 2.740 39.805 o
+-1 -6 -1 13.547 14.499 1.802 137.296 o
+-1 -6 0 123.684 113.846 3.170 12.595 o
+-1 -6 1 133.733 140.833 4.422 10.527 o
+-1 -6 2 164.814 164.576 4.107 8.272 o
+-1 -6 3 361.764 353.339 7.020 2.656 o
+-1 -6 4 322.367 310.746 6.491 3.192 o
+-1 -6 5 74.995 78.939 3.408 21.647 o
+-1 -6 6 126.692 123.121 4.148 11.723 o
+-1 -6 7 142.894 143.156 6.007 9.534 o
+-1 -6 8 22.332 23.719 2.773 77.931 o
+-1 -6 9 1.183 -0.144 2.959 425.743 o
+-1 -5 -13 25.650 18.706 2.748 76.438 o
+-1 -5 -12 56.465 59.272 4.048 28.757 o
+-1 -5 -11 39.961 39.947 2.695 45.125 o
+-1 -5 -10 242.199 242.349 6.467 4.732 o
+-1 -5 -9 2.612 3.529 1.673 509.193 o
+-1 -5 -8 221.512 212.185 5.475 5.539 o
+-1 -5 -7 203.061 215.187 4.219 6.058 o
+-1 -5 -6 60.546 64.326 2.332 28.494 o
+-1 -5 -5 37.109 33.422 4.052 45.617 o
+-1 -5 -4 5.766 36.027 2.889 106.024 o
+-1 -5 -3 201.265 187.205 4.383 6.496 o
+-1 -5 -2 606.095 620.263 10.715 1.123 o
+-1 -5 -1 734.255 744.411 12.691 0.814 o
+-1 -5 0 807.004 784.177 16.340 0.699 o
+-1 -5 1 314.061 291.110 5.812 3.401 o
+-1 -5 2 330.956 326.558 6.308 3.040 o
+-1 -5 3 327.361 322.732 6.309 3.091 o
+-1 -5 4 15.981 19.945 1.932 109.765 o
+-1 -5 5 0.078 -2.585 1.424 2061.720 o
+-1 -5 6 3.642 3.036 1.652 457.010 o
+-1 -5 7 195.285 199.496 5.157 6.421 o
+-1 -5 8 65.265 65.184 4.742 24.266 o
+-1 -5 9 103.088 104.951 4.890 14.467 o
+-1 -5 10 61.464 54.221 4.147 27.775 o
+-1 -4 -14 48.068 49.988 4.814 32.311 o
+-1 -4 -13 24.223 24.485 2.773 73.385 o
+-1 -4 -12 32.320 31.534 3.771 51.838 o
+-1 -4 -11 32.027 31.955 2.520 57.243 o
+-1 -4 -10 130.796 160.039 5.737 9.806 o
+-1 -4 -8 10.509 20.883 1.730 137.438 o
+-1 -4 -7 289.751 306.381 9.749 3.420 o
+-1 -4 -6 823.902 847.708 17.333 0.651 o
+-1 -4 -5 628.681 666.430 14.603 1.013 o
+-1 -4 -4 1887.050 1863.470 36.652 0.149 o
+-1 -4 -3 1385.810 1318.580 26.070 0.270 o
+-1 -4 -2 122.917 134.530 3.189 11.793 o
+-1 -4 -1 430.129 389.448 6.836 2.117 o
+-1 -4 2 197.578 273.072 5.596 5.382 o
+-1 -4 3 192.809 195.648 4.328 6.631 o
+-1 -4 4 328.797 423.979 7.853 2.619 o
+-1 -4 5 184.565 155.176 3.877 7.671 o
+-1 -4 6 468.973 475.324 8.902 1.722 o
+-1 -4 7 294.078 289.894 6.200 3.625 o
+-1 -4 8 14.452 21.415 2.075 111.437 o
+-1 -4 9 30.309 31.252 2.496 59.939 o
+-1 -4 10 24.085 22.155 3.530 70.142 o
+-1 -3 -14 2.741 1.370 3.611 249.766 o
+-1 -3 -13 1.710 1.052 2.250 547.319 o
+-1 -3 -12 52.298 40.647 3.425 35.502 o
+-1 -3 -11 196.085 190.113 5.616 6.490 o
+-1 -3 -10 424.844 418.343 9.645 2.025 o
+-1 -3 -9 460.961 464.005 10.241 1.757 o
+-1 -3 -8 896.143 893.413 18.184 0.573 o
+-1 -3 -7 1131.850 1128.710 22.695 0.378 o
+-1 -3 -6 27.245 25.893 1.759 71.948 o
+-1 -3 -5 143.062 117.228 3.062 10.962 o
+-1 -3 -4 74.411 78.942 2.241 22.509 o
+-1 -3 -3 16.563 19.491 1.219 114.695 o
+-1 -3 -2 716.392 764.593 15.489 0.811 o
+-1 -3 -1 535.183 500.222 8.567 1.459 o
+-1 -3 0 17.083 91.386 3.327 41.450 o
+-1 -3 1 1712.330 1705.230 27.902 0.180 o
+-1 -3 2 2455.440 2408.260 39.098 0.092 o
+-1 -3 3 1059.190 985.353 16.619 0.450 o
+-1 -3 4 256.998 236.837 5.396 4.581 o
+-1 -3 5 932.600 942.686 16.220 0.536 o
+-1 -3 6 31.059 28.328 2.289 61.729 o
+-1 -3 7 96.657 106.165 3.355 15.811 o
+-1 -3 8 4.787 2.527 1.575 415.656 o
+-1 -3 9 104.555 96.848 3.739 15.261 o
+-1 -3 10 77.480 84.717 3.916 20.186 o
+-1 -3 11 52.920 45.495 4.895 31.075 o
+-1 -2 -13 72.439 69.102 5.376 21.402 o
+-1 -2 -12 116.555 122.618 5.491 12.127 o
+-1 -2 -11 134.291 133.882 4.651 10.666 o
+-1 -2 -10 4.827 7.319 1.787 300.890 o
+-1 -2 -9 7.527 9.450 1.547 231.145 o
+-1 -2 -8 28.365 26.522 1.759 69.387 o
+-1 -2 -7 392.759 407.529 8.964 2.236 o
+-1 -2 -6 72.444 40.761 1.843 28.835 o
+-1 -2 -5 1086.490 1067.630 21.390 0.411 o
+-1 -2 -4 1646.690 1499.300 29.645 0.202 o
+-1 -2 -3 3248.160 3135.620 86.898 0.051 o
+-1 -2 -2 282.891 264.907 5.503 3.957 o
+-1 -2 0 269.607 309.718 5.447 3.836 o
+-1 -2 1 2286.690 2145.550 42.638 0.107 o
+-1 -2 2 99.983 84.735 1.984 17.287 o
+-1 -2 3 5.597 1.596 0.743 482.329 o
+-1 -2 4 627.224 652.423 13.475 1.035 o
+-1 -2 5 651.930 674.253 11.671 0.985 o
+-1 -2 6 976.178 918.702 19.257 0.509 o
+-1 -2 7 201.051 189.470 4.442 6.464 o
+-1 -2 8 170.889 159.116 4.092 8.128 o
+-1 -2 9 367.692 373.881 7.547 2.528 o
+-1 -2 10 66.916 63.540 3.936 25.012 o
+-1 -2 11 4.790 4.075 2.272 307.059 o
+-1 -2 12 25.750 33.379 4.574 53.301 o
+-1 -1 -13 8.599 12.347 2.808 156.710 o
+-1 -1 -12 10.536 15.970 2.375 141.195 o
+-1 -1 -11 17.713 29.900 2.371 84.532 o
+-1 -1 -10 199.950 190.334 4.972 6.436 o
+-1 -1 -9 161.807 177.407 4.007 8.136 o
+-1 -1 -8 799.430 799.071 13.648 0.708 o
+-1 -1 -7 854.558 854.388 14.297 0.631 o
+-1 -1 -6 496.337 689.052 13.957 1.260 o
+-1 -1 -5 2449.710 2609.050 51.772 0.086 o
+-1 -1 -4 1657.980 1775.320 35.290 0.179 o
+-1 -1 -3 38.730 321.072 6.355 10.322 o
+-1 -1 -2 606.123 1839.300 36.595 0.417 o
+-1 -1 -1 353.016 642.407 14.563 1.755 o
+-1 -1 0 2965.550 2860.560 93.076 0.059 o
+-1 -1 1 8744.940 8023.800 228.598 0.008 o
+-1 -1 2 2270.160 2311.210 37.508 0.104 o
+-1 -1 3 970.726 1122.480 18.344 0.458 o
+-1 -1 4 1449.400 1703.970 27.717 0.218 o
+-1 -1 5 1755.570 1773.450 29.076 0.170 o
+-1 -1 6 83.624 195.363 4.997 12.022 o
+-1 -1 7 193.768 282.916 5.578 5.358 o
+-1 -1 8 239.125 255.907 7.420 4.601 o
+-1 -1 9 12.531 27.139 1.964 108.830 o
+-1 -1 10 56.131 48.157 3.538 31.810 o
+-1 -1 11 37.907 43.991 3.001 44.355 o
+-1 -1 12 82.411 79.516 6.660 17.470 o
+-1 0 -13 50.329 51.730 3.633 33.393 o
+-1 0 -12 119.752 119.486 4.735 12.255 o
+-1 0 -11 128.210 112.419 3.606 12.167 o
+-1 0 -10 121.371 124.883 4.586 11.950 o
+-1 0 -9 365.717 355.979 8.653 2.578 o
+-1 0 -8 70.364 61.570 2.323 25.795 o
+-1 0 -7 1.907 -1.273 0.924 1300.030 o
+-1 0 -6 29.537 38.170 1.549 59.536 o
+-1 0 -5 1957.320 2109.980 34.126 0.133 o
+-1 0 -4 1312.140 1312.980 26.496 0.288 o
+-1 0 -3 1889.070 1774.350 35.461 0.153 o
+-1 0 -1 5762.000 4942.100 137.528 0.018 o
+-1 0 0 28.785 35.138 0.908 64.075 o
+-1 0 1 1027.300 789.890 11.447 0.533 o
+-1 0 2 1321.480 1252.060 20.445 0.299 o
+-1 0 3 397.576 384.631 6.577 2.318 o
+-1 0 4 78.941 64.322 1.706 23.434 o
+-1 0 5 659.212 679.115 11.534 0.970 o
+-1 0 6 193.568 207.805 6.111 6.253 o
+-1 0 7 328.083 299.084 6.006 3.207 o
+-1 0 8 1884.510 1882.740 31.084 0.150 o
+-1 0 9 546.073 529.694 12.236 1.352 o
+-1 0 10 206.160 207.219 6.900 5.841 o
+-1 0 11 137.561 137.523 4.993 10.257 o
+-1 0 12 102.090 111.207 4.875 14.245 o
+-1 0 13 5.003 5.135 3.851 175.796 o
+-1 1 -13 60.467 72.397 4.455 24.944 o
+-1 1 -12 23.466 16.529 5.055 62.325 o
+-1 1 -11 11.574 11.153 2.969 135.884 o
+-1 1 -10 61.763 44.736 3.623 30.116 o
+-1 1 -9 16.608 20.153 1.620 109.830 o
+-1 1 -8 448.336 425.414 7.810 1.926 o
+-1 1 -7 339.316 324.975 6.004 2.979 o
+-1 1 -6 953.415 844.425 14.206 0.559 o
+-1 1 -5 2224.340 2189.640 35.529 0.111 o
+-1 1 -4 166.198 105.384 2.239 9.952 o
+-1 1 -3 769.671 755.052 12.399 0.767 o
+-1 1 -2 1617.160 1614.960 32.000 0.196 o
+-1 1 -1 13.425 20.530 0.576 131.957 o
+-1 1 0 258.874 388.156 4.929 3.502 o
+-1 1 1 208.799 227.596 3.013 5.815 o
+-1 1 2 1593.670 1579.510 22.025 0.208 o
+-1 1 3 1876.070 1718.840 28.150 0.160 o
+-1 1 4 4128.310 4129.130 115.623 0.031 o
+-1 1 5 1558.720 1504.330 24.583 0.218 o
+-1 1 6 871.014 814.880 13.557 0.635 o
+-1 1 7 316.276 272.193 7.703 3.413 o
+-1 1 8 301.772 296.857 7.007 3.464 o
+-1 1 9 117.616 127.303 4.111 12.297 o
+-1 1 10 7.924 5.405 1.885 245.298 o
+-1 1 11 14.266 13.967 2.261 127.273 o
+-1 1 12 49.245 39.719 3.001 38.255 o
+-1 1 13 38.036 36.268 4.734 41.370 o
+-1 2 -12 61.691 58.305 4.113 27.095 o
+-1 2 -11 114.005 122.172 4.731 12.631 o
+-1 2 -10 299.565 317.560 6.652 3.388 o
+-1 2 -9 557.350 569.053 10.282 1.291 o
+-1 2 -8 295.518 291.251 5.711 3.616 o
+-1 2 -7 354.298 437.378 7.812 2.401 o
+-1 2 -6 185.644 204.169 4.105 6.741 o
+-1 2 -5 0.361 3.090 1.674 824.904 o
+-1 2 -4 100.376 135.390 2.856 13.863 o
+-1 2 -3 81.312 80.010 3.350 20.285 o
+-1 2 -2 2391.480 2296.920 43.751 0.097 o
+-1 2 -1 1551.570 1561.620 32.139 0.210 o
+-1 2 0 2510.620 2179.730 30.620 0.096 o
+-1 2 1 2178.390 2048.430 28.725 0.120 o
+-1 2 2 2933.580 2780.250 78.152 0.063 o
+-1 2 3 910.020 909.260 25.676 0.535 o
+-1 2 4 163.493 134.642 3.234 9.169 o
+-1 2 5 78.088 75.177 2.354 22.040 o
+-1 2 6 27.211 38.745 2.014 60.881 o
+-1 2 7 112.140 110.054 3.576 13.754 o
+-1 2 8 909.688 945.393 21.584 0.537 o
+-1 2 9 19.499 53.642 2.918 57.654 o
+-1 2 10 311.080 348.043 8.465 3.056 o
+-1 2 11 253.409 286.556 7.373 4.133 o
+-1 2 12 121.932 127.783 5.189 11.608 o
+-1 2 13 11.410 14.122 4.092 104.233 o
+-1 3 -11 15.412 19.588 4.654 77.283 o
+-1 3 -10 4.015 3.729 1.711 407.403 o
+-1 3 -9 14.382 12.478 1.693 140.071 o
+-1 3 -8 93.948 75.908 2.931 18.602 o
+-1 3 -7 264.494 255.259 5.234 4.312 o
+-1 3 -6 1017.650 1020.420 17.109 0.462 o
+-1 3 -5 444.672 409.713 7.319 1.986 o
+-1 3 -4 1025.420 1032.110 17.079 0.455 o
+-1 3 -3 2342.130 2300.840 37.832 0.101 o
+-1 3 -2 1837.580 1860.280 30.729 0.156 o
+-1 3 -1 72.783 30.814 2.119 30.350 o
+-1 3 0 2259.400 2299.850 37.153 0.105 o
+-1 3 1 62.845 63.334 1.587 28.402 o
+-1 3 2 358.344 372.740 6.377 2.624 o
+-1 3 3 55.834 56.158 1.544 32.606 o
+-1 3 4 1546.480 1627.570 32.992 0.205 o
+-1 3 5 239.500 218.662 5.305 5.087 o
+-1 3 6 1153.540 1108.090 32.256 0.357 o
+-1 3 7 540.370 545.191 11.911 1.350 o
+-1 3 8 553.637 551.718 17.652 1.245 o
+-1 3 9 83.517 85.362 5.536 17.846 o
+-1 3 10 160.175 158.143 4.962 8.503 o
+-1 3 11 0.391 1.498 1.927 841.402 o
+-1 3 12 28.759 27.665 2.723 63.520 o
+-1 3 13 16.807 11.428 3.218 105.583 o
+-1 4 -11 30.926 29.373 3.016 58.075 o
+-1 4 -10 132.757 140.370 12.999 7.795 o
+-1 4 -9 168.112 165.812 4.956 7.988 o
+-1 4 -8 179.196 184.353 4.568 7.251 o
+-1 4 -7 176.531 163.288 4.595 7.746 o
+-1 4 -6 769.898 767.881 13.280 0.757 o
+-1 4 -5 56.529 47.915 2.206 33.545 o
+-1 4 -4 318.127 313.302 5.883 3.239 o
+-1 4 -3 35.063 40.783 1.757 51.274 o
+-1 4 -2 119.969 121.135 2.982 12.643 o
+-1 4 -1 1335.530 1348.670 21.942 0.282 o
+-1 4 0 1117.650 1138.880 18.808 0.387 o
+-1 4 1 3219.960 3212.400 52.039 0.054 o
+-1 4 2 1459.570 1543.140 25.093 0.232 o
+-1 4 3 1337.430 1176.900 16.718 0.308 o
+-1 4 4 754.256 753.332 12.616 0.785 o
+-1 4 5 905.408 880.191 18.014 0.572 o
+-1 4 6 99.064 84.535 3.316 16.965 o
+-1 4 7 16.350 10.964 1.532 134.768 o
+-1 4 8 30.249 50.041 2.830 48.653 o
+-1 4 9 3.194 3.127 1.667 481.681 o
+-1 4 10 293.682 278.148 9.348 3.555 o
+-1 4 11 132.889 128.647 4.144 11.061 o
+-1 4 12 11.237 11.593 2.128 157.572 o
+-1 4 13 25.691 28.951 4.132 58.573 o
+-1 5 -10 42.704 51.492 3.879 36.690 o
+-1 5 -9 31.738 38.819 5.135 43.126 o
+-1 5 -8 1.654 0.239 1.717 829.377 o
+-1 5 -7 21.496 14.965 1.780 99.930 o
+-1 5 -6 231.005 236.589 5.172 5.086 o
+-1 5 -5 102.689 90.392 2.979 16.192 o
+-1 5 -4 1773.040 1803.030 29.864 0.166 o
+-1 5 -3 819.940 798.549 13.604 0.689 o
+-1 5 -2 751.536 736.428 12.584 0.798 o
+-1 5 -1 460.668 437.168 6.666 1.858 o
+-1 5 0 1116.330 1135.490 18.947 0.388 o
+-1 5 1 0.517 4.353 1.024 950.343 o
+-1 5 2 15.466 13.297 1.229 136.548 o
+-1 5 3 2.873 3.036 1.074 627.566 o
+-1 5 4 174.464 183.781 4.227 7.472 o
+-1 5 5 236.833 225.799 4.391 5.121 o
+-1 5 6 515.688 570.166 9.835 1.403 o
+-1 5 7 491.235 501.359 9.064 1.592 o
+-1 5 8 289.830 274.698 5.543 3.797 o
+-1 5 9 420.899 418.279 14.363 1.942 o
+-1 5 10 133.058 135.421 3.930 10.860 o
+-1 5 11 31.190 26.807 2.262 62.724 o
+-1 5 12 36.672 41.475 2.752 47.024 o
+-1 5 13 4.998 3.612 2.936 247.777 o
+-1 6 -9 38.656 50.420 14.884 13.802 o
+-1 6 -8 114.236 124.766 4.458 12.589 o
+-1 6 -7 163.342 159.752 5.002 8.317 o
+-1 6 -6 313.191 341.476 7.485 3.101 o
+-1 6 -5 2.106 4.085 1.527 559.376 o
+-1 6 -4 184.581 180.260 4.337 7.157 o
+-1 6 -3 5.237 5.055 1.271 365.004 o
+-1 6 0 259.467 349.345 7.341 3.637 o
+-1 6 1 243.149 266.028 5.327 4.572 o
+-1 6 2 492.858 527.880 9.890 1.534 o
+-1 6 3 840.458 827.547 14.191 0.655 o
+-1 6 4 934.715 960.163 16.276 0.529 o
+-1 6 5 419.249 380.497 5.980 2.212 o
+-1 6 6 273.948 254.077 5.041 4.183 o
+-1 6 7 62.510 57.914 2.481 28.798 o
+-1 6 8 12.098 27.529 5.536 65.758 o
+-1 6 9 9.417 6.220 1.624 223.733 o
+-1 6 10 97.996 130.001 3.951 14.059 o
+-1 6 11 40.431 49.397 3.964 38.313 o
+-1 6 12 18.625 29.741 2.504 81.524 o
+-1 6 13 69.139 72.168 5.587 21.526 o
+-1 7 -8 6.547 10.316 2.660 191.608 o
+-1 7 -7 7.040 6.510 2.580 213.714 o
+-1 7 -6 0.734 0.506 1.998 829.321 o
+-1 7 -5 7.665 8.486 1.755 228.621 o
+-1 7 -4 75.488 59.978 3.009 24.081 o
+-1 7 -3 61.514 47.294 2.701 30.950 o
+-1 7 -2 188.302 191.874 4.412 6.827 o
+-1 7 -1 532.711 528.578 9.666 1.415 o
+-1 7 0 377.317 381.757 7.335 2.442 o
+-1 7 1 218.617 206.306 4.632 5.741 o
+-1 7 2 189.147 185.962 4.293 6.907 o
+-1 7 3 26.481 24.681 2.697 69.622 o
+-1 7 4 19.644 22.447 1.647 94.795 o
+-1 7 5 118.708 117.028 3.622 12.783 o
+-1 7 6 115.831 125.992 3.235 12.737 o
+-1 7 7 137.544 127.878 3.416 10.913 o
+-1 7 8 121.582 124.644 3.544 12.225 o
+-1 7 9 119.491 125.887 3.748 12.297 o
+-1 7 10 21.912 28.537 2.221 77.526 o
+-1 7 11 33.325 30.534 2.515 56.562 o
+-1 7 12 58.502 64.455 5.038 25.783 o
+-1 8 -6 45.982 45.934 2.819 38.703 o
+-1 8 -5 103.925 105.238 3.965 14.756 o
+-1 8 -4 159.769 163.882 9.219 7.523 o
+-1 8 -3 82.340 86.710 4.196 18.931 o
+-1 8 -2 89.595 85.288 2.861 18.577 o
+-1 8 -1 1.589 -0.295 1.554 972.494 o
+-1 8 0 13.712 12.945 1.790 141.402 o
+-1 8 1 30.661 25.443 1.956 65.742 o
+-1 8 2 64.767 53.038 2.791 28.556 o
+-1 8 3 344.193 350.786 9.043 2.746 o
+-1 8 4 18.133 9.626 2.440 116.134 o
+-1 8 5 198.222 211.277 4.901 6.191 o
+-1 8 6 33.622 26.311 1.739 61.494 o
+-1 8 7 100.585 102.150 4.291 15.184 o
+-1 8 8 12.693 10.512 1.719 159.108 o
+-1 8 9 30.298 31.375 2.213 60.980 o
+-1 8 10 0.286 -0.668 1.868 1136.060 o
+-1 8 11 0.048 -0.215 2.029 1051.150 o
+-1 8 12 14.952 12.491 5.657 71.635 o
+-1 9 -5 8.960 14.000 2.200 164.754 o
+-1 9 -4 5.280 4.025 1.904 327.769 o
+-1 9 -3 19.567 26.205 2.004 87.211 o
+-1 9 -2 41.392 40.282 3.354 42.221 o
+-1 9 -1 101.933 97.992 4.847 15.006 o
+-1 9 0 53.516 56.237 3.184 31.760 o
+-1 9 1 103.413 102.478 3.672 15.088 o
+-1 9 2 89.531 89.898 3.517 17.898 o
+-1 9 3 80.274 79.516 3.325 20.552 o
+-1 9 4 32.001 37.117 3.207 51.791 o
+-1 9 5 26.879 35.820 2.488 61.506 o
+-1 9 6 6.153 12.154 2.438 195.020 o
+-1 9 7 6.638 16.862 2.551 162.268 o
+-1 9 8 23.846 28.668 2.084 74.244 o
+-1 9 9 41.076 44.317 2.728 42.595 o
+-1 9 10 21.238 18.672 2.830 85.809 o
+-1 9 11 31.913 33.751 3.985 50.184 o
+-1 10 -3 46.493 47.637 5.175 32.607 o
+-1 10 -2 42.714 41.155 3.512 40.627 o
+-1 10 -1 10.930 11.434 2.227 158.246 o
+-1 10 0 39.110 40.361 3.385 43.727 o
+-1 10 1 0.748 0.059 1.921 931.227 o
+-1 10 2 0.951 1.001 1.860 816.400 o
+-1 10 3 30.580 29.934 2.327 61.133 o
+-1 10 4 3.351 8.863 1.977 306.023 o
+-1 10 5 124.306 118.648 5.252 11.755 o
+-1 10 6 35.050 31.655 3.107 51.862 o
+-1 10 7 41.133 37.598 3.301 43.501 o
+-1 10 8 14.876 14.390 3.457 103.245 o
+-1 10 9 8.851 8.289 2.076 200.035 o
+-1 11 0 12.089 8.543 2.286 159.064 o
+-1 11 1 45.673 44.873 10.190 21.127 o
+-1 11 2 29.343 27.281 3.177 60.629 o
+-1 11 3 26.648 20.999 2.382 74.582 o
+-1 11 4 21.367 18.696 2.337 89.904 o
+-1 11 5 11.811 4.645 2.179 183.089 o
+-1 11 6 2.124 3.696 2.798 335.042 o
+-1 11 7 0.395 2.553 5.296 145.203 o
+0 -11 -8 0.069 -0.080 3.611 334.665 o
+0 -11 -7 5.511 3.032 2.627 269.253 o
+0 -11 -6 20.503 18.443 2.959 86.707 o
+0 -11 -5 20.376 15.145 2.606 95.410 o
+0 -11 -4 27.374 28.679 3.025 63.205 o
+0 -11 -3 17.125 17.706 4.092 82.778 o
+0 -11 -2 16.914 20.340 3.089 92.468 o
+0 -11 -1 3.303 3.943 4.774 147.273 o
+0 -11 0 5.764 5.809 2.536 242.832 o
+0 -10 -10 24.596 29.096 4.357 58.333 o
+0 -10 -9 7.142 9.016 2.808 185.659 o
+0 -10 -8 27.171 32.874 2.570 62.797 o
+0 -10 -7 11.699 13.338 2.751 133.843 o
+0 -10 -6 29.358 34.116 2.478 59.384 o
+0 -10 -5 12.258 12.387 2.063 148.274 o
+0 -10 -4 31.770 35.062 2.420 56.071 o
+0 -10 -3 2.548 7.561 2.375 311.433 o
+0 -10 -2 0.671 -1.957 1.751 1111.340 o
+0 -10 -1 10.997 7.809 1.920 182.929 o
+0 -10 0 8.958 12.024 2.047 178.453 o
+0 -10 1 36.334 35.840 3.050 48.864 o
+0 -10 2 25.875 35.999 3.253 59.079 o
+0 -10 3 56.811 64.709 4.814 26.585 o
+0 -9 -11 9.146 6.633 1.932 212.852 o
+0 -9 -10 10.154 13.148 2.702 145.403 o
+0 -9 -9 4.867 3.514 2.549 285.915 o
+0 -9 -8 10.231 11.056 2.028 171.250 o
+0 -9 -7 2.410 -0.798 2.066 588.808 o
+0 -9 -6 0.291 0.017 1.652 1406.070 o
+0 -9 -5 0.800 0.949 1.594 1039.690 o
+0 -9 -4 23.148 23.679 2.047 81.219 o
+0 -9 -3 91.265 70.926 3.222 19.352 o
+0 -9 -2 84.209 93.510 3.519 18.462 o
+0 -9 -1 101.679 112.082 5.028 14.173 o
+0 -9 0 95.038 90.400 3.517 17.032 o
+0 -9 1 33.183 31.903 3.009 54.052 o
+0 -9 2 1.801 2.347 1.990 555.376 o
+0 -9 3 1.239 -0.806 2.324 624.112 o
+0 -9 4 10.640 19.157 5.215 79.709 o
+0 -9 5 9.860 13.497 6.218 71.536 o
+0 -8 -12 2.634 -0.685 1.913 614.238 o
+0 -8 -11 0.838 1.259 1.780 859.630 o
+0 -8 -10 4.260 6.391 1.756 335.785 o
+0 -8 -9 4.506 4.832 1.611 370.230 o
+0 -8 -8 92.297 87.443 3.578 17.628 o
+0 -8 -7 149.700 139.938 3.680 9.718 o
+0 -8 -6 137.060 126.652 4.565 10.743 o
+0 -8 -5 223.003 224.196 4.987 5.402 o
+0 -8 -4 293.933 275.850 5.790 3.728 o
+0 -8 -3 53.878 54.544 2.762 32.559 o
+0 -8 -2 2.832 5.316 1.495 459.320 o
+0 -8 -1 2.284 0.057 1.465 843.072 o
+0 -8 0 25.884 18.372 1.803 82.456 o
+0 -8 1 62.342 56.258 2.960 28.660 o
+0 -8 2 50.032 44.555 2.712 36.974 o
+0 -8 3 114.202 122.186 4.091 12.821 o
+0 -8 4 1.699 2.800 1.823 590.693 o
+0 -8 5 123.760 119.425 5.557 11.664 o
+0 -8 6 34.856 36.709 3.346 48.770 o
+0 -8 7 14.057 9.468 2.950 127.101 o
+0 -7 -13 41.397 44.667 3.909 39.285 o
+0 -7 -12 37.323 36.670 3.669 45.575 o
+0 -7 -11 66.992 57.064 2.916 27.020 o
+0 -7 -10 117.439 126.057 3.805 12.449 o
+0 -7 -9 132.163 124.901 3.601 11.369 o
+0 -7 -8 125.292 160.131 4.355 10.464 o
+0 -7 -7 12.733 29.998 4.352 75.910 o
+0 -7 -4 195.109 225.813 5.088 6.062 o
+0 -7 -3 249.721 233.727 10.838 4.326 o
+0 -7 -2 67.194 86.936 3.203 22.653 o
+0 -7 -1 516.256 519.641 12.581 1.445 o
+0 -7 0 254.407 234.246 5.018 4.669 o
+0 -7 1 259.066 273.191 5.747 4.233 o
+0 -7 2 154.655 151.221 4.161 9.067 o
+0 -7 3 365.720 348.744 7.071 2.643 o
+0 -7 4 9.144 9.817 2.579 170.389 o
+0 -7 5 25.816 37.450 2.627 61.237 o
+0 -7 6 11.487 21.109 2.216 123.866 o
+0 -7 7 22.229 24.874 3.221 73.490 o
+0 -7 8 40.062 49.017 3.961 38.647 o
+0 -6 -13 2.019 0.844 2.062 586.687 o
+0 -6 -12 10.208 10.446 2.035 174.207 o
+0 -6 -11 22.057 26.552 1.834 81.666 o
+0 -6 -10 11.391 13.592 1.589 159.629 o
+0 -6 -8 128.466 134.296 4.277 11.143 o
+0 -6 -7 157.423 156.538 4.635 8.723 o
+0 -6 -6 374.545 373.233 6.789 2.499 o
+0 -6 -5 742.833 701.718 21.361 0.786 o
+0 -6 -4 562.785 565.748 9.724 1.286 o
+0 -6 -3 238.806 228.995 4.586 5.038 o
+0 -6 -2 619.659 646.830 11.207 1.068 o
+0 -6 -1 272.467 245.243 4.941 4.278 o
+0 -6 0 119.352 144.651 3.490 11.614 o
+0 -6 1 80.776 99.283 4.333 18.065 o
+0 -6 2 44.255 49.973 2.436 39.221 o
+0 -6 3 359.470 337.473 6.607 2.744 o
+0 -6 4 219.319 234.263 5.214 5.357 o
+0 -6 5 820.620 818.525 14.528 0.676 o
+0 -6 6 75.233 74.516 3.415 22.076 o
+0 -6 7 99.953 85.638 3.701 16.590 o
+0 -6 8 69.809 76.788 6.580 19.784 o
+0 -6 9 24.773 24.220 3.232 69.438 o
+0 -5 -13 4.388 0.706 2.274 382.372 o
+0 -5 -12 9.915 15.482 2.117 152.962 o
+0 -5 -11 75.806 75.148 2.874 22.256 o
+0 -5 -10 115.001 115.651 4.274 12.987 o
+0 -5 -9 525.348 540.165 9.861 1.418 o
+0 -5 -8 105.532 95.920 2.838 15.518 o
+0 -5 -7 246.524 247.897 4.846 4.696 o
+0 -5 -6 146.835 123.259 3.426 10.443 o
+0 -5 -5 204.287 216.543 4.180 6.010 o
+0 -5 -4 463.185 504.757 8.691 1.690 o
+0 -5 -3 0.720 -0.691 0.766 2856.970 o
+0 -5 -2 256.575 227.558 3.778 4.745 o
+0 -5 -1 2470.910 2388.160 62.945 0.087 o
+0 -5 0 503.838 525.999 9.203 1.509 o
+0 -5 1 1189.530 1204.380 19.951 0.347 o
+0 -5 2 1008.770 998.796 16.770 0.473 o
+0 -5 3 625.307 589.325 10.406 1.117 o
+0 -5 4 76.633 83.947 2.798 21.162 o
+0 -5 5 120.734 103.997 3.444 13.246 o
+0 -5 6 2.961 0.531 1.494 674.257 o
+0 -5 7 2.832 1.058 1.598 625.989 o
+0 -5 8 30.167 31.435 2.251 60.974 o
+0 -5 9 47.663 57.208 3.918 32.823 o
+0 -5 10 26.736 22.306 4.253 60.628 o
+0 -4 -14 19.851 24.895 3.949 71.563 o
+0 -4 -13 67.874 75.048 4.569 22.633 o
+0 -4 -12 126.556 133.943 5.041 11.090 o
+0 -4 -11 181.515 186.108 7.367 6.770 o
+0 -4 -10 47.830 60.017 3.083 33.583 o
+0 -4 -9 64.125 66.459 2.684 26.659 o
+0 -4 -8 42.209 48.804 2.665 40.451 o
+0 -4 -7 5.713 5.055 1.926 297.217 o
+0 -4 -6 662.133 683.352 11.658 0.961 o
+0 -4 -5 358.673 331.505 5.944 2.788 o
+0 -4 -4 494.994 433.548 7.426 1.718 o
+0 -4 -3 1142.720 1123.120 18.329 0.380 o
+0 -4 -2 2450.530 2239.660 36.303 0.097 o
+0 -4 -1 692.787 648.803 12.184 0.938 o
+0 -4 0 31.610 12.502 1.443 77.870 o
+0 -4 1 346.459 294.504 5.420 3.067 o
+0 -4 2 13.088 4.804 1.078 196.806 o
+0 -4 3 189.765 193.375 6.828 6.485 o
+0 -4 4 452.224 511.268 9.000 1.716 o
+0 -4 5 346.815 356.551 6.790 2.764 o
+0 -4 6 366.517 355.039 6.877 2.618 o
+0 -4 7 505.325 502.730 9.367 1.540 o
+0 -4 8 467.907 471.750 9.053 1.731 o
+0 -4 9 121.428 119.024 4.708 12.145 o
+0 -4 10 56.083 41.403 4.493 31.468 o
+0 -4 11 25.679 21.424 4.253 62.631 o
+0 -3 -14 1.129 3.815 2.865 358.988 o
+0 -3 -13 0.931 11.482 2.969 247.563 o
+0 -3 -12 5.241 6.061 2.193 275.858 o
+0 -3 -11 56.577 51.511 2.962 31.782 o
+0 -3 -10 29.753 36.169 2.154 58.761 o
+0 -3 -9 388.560 366.843 9.457 2.371 o
+0 -3 -8 54.863 90.685 2.681 25.800 o
+0 -3 -7 1326.860 1298.680 21.386 0.291 o
+0 -3 -6 1293.470 1402.300 27.858 0.280 o
+0 -3 -5 627.927 629.484 15.125 1.042 o
+0 -3 -4 383.907 543.444 13.955 1.841 o
+0 -3 -3 1405.870 1370.590 22.298 0.262 o
+0 -3 -2 304.956 312.549 4.563 3.418 o
+0 -3 -1 941.761 973.508 15.832 0.521 o
+0 -3 0 201.162 222.682 4.192 6.010 o
+0 -3 1 1972.680 1902.360 37.645 0.139 o
+0 -3 2 2366.770 2392.270 38.465 0.097 o
+0 -3 3 591.118 594.210 10.237 1.184 o
+0 -3 4 1061.640 1138.870 22.764 0.404 o
+0 -3 5 331.261 424.759 14.803 2.377 o
+0 -3 6 267.869 240.123 5.232 4.379 o
+0 -3 7 63.389 83.113 3.647 23.666 o
+0 -3 8 97.230 108.653 3.451 15.546 o
+0 -3 9 6.021 0.911 2.056 340.654 o
+0 -3 10 82.143 89.007 4.251 18.732 o
+0 -3 11 105.807 111.290 7.061 12.803 o
+0 -2 -13 99.773 87.282 4.648 16.025 o
+0 -2 -12 177.291 169.718 6.539 7.316 o
+0 -2 -11 205.529 204.329 5.986 5.988 o
+0 -2 -10 171.838 170.720 5.049 7.725 o
+0 -2 -9 930.787 863.219 14.884 0.567 o
+0 -2 -8 271.144 258.913 5.139 4.185 o
+0 -2 -7 5.950 0.022 1.272 458.235 o
+0 -2 -6 171.371 188.039 4.378 7.492 o
+0 -2 -5 471.061 443.315 9.305 1.771 o
+0 -2 -4 497.196 542.296 11.177 1.484 o
+0 -2 -3 7055.960 6356.690 184.307 0.012 o
+0 -2 -2 3554.950 3450.230 96.125 0.043 o
+0 -2 -1 227.876 173.817 2.597 6.038 o
+0 -2 0 4222.680 3906.550 108.722 0.032 o
+0 -2 1 3510.380 2997.050 82.324 0.048 o
+0 -2 2 189.349 131.538 3.014 8.042 o
+0 -2 3 60.068 13.738 0.837 42.748 o
+0 -2 4 692.538 765.814 12.831 0.853 o
+0 -2 5 197.874 225.575 4.705 6.022 o
+0 -2 6 433.539 373.759 6.989 2.138 o
+0 -2 7 483.320 511.312 9.164 1.601 o
+0 -2 8 384.999 362.777 8.453 2.430 o
+0 -2 9 166.877 169.620 5.103 7.939 o
+0 -2 10 208.216 206.684 5.900 5.896 o
+0 -2 11 83.483 77.189 5.938 18.140 o
+0 -2 12 10.461 7.863 3.691 132.184 o
+0 -1 -13 71.039 70.940 4.529 22.422 o
+0 -1 -12 5.217 4.650 2.250 289.373 o
+0 -1 -11 19.554 18.545 2.318 95.632 o
+0 -1 -10 65.973 70.074 3.530 24.805 o
+0 -1 -9 379.448 347.377 7.269 2.545 o
+0 -1 -8 948.737 928.074 15.796 0.531 o
+0 -1 -7 1205.130 1138.690 19.039 0.354 o
+0 -1 -6 1616.900 1527.700 25.216 0.207 o
+0 -1 -5 619.762 587.577 9.835 1.133 o
+0 -1 -4 2573.440 2505.530 40.488 0.085 o
+0 -1 -3 1012.660 998.410 19.858 0.465 o
+0 -1 1 138.006 125.630 2.775 11.069 o
+0 -1 2 1657.480 1783.600 28.413 0.181 o
+0 -1 3 2029.470 1975.690 31.779 0.133 o
+0 -1 4 3743.870 3681.320 59.698 0.041 o
+0 -1 5 1784.310 1693.780 27.609 0.172 o
+0 -1 6 1253.470 1304.130 21.571 0.310 o
+0 -1 7 292.940 274.980 6.496 3.719 o
+0 -1 8 55.118 52.828 2.773 32.377 o
+0 -1 9 142.812 105.244 4.012 11.218 o
+0 -1 10 64.540 55.808 3.681 27.153 o
+0 -1 11 24.717 29.511 2.520 69.516 o
+0 -1 12 10.825 4.574 3.210 156.251 o
+0 -1 13 13.147 12.810 3.344 115.197 o
+0 0 -13 124.088 150.866 5.757 10.484 o
+0 0 -12 95.081 115.365 4.981 14.732 o
+0 0 -11 102.042 120.985 5.198 13.609 o
+0 0 -10 371.089 409.214 14.282 2.212 o
+0 0 -9 286.148 304.481 6.064 3.637 o
+0 0 -8 168.321 198.121 4.258 7.430 o
+0 0 -7 55.071 54.506 1.991 32.931 o
+0 0 -6 88.349 85.039 2.200 19.083 o
+0 0 -5 756.303 841.563 13.897 0.730 o
+0 0 -4 1427.890 1533.620 24.877 0.239 o
+0 0 -3 1720.450 1756.240 28.382 0.175 o
+0 0 -2 2441.980 2668.470 78.072 0.080 o
+0 0 2 2563.440 2669.440 77.991 0.076 o
+0 0 3 1630.080 1750.250 28.351 0.187 o
+0 0 4 1468.860 1523.190 30.411 0.229 o
+0 0 5 745.419 827.385 16.936 0.737 o
+0 0 6 70.713 78.916 2.553 23.218 o
+0 0 7 55.178 49.627 2.383 33.567 o
+0 0 8 197.004 199.627 5.105 6.374 o
+0 0 9 297.273 303.905 7.262 3.465 o
+0 0 10 347.066 400.800 9.333 2.534 o
+0 0 11 111.453 131.110 4.567 12.520 o
+0 0 12 106.039 115.543 6.820 12.724 o
+0 0 13 120.763 148.403 6.660 10.493 o
+0 1 -13 13.355 14.877 2.716 121.613 o
+0 1 -12 5.255 6.740 2.969 215.214 o
+0 1 -11 28.323 24.681 2.513 67.564 o
+0 1 -10 63.572 55.074 2.942 28.457 o
+0 1 -9 134.874 104.368 3.237 12.034 o
+0 1 -8 53.533 57.249 2.369 32.602 o
+0 1 -7 298.573 282.100 5.432 3.644 o
+0 1 -6 1254.910 1303.070 21.679 0.309 o
+0 1 -5 1750.160 1683.730 27.610 0.176 o
+0 1 -4 3704.210 3718.100 59.713 0.041 o
+0 1 -3 2115.890 1950.520 31.764 0.127 o
+0 1 -2 1606.660 1733.220 33.286 0.189 o
+0 1 -1 144.759 123.010 2.223 10.763 o
+0 1 2 746.769 792.609 15.773 0.759 o
+0 1 3 1024.520 994.026 19.829 0.460 o
+0 1 4 2529.960 2503.710 49.531 0.085 o
+0 1 5 652.590 578.832 11.972 1.065 o
+0 1 6 1564.020 1554.610 30.808 0.210 o
+0 1 7 1213.030 1152.140 23.205 0.344 o
+0 1 8 968.214 944.368 24.433 0.494 o
+0 1 9 369.500 353.754 10.872 2.496 o
+0 1 10 65.689 75.222 3.403 24.314 o
+0 1 11 18.755 16.930 3.210 90.637 o
+0 1 12 3.607 1.642 2.150 417.595 o
+0 1 13 74.207 60.716 5.015 22.330 o
+0 2 -12 6.794 6.033 4.453 132.884 o
+0 2 -11 91.403 76.715 4.270 18.210 o
+0 2 -10 208.680 198.365 4.992 6.074 o
+0 2 -9 159.023 170.985 4.351 8.355 o
+0 2 -8 389.266 365.276 7.292 2.418 o
+0 2 -7 532.355 506.027 9.109 1.454 o
+0 2 -6 394.676 371.816 6.825 2.372 o
+0 2 -5 225.418 229.123 4.399 5.330 o
+0 2 -4 678.512 767.946 12.832 0.870 o
+0 2 -3 38.342 15.547 0.941 64.378 o
+0 2 -2 282.234 133.027 2.578 5.219 o
+0 2 -1 3325.910 2904.530 82.404 0.053 o
+0 2 1 118.731 173.949 2.607 10.753 o
+0 2 3 7007.610 6461.240 184.547 0.012 o
+0 2 4 512.913 549.822 9.172 1.446 o
+0 2 5 499.265 446.737 9.276 1.658 o
+0 2 6 165.254 180.491 4.397 7.878 o
+0 2 7 4.398 -0.535 1.105 620.619 o
+0 2 8 295.107 258.444 7.462 3.752 o
+0 2 9 907.748 877.693 18.099 0.571 o
+0 2 10 168.795 169.584 4.305 7.969 o
+0 2 11 223.954 211.623 5.123 5.515 o
+0 2 12 170.836 174.482 4.842 7.718 o
+0 2 13 85.720 90.444 5.321 17.307 o
+0 3 -11 110.278 109.392 5.657 13.174 o
+0 3 -10 85.126 83.699 7.221 16.314 o
+0 3 -9 1.553 1.079 1.577 835.059 o
+0 3 -8 100.911 104.964 3.436 15.327 o
+0 3 -7 78.618 85.409 2.927 20.536 o
+0 3 -6 241.413 242.282 6.193 4.765 o
+0 3 -5 361.591 432.372 16.598 2.125 o
+0 3 -4 1042.750 1133.450 18.854 0.420 o
+0 3 -3 652.327 608.130 10.237 1.049 o
+0 3 -2 2324.520 2349.070 38.465 0.100 o
+0 3 -1 1957.680 1883.580 30.745 0.143 o
+0 3 0 239.404 224.089 4.061 5.102 o
+0 3 1 956.655 983.115 13.831 0.512 o
+0 3 2 301.499 306.494 4.563 3.491 o
+0 3 3 1400.840 1373.230 22.313 0.263 o
+0 3 4 412.576 592.736 22.988 1.457 o
+0 3 5 590.119 633.354 10.639 1.142 o
+0 3 6 1334.400 1373.780 22.776 0.278 o
+0 3 7 1286.030 1269.060 21.262 0.306 o
+0 3 8 64.034 93.730 4.479 21.513 o
+0 3 9 354.330 364.872 6.967 2.670 o
+0 3 10 40.563 42.729 2.637 43.747 o
+0 3 11 49.978 54.615 2.998 33.975 o
+0 3 12 8.815 8.394 1.893 206.654 o
+0 3 13 0.752 7.124 3.089 287.385 o
+0 3 14 0.074 5.125 3.117 332.534 o
+0 4 -11 27.902 20.764 2.910 69.231 o
+0 4 -10 47.382 46.862 4.333 34.429 o
+0 4 -9 128.325 121.389 4.631 11.534 o
+0 4 -8 468.254 458.421 8.936 1.757 o
+0 4 -7 495.312 506.547 9.400 1.566 o
+0 4 -6 352.434 349.861 6.854 2.745 o
+0 4 -5 365.829 355.492 6.747 2.624 o
+0 4 -4 447.680 498.681 8.971 1.758 o
+0 4 -3 182.290 188.328 3.952 7.132 o
+0 4 -2 12.123 7.022 0.955 197.228 o
+0 4 -1 369.432 293.396 5.420 2.868 o
+0 4 0 14.111 13.002 0.952 149.479 o
+0 4 1 802.444 660.578 9.477 0.793 o
+0 4 2 2285.550 2240.910 31.413 0.106 o
+0 4 3 1284.190 1112.790 15.857 0.334 o
+0 4 4 439.808 432.052 7.458 1.955 o
+0 4 5 392.765 340.728 13.947 2.293 o
+0 4 6 643.359 695.034 11.735 0.982 o
+0 4 7 13.727 7.856 1.140 172.036 o
+0 4 8 44.440 48.407 2.748 39.022 o
+0 4 9 61.414 64.908 2.648 27.814 o
+0 4 10 40.226 64.186 3.029 36.413 o
+0 4 11 191.819 195.085 8.328 6.194 o
+0 4 12 116.084 119.038 4.147 12.776 o
+0 4 13 73.037 68.929 5.095 21.605 o
+0 4 14 25.479 26.221 3.815 62.743 o
+0 5 -10 25.613 35.065 3.232 60.123 o
+0 5 -9 44.206 47.421 4.493 35.441 o
+0 5 -8 32.589 34.354 2.374 55.691 o
+0 5 -7 1.347 1.039 1.624 859.969 o
+0 5 -6 4.438 1.374 1.507 482.298 o
+0 5 -5 116.164 100.052 3.220 13.960 o
+0 5 -4 105.785 77.503 2.792 16.716 o
+0 5 -3 593.287 572.404 10.253 1.203 o
+0 5 -2 1031.120 988.329 20.567 0.457 o
+0 5 -1 1166.350 1191.690 19.966 0.357 o
+0 5 0 516.364 528.868 9.219 1.466 o
+0 5 1 2454.200 2427.080 39.083 0.092 o
+0 5 2 245.767 224.380 3.738 4.985 o
+0 5 3 1.710 0.396 0.667 1478.710 o
+0 5 4 463.615 507.534 8.724 1.683 o
+0 5 5 203.717 211.189 4.199 6.096 o
+0 5 6 143.490 126.154 2.995 10.638 o
+0 5 7 270.747 244.244 4.910 4.314 o
+0 5 8 94.542 95.085 2.909 17.023 o
+0 5 9 560.651 551.395 17.492 1.231 o
+0 5 10 123.213 121.448 3.746 12.172 o
+0 5 11 74.559 79.547 4.566 20.732 o
+0 5 12 11.216 16.436 2.176 139.374 o
+0 5 13 2.964 3.113 2.795 317.631 o
+0 6 -9 26.748 28.667 3.160 63.347 o
+0 6 -8 70.022 67.623 5.234 22.238 o
+0 6 -7 90.348 90.530 3.848 17.549 o
+0 6 -6 87.930 78.682 3.530 19.081 o
+0 6 -5 803.092 824.076 14.576 0.689 o
+0 6 -4 219.435 233.904 5.217 5.358 o
+0 6 -3 354.295 333.096 6.624 2.802 o
+0 6 -2 43.417 47.726 2.438 40.451 o
+0 6 -1 83.587 100.816 4.132 17.634 o
+0 6 0 120.691 144.532 5.857 10.885 o
+0 6 1 252.119 245.609 4.859 4.616 o
+0 6 2 635.452 631.587 9.445 1.062 o
+0 6 3 226.062 223.606 3.781 5.410 o
+0 6 4 603.084 557.409 8.352 1.210 o
+0 6 5 694.743 680.728 11.828 0.913 o
+0 6 6 406.384 368.922 6.855 2.308 o
+0 6 7 144.568 151.008 3.704 9.691 o
+0 6 8 129.111 135.149 3.638 11.210 o
+0 6 10 10.845 12.346 2.391 151.270 o
+0 6 11 23.178 22.886 2.205 81.054 o
+0 6 12 7.730 10.931 2.795 170.664 o
+0 6 13 2.061 1.732 2.815 372.091 o
+0 7 -8 40.697 56.658 9.067 23.380 o
+0 7 -7 24.097 28.264 2.898 69.395 o
+0 7 -6 10.760 21.246 2.612 120.626 o
+0 7 -5 22.965 33.977 2.340 69.656 o
+0 7 -4 8.164 11.294 1.793 199.589 o
+0 7 -3 352.823 356.260 7.148 2.710 o
+0 7 -2 160.061 150.385 4.392 8.782 o
+0 7 -1 255.668 258.167 5.747 4.406 o
+0 7 0 245.010 230.391 4.936 4.883 o
+0 7 1 512.595 490.042 9.075 1.540 o
+0 7 2 70.460 85.688 2.722 22.369 o
+0 7 3 242.792 227.126 3.973 5.007 o
+0 7 4 195.516 212.062 6.717 6.074 o
+0 7 5 1.584 8.746 2.327 328.415 o
+0 7 7 12.504 23.315 1.724 119.950 o
+0 7 8 120.337 162.257 7.852 9.708 o
+0 7 9 133.107 118.204 3.891 11.484 o
+0 7 10 115.114 121.395 4.431 12.668 o
+0 7 11 57.620 62.498 4.489 27.173 o
+0 7 12 45.003 42.025 3.739 38.382 o
+0 7 13 41.915 49.184 4.085 37.228 o
+0 8 -7 13.421 22.107 7.623 47.642 o
+0 8 -6 35.593 40.234 2.823 48.284 o
+0 8 -5 127.134 133.055 5.897 10.825 o
+0 8 -4 2.953 2.964 1.843 472.215 o
+0 8 -3 119.849 125.530 4.119 12.182 o
+0 8 -2 43.375 45.970 2.758 40.424 o
+0 8 -1 73.232 57.233 2.962 25.097 o
+0 8 0 22.033 19.793 1.898 89.949 o
+0 8 1 2.297 -1.471 1.376 889.803 o
+0 8 2 4.362 5.531 1.463 375.736 o
+0 8 3 52.411 55.968 2.676 33.009 o
+0 8 4 283.680 273.472 4.740 3.915 o
+0 8 5 219.319 209.770 4.702 5.677 o
+0 8 6 133.079 126.901 3.520 11.245 o
+0 8 7 152.207 139.619 4.067 9.522 o
+0 8 8 84.327 91.313 3.421 18.679 o
+0 8 9 6.747 4.970 1.926 272.176 o
+0 8 10 4.788 6.598 1.967 298.204 o
+0 8 11 1.288 -0.437 2.627 510.689 o
+0 8 12 3.462 0.822 2.889 325.514 o
+0 9 -5 11.040 13.099 2.778 137.883 o
+0 9 -4 11.915 13.642 2.434 138.567 o
+0 9 -3 2.023 2.102 1.923 564.844 o
+0 9 -2 4.160 3.231 1.860 393.093 o
+0 9 -1 30.338 30.630 2.239 61.332 o
+0 9 0 96.953 92.580 3.496 16.617 o
+0 9 1 103.808 109.074 5.232 14.014 o
+0 9 2 89.952 93.516 6.648 15.573 o
+0 9 3 88.908 71.717 3.045 19.808 o
+0 9 4 27.140 25.175 2.019 71.647 o
+0 9 5 2.082 -0.180 1.443 907.399 o
+0 9 6 0.162 -1.038 1.526 1728.790 o
+0 9 7 2.457 -0.280 1.632 742.054 o
+0 9 8 10.178 12.524 2.501 152.742 o
+0 9 9 4.404 5.697 2.422 281.817 o
+0 9 10 8.829 11.909 2.918 153.191 o
+0 9 11 7.273 6.105 4.212 138.650 o
+0 10 -3 57.800 67.219 5.092 25.509 o
+0 10 -2 28.312 33.643 5.256 47.034 o
+0 10 -1 36.298 36.821 3.879 45.571 o
+0 10 0 9.230 12.386 2.034 174.310 o
+0 10 1 9.751 12.403 1.957 171.311 o
+0 10 2 1.143 1.466 1.699 817.837 o
+0 10 3 3.458 6.123 1.772 370.258 o
+0 10 4 29.667 34.465 3.016 56.534 o
+0 10 5 15.271 9.199 2.969 121.269 o
+0 10 6 29.344 31.789 2.586 60.480 o
+0 10 7 11.675 7.867 1.877 176.787 o
+0 10 8 28.367 38.465 4.111 50.705 o
+0 10 9 8.094 10.452 2.912 165.261 o
+0 10 10 26.163 32.349 3.373 60.414 o
+0 11 0 6.121 7.147 3.406 178.100 o
+0 11 1 4.069 7.863 3.129 213.925 o
+0 11 2 17.598 19.249 3.368 88.719 o
+0 11 3 16.020 18.749 2.748 102.118 o
+0 11 4 30.157 32.354 6.018 42.273 o
+0 11 5 20.527 18.367 3.089 85.421 o
+0 11 6 21.583 13.560 4.493 73.144 o
+0 11 7 5.475 1.364 4.092 175.876 o
+0 11 8 0.135 1.932 2.434 595.238 o
+1 -11 -7 0.411 2.761 2.467 519.311 o
+1 -11 -6 3.203 0.155 2.269 462.125 o
+1 -11 -5 12.971 10.555 3.410 119.665 o
+1 -11 -4 24.833 21.179 4.172 64.628 o
+1 -11 -3 25.498 22.082 2.447 75.384 o
+1 -11 -2 31.029 25.284 2.477 63.128 o
+1 -11 -1 47.294 44.344 4.453 34.784 o
+1 -11 0 10.789 11.989 3.049 136.053 o
+1 -10 -9 8.021 5.466 1.897 242.294 o
+1 -10 -8 17.090 12.437 4.012 90.584 o
+1 -10 -7 37.898 40.459 3.187 45.191 o
+1 -10 -6 34.616 36.826 2.959 50.300 o
+1 -10 -5 120.015 119.596 4.037 12.441 o
+1 -10 -4 2.368 7.364 1.761 392.556 o
+1 -10 -3 28.345 31.829 2.403 62.614 o
+1 -10 -2 0.464 -0.346 2.147 841.349 o
+1 -10 -1 0.710 0.718 1.900 874.833 o
+1 -10 0 39.184 40.514 3.145 44.306 o
+1 -10 1 11.809 7.129 2.198 170.112 o
+1 -10 2 44.139 41.111 3.027 40.919 o
+1 -10 3 49.440 45.974 4.895 32.393 o
+1 -9 -11 31.779 29.578 3.164 56.258 o
+1 -9 -10 17.503 19.050 2.695 97.306 o
+1 -9 -9 41.646 45.812 2.416 42.326 o
+1 -9 -8 21.646 27.294 2.200 79.571 o
+1 -9 -7 7.296 17.358 2.597 153.646 o
+1 -9 -6 5.951 10.791 2.215 216.834 o
+1 -9 -5 25.629 37.056 2.494 62.362 o
+1 -9 -4 32.087 38.736 3.257 50.722 o
+1 -9 -3 74.212 80.129 4.854 20.480 o
+1 -9 -2 94.284 99.420 4.166 16.201 o
+1 -9 -1 99.885 100.526 3.604 15.662 o
+1 -9 0 51.226 55.805 3.697 31.995 o
+1 -9 1 99.641 94.071 3.556 16.127 o
+1 -9 2 40.080 38.434 4.734 39.425 o
+1 -9 3 18.796 29.260 2.108 84.557 o
+1 -9 4 4.776 3.369 1.816 367.868 o
+1 -9 5 8.641 8.297 1.915 208.883 o
+1 -8 -12 16.031 12.622 3.149 107.399 o
+1 -8 -11 0.277 0.500 1.932 992.570 o
+1 -8 -10 0.256 1.202 1.761 1037.800 o
+1 -8 -9 28.397 27.115 2.023 67.764 o
+1 -8 -8 11.819 8.959 1.473 179.496 o
+1 -8 -7 97.452 104.466 3.400 15.801 o
+1 -8 -6 28.701 32.023 1.988 63.612 o
+1 -8 -5 203.919 210.816 8.906 5.615 o
+1 -8 -4 1.579 6.580 1.415 517.165 o
+1 -8 -3 359.770 356.782 6.847 2.662 o
+1 -8 -2 52.147 55.177 5.024 29.292 o
+1 -8 -1 37.098 26.625 2.266 55.307 o
+1 -8 0 13.067 10.251 1.509 161.027 o
+1 -8 1 0.720 -0.955 1.350 1584.240 o
+1 -8 2 90.990 88.115 3.162 17.982 o
+1 -8 3 78.572 87.269 3.023 20.308 o
+1 -8 4 154.843 156.550 6.618 8.467 o
+1 -8 5 108.212 93.292 5.416 14.287 o
+1 -8 6 40.827 48.903 4.388 37.087 o
+1 -7 -12 62.048 66.850 5.817 23.389 o
+1 -7 -11 28.986 30.005 2.018 64.575 o
+1 -7 -10 26.447 28.062 1.871 70.952 o
+1 -7 -9 123.985 114.729 3.186 12.526 o
+1 -7 -8 126.204 120.041 3.383 12.070 o
+1 -7 -7 133.451 129.851 3.549 11.106 o
+1 -7 -6 125.092 123.302 3.564 11.986 o
+1 -7 -5 119.915 123.779 3.300 12.460 o
+1 -7 -4 19.253 22.394 1.327 98.145 o
+1 -7 -3 24.042 23.132 1.659 81.953 o
+1 -7 -2 194.524 189.979 4.093 6.686 o
+1 -7 -1 201.516 208.467 4.433 6.177 o
+1 -7 0 378.170 383.947 7.140 2.433 o
+1 -7 1 526.479 523.675 9.461 1.442 o
+1 -7 2 192.442 186.312 4.394 6.784 o
+1 -7 3 52.350 47.092 2.619 35.234 o
+1 -7 4 71.502 59.132 3.046 25.243 o
+1 -7 5 8.643 5.057 1.709 243.630 o
+1 -7 6 0.220 -1.265 2.211 848.781 o
+1 -7 7 6.787 10.097 2.665 189.885 o
+1 -7 8 7.733 7.978 5.135 103.989 o
+1 -6 -13 64.512 73.150 5.256 22.832 o
+1 -6 -12 17.516 30.301 3.411 75.757 o
+1 -6 -11 35.457 49.947 3.266 43.240 o
+1 -6 -10 101.184 134.276 3.477 13.668 o
+1 -6 -9 8.162 6.050 1.360 258.696 o
+1 -6 -8 9.652 26.709 4.876 78.823 o
+1 -6 -7 73.899 58.515 2.453 25.126 o
+1 -6 -6 265.072 258.390 5.142 4.282 o
+1 -6 -5 439.373 383.008 7.056 2.082 o
+1 -6 -4 935.469 976.848 16.412 0.523 o
+1 -6 -3 853.819 844.668 12.255 0.641 o
+1 -6 -2 513.207 534.841 9.277 1.466 o
+1 -6 -1 220.663 272.713 5.166 4.932 o
+1 -6 0 289.183 346.748 6.401 3.351 o
+1 -6 1 33.967 56.631 2.211 44.392 o
+1 -6 2 19.926 54.803 3.771 52.598 o
+1 -6 3 14.945 6.363 1.355 164.256 o
+1 -6 4 173.096 176.064 4.214 7.674 o
+1 -6 5 8.945 3.411 1.996 239.130 o
+1 -6 6 305.335 336.497 6.914 3.220 o
+1 -6 7 162.963 165.049 7.863 7.688 o
+1 -6 8 121.961 126.844 7.221 10.912 o
+1 -6 9 36.042 44.251 5.215 38.428 o
+1 -5 -13 5.298 4.918 2.315 278.555 o
+1 -5 -12 37.039 38.810 2.937 47.306 o
+1 -5 -11 24.866 27.929 1.871 74.029 o
+1 -5 -10 152.222 135.951 4.853 9.479 o
+1 -5 -9 426.355 416.362 8.825 2.037 o
+1 -5 -8 282.711 274.276 4.844 3.919 o
+1 -5 -7 503.250 522.438 14.326 1.456 o
+1 -5 -6 520.183 565.527 8.625 1.407 o
+1 -5 -5 229.720 231.214 4.554 5.205 o
+1 -5 -4 162.140 186.977 3.783 7.945 o
+1 -5 -3 3.814 4.424 0.948 490.546 o
+1 -5 -2 12.934 12.807 0.892 160.096 o
+1 -5 -1 6.428 4.771 1.143 333.692 o
+1 -5 0 1117.780 1138.190 18.791 0.387 o
+1 -5 1 481.960 421.823 13.841 1.698 o
+1 -5 2 748.513 740.507 12.569 0.799 o
+1 -5 3 827.979 793.196 13.573 0.684 o
+1 -5 4 1803.580 1818.140 30.016 0.162 o
+1 -5 5 100.189 91.835 5.457 15.240 o
+1 -5 6 237.317 233.513 10.752 4.532 o
+1 -5 7 20.820 15.729 2.090 98.236 o
+1 -5 8 1.659 0.655 3.290 326.543 o
+1 -5 9 31.131 51.403 7.342 31.654 o
+1 -5 10 40.842 52.607 5.135 34.109 o
+1 -4 -13 27.084 28.423 2.549 66.363 o
+1 -4 -12 13.085 12.092 2.465 135.493 o
+1 -4 -11 138.857 130.827 3.556 10.697 o
+1 -4 -10 279.917 273.288 6.960 3.877 o
+1 -4 -9 2.426 1.058 1.190 822.946 o
+1 -4 -7 15.416 12.159 1.302 139.652 o
+1 -4 -6 116.456 87.287 2.105 14.913 o
+1 -4 -5 860.372 880.050 12.748 0.619 o
+1 -4 -4 839.929 752.430 12.616 0.694 o
+1 -4 -3 1237.420 1177.590 19.364 0.336 o
+1 -4 -2 1541.440 1527.950 25.093 0.219 o
+1 -4 -1 3154.820 3221.000 51.931 0.056 o
+1 -4 0 1167.440 1135.750 18.652 0.368 o
+1 -4 1 1322.810 1329.730 26.255 0.283 o
+1 -4 2 119.069 130.626 5.087 11.751 o
+1 -4 3 35.665 44.267 1.857 48.839 o
+1 -4 4 323.891 316.858 5.898 3.164 o
+1 -4 5 42.443 46.823 2.904 40.442 o
+1 -4 6 789.988 768.042 16.142 0.725 o
+1 -4 7 161.330 163.595 4.792 8.354 o
+1 -4 8 190.565 183.198 5.303 6.803 o
+1 -4 9 159.900 153.154 6.379 8.368 o
+1 -4 10 135.601 137.366 5.897 10.149 o
+1 -4 11 33.427 24.950 3.932 53.270 o
+1 -3 -13 18.422 13.989 2.638 103.475 o
+1 -3 -12 26.608 24.356 2.765 69.277 o
+1 -3 -11 1.096 0.313 2.101 723.611 o
+1 -3 -10 155.164 159.884 4.168 8.823 o
+1 -3 -9 70.681 86.225 2.931 22.125 o
+1 -3 -8 517.346 577.576 13.221 1.355 o
+1 -3 -7 575.417 557.047 8.414 1.274 o
+1 -3 -6 1101.630 1131.460 16.218 0.398 o
+1 -3 -5 232.828 244.149 9.698 4.621 o
+1 -3 -4 1564.310 1668.910 23.379 0.205 o
+1 -3 -3 64.855 58.239 1.318 28.737 o
+1 -3 -2 353.503 371.162 6.361 2.666 o
+1 -3 -1 63.543 63.370 1.566 28.166 o
+1 -3 0 2273.620 2268.770 45.304 0.104 o
+1 -3 1 29.691 30.671 1.494 64.752 o
+1 -3 2 1905.840 1917.160 31.790 0.146 o
+1 -3 3 2265.530 2362.940 43.615 0.102 o
+1 -3 4 1084.380 1024.280 20.907 0.422 o
+1 -3 5 381.568 409.978 8.908 2.295 o
+1 -3 6 1044.480 1012.110 20.851 0.444 o
+1 -3 7 260.534 256.078 6.269 4.317 o
+1 -3 8 93.159 72.113 2.935 19.061 o
+1 -3 9 17.306 11.999 1.957 121.264 o
+1 -3 10 6.116 6.165 2.576 230.953 o
+1 -3 11 20.176 16.729 2.850 91.035 o
+1 -2 -13 8.377 17.150 2.741 142.891 o
+1 -2 -12 118.967 134.927 5.133 11.580 o
+1 -2 -11 264.095 279.694 6.869 4.055 o
+1 -2 -10 297.849 341.140 8.340 3.220 o
+1 -2 -9 44.770 53.940 2.509 37.629 o
+1 -2 -8 918.607 943.220 25.636 0.520 o
+1 -2 -7 117.219 114.938 3.282 13.105 o
+1 -2 -6 34.807 42.537 3.672 45.241 o
+1 -2 -5 89.292 76.405 1.739 19.855 o
+1 -2 -4 111.167 133.771 2.355 12.993 o
+1 -2 -3 1008.420 911.217 34.105 0.453 o
+1 -2 -2 2737.050 2801.360 55.205 0.072 o
+1 -2 -1 2430.560 2070.880 40.680 0.101 o
+1 -2 0 2271.460 2207.410 35.346 0.108 o
+1 -2 1 1709.920 1522.920 75.303 0.158 o
+1 -2 2 2282.220 2229.430 44.935 0.104 o
+1 -2 3 105.939 80.037 3.771 16.129 o
+1 -2 4 98.742 145.844 6.248 12.331 o
+1 -2 5 0.302 0.061 0.960 3230.030 o
+1 -2 6 185.996 200.179 4.879 6.722 o
+1 -2 7 368.261 423.804 7.898 2.354 o
+1 -2 8 288.434 275.997 5.797 3.797 o
+1 -2 9 565.130 568.893 19.576 1.178 o
+1 -2 10 298.699 314.556 8.505 3.340 o
+1 -2 11 110.121 115.824 5.282 13.053 o
+1 -2 12 53.886 46.747 4.042 32.159 o
+1 -1 -13 42.572 40.895 3.837 39.917 o
+1 -1 -12 39.596 34.263 4.092 43.301 o
+1 -1 -11 20.392 7.320 1.973 117.507 o
+1 -1 -10 7.839 7.814 3.009 175.985 o
+1 -1 -9 115.881 129.548 4.604 12.201 o
+1 -1 -8 338.029 297.738 6.020 3.116 o
+1 -1 -7 279.710 271.762 5.276 3.962 o
+1 -1 -6 886.334 794.432 13.557 0.631 o
+1 -1 -5 1549.610 1500.020 24.598 0.220 o
+1 -1 -4 4184.530 4159.860 115.623 0.031 o
+1 -1 -3 1790.080 1753.350 24.412 0.169 o
+1 -1 -2 1588.520 1565.710 22.035 0.210 o
+1 -1 -1 235.785 230.922 3.889 5.115 o
+1 -1 0 256.158 382.227 5.505 3.550 o
+1 -1 1 13.709 18.893 1.522 127.354 o
+1 -1 2 1598.560 1622.110 26.173 0.202 o
+1 -1 3 796.212 758.388 30.330 0.652 o
+1 -1 4 123.941 103.661 2.810 13.116 o
+1 -1 5 2294.850 2163.860 35.421 0.107 o
+1 -1 6 861.559 852.614 14.338 0.626 o
+1 -1 7 390.174 320.533 6.114 2.587 o
+1 -1 8 415.859 430.015 7.948 2.069 o
+1 -1 9 22.171 20.913 1.741 89.060 o
+1 -1 10 56.008 42.401 2.547 34.683 o
+1 -1 11 10.993 11.081 4.413 104.318 o
+1 -1 12 17.731 18.882 2.984 93.471 o
+1 -1 13 59.068 72.277 5.234 24.288 o
+1 0 -13 6.655 10.177 5.536 94.361 o
+1 0 -12 104.872 102.782 9.468 11.841 o
+1 0 -11 138.778 138.392 5.072 10.137 o
+1 0 -10 206.092 211.347 8.425 5.618 o
+1 0 -9 529.781 512.319 16.369 1.368 o
+1 0 -8 1906.660 1865.880 30.960 0.148 o
+1 0 -7 302.892 302.945 5.802 3.460 o
+1 0 -6 213.665 206.937 4.993 5.831 o
+1 0 -5 641.089 686.803 11.549 0.993 o
+1 0 -4 81.755 66.223 2.541 22.121 o
+1 0 -3 387.686 390.510 8.626 2.322 o
+1 0 -2 1399.220 1266.660 20.444 0.277 o
+1 0 -1 898.638 788.923 12.878 0.625 o
+1 0 0 176.480 34.587 0.924 11.804 o
+1 0 2 2844.740 2571.310 71.974 0.069 o
+1 0 3 1733.610 1809.700 29.060 0.170 o
+1 0 4 1423.060 1355.080 32.456 0.252 o
+1 0 5 1920.840 2081.580 34.047 0.137 o
+1 0 6 36.634 39.093 1.586 50.895 o
+1 0 7 5.231 0.241 0.966 543.956 o
+1 0 8 49.920 64.485 2.944 31.878 o
+1 0 9 371.650 356.948 6.900 2.574 o
+1 0 10 119.467 126.940 4.069 12.169 o
+1 0 11 120.879 106.508 3.694 13.044 o
+1 0 12 126.541 122.156 5.384 11.412 o
+1 0 13 56.460 42.824 5.978 27.964 o
+1 1 -12 75.978 90.990 6.339 17.869 o
+1 1 -11 52.979 43.045 2.969 35.385 o
+1 1 -10 51.291 56.031 6.820 25.771 o
+1 1 -9 7.571 24.745 2.267 134.519 o
+1 1 -8 236.991 251.319 5.330 4.815 o
+1 1 -7 177.035 273.066 6.124 5.824 o
+1 1 -6 109.877 184.908 3.974 10.745 o
+1 1 -5 1799.040 1779.440 32.377 0.163 o
+1 1 -4 1370.940 1687.410 27.702 0.233 o
+1 1 -3 994.121 1113.900 18.375 0.448 o
+1 1 -2 2310.580 2327.400 37.508 0.102 o
+1 1 0 2929.840 3790.680 93.798 0.050 o
+1 1 1 347.115 665.284 34.686 1.246 o
+1 1 2 609.339 1878.220 47.661 0.375 o
+1 1 3 70.215 301.408 12.999 7.192 o
+1 1 4 1655.230 1788.840 53.117 0.167 o
+1 1 5 2440.650 2614.800 42.309 0.088 o
+1 1 6 505.785 675.375 11.498 1.277 o
+1 1 7 874.774 845.532 14.338 0.618 o
+1 1 8 816.944 805.711 13.878 0.687 o
+1 1 9 139.161 171.641 4.053 9.362 o
+1 1 10 224.483 190.976 4.486 5.796 o
+1 1 11 16.632 28.468 2.055 91.805 o
+1 1 12 11.174 14.192 2.716 135.209 o
+1 1 13 11.010 14.938 3.210 123.007 o
+1 2 -12 25.066 34.983 3.221 60.964 o
+1 2 -11 6.043 6.419 2.667 224.464 o
+1 2 -10 64.135 67.705 4.172 24.931 o
+1 2 -9 363.501 372.120 8.993 2.528 o
+1 2 -8 177.644 152.780 4.028 7.983 o
+1 2 -7 199.463 189.836 4.354 6.513 o
+1 2 -6 937.809 925.449 15.686 0.539 o
+1 2 -5 681.921 684.332 11.758 0.930 o
+1 2 -4 609.700 648.809 11.084 1.085 o
+1 2 -3 16.031 1.674 0.722 185.873 o
+1 2 -2 112.489 83.346 1.980 15.662 o
+1 2 -1 2231.080 2160.350 50.510 0.108 o
+1 2 0 263.711 301.861 4.620 3.999 o
+1 2 2 221.334 265.270 8.585 4.739 o
+1 2 3 3318.330 3106.290 61.559 0.053 o
+1 2 4 1518.010 1484.380 29.813 0.224 o
+1 2 5 1148.650 1062.960 17.539 0.391 o
+1 2 6 37.563 43.442 2.599 45.881 o
+1 2 7 397.569 422.993 7.475 2.193 o
+1 2 8 28.171 24.692 1.770 71.304 o
+1 2 9 12.884 5.748 1.324 188.618 o
+1 2 10 8.922 6.155 1.564 234.813 o
+1 2 11 128.387 134.693 3.881 11.226 o
+1 2 12 124.188 129.995 5.334 11.314 o
+1 2 13 75.069 67.704 5.095 21.309 o
+1 3 -11 49.283 51.660 4.734 31.642 o
+1 3 -10 72.571 76.300 4.390 21.634 o
+1 3 -9 103.871 99.370 3.791 15.171 o
+1 3 -8 14.056 1.153 1.556 196.363 o
+1 3 -7 98.963 104.257 3.365 15.637 o
+1 3 -6 34.801 28.496 2.215 57.061 o
+1 3 -5 905.628 938.420 15.964 0.556 o
+1 3 -4 263.161 238.275 8.314 4.289 o
+1 3 -3 1060.790 983.617 16.475 0.450 o
+1 3 -2 2476.530 2398.270 39.098 0.091 o
+1 3 -1 1709.800 1708.560 27.918 0.180 o
+1 3 0 22.001 77.972 1.807 46.176 o
+1 3 1 528.086 504.066 8.523 1.475 o
+1 3 2 718.435 767.566 12.708 0.819 o
+1 3 3 22.938 20.102 1.372 90.158 o
+1 3 4 75.385 80.051 1.887 22.322 o
+1 3 5 123.241 115.384 2.550 12.695 o
+1 3 6 40.464 24.239 1.461 54.925 o
+1 3 7 1130.120 1109.880 18.604 0.388 o
+1 3 8 882.101 872.115 15.095 0.599 o
+1 3 9 466.743 464.050 8.518 1.757 o
+1 3 10 426.917 425.438 8.790 2.012 o
+1 3 11 196.801 189.931 4.719 6.561 o
+1 3 12 40.261 40.386 4.012 41.032 o
+1 3 13 3.657 0.520 2.734 346.365 o
+1 3 14 2.898 -0.072 4.180 206.070 o
+1 4 -10 24.546 25.085 2.924 71.215 o
+1 4 -9 29.718 33.148 2.902 57.761 o
+1 4 -8 25.381 19.392 2.047 81.011 o
+1 4 -7 288.867 284.007 6.194 3.725 o
+1 4 -6 484.906 474.368 8.904 1.664 o
+1 4 -5 175.007 152.593 3.849 8.120 o
+1 4 -4 372.000 415.033 7.761 2.361 o
+1 4 -3 147.321 220.428 5.507 7.647 o
+1 4 -2 216.631 281.336 5.336 4.917 o
+1 4 0 52.842 196.904 16.850 7.930 o
+1 4 1 487.390 375.533 7.210 1.870 o
+1 4 2 87.779 141.305 3.614 14.674 o
+1 4 3 1370.010 1284.100 21.340 0.282 o
+1 4 4 1895.010 1819.740 29.972 0.152 o
+1 4 5 657.597 637.175 10.993 1.010 o
+1 4 6 827.307 844.906 14.329 0.658 o
+1 4 7 271.827 310.199 6.676 3.755 o
+1 4 8 21.216 23.349 3.953 70.495 o
+1 4 9 8.797 45.014 3.691 75.857 o
+1 4 10 131.343 155.561 5.130 10.054 o
+1 4 11 28.262 36.181 2.275 60.253 o
+1 4 12 36.104 37.313 3.291 47.609 o
+1 4 13 21.148 22.921 3.131 78.351 o
+1 4 14 42.762 43.398 6.098 32.546 o
+1 5 -10 63.448 49.748 5.536 25.668 o
+1 5 -9 110.244 111.818 5.148 13.283 o
+1 5 -8 55.613 61.858 4.975 27.127 o
+1 5 -7 196.611 198.021 5.145 6.405 o
+1 5 -6 1.042 1.319 1.557 939.286 o
+1 5 -5 0.006 -0.536 1.390 2263.970 o
+1 5 -4 30.255 17.510 1.636 74.716 o
+1 5 -3 313.693 317.325 6.612 3.242 o
+1 5 -2 340.637 320.465 6.288 2.980 o
+1 5 -1 339.445 293.174 5.721 3.132 o
+1 5 0 789.105 786.467 13.448 0.726 o
+1 5 1 736.608 734.516 12.600 0.817 o
+1 5 2 644.601 615.393 10.608 1.054 o
+1 5 3 189.859 189.141 3.828 6.872 o
+1 5 4 9.244 37.311 3.129 89.708 o
+1 5 5 35.564 31.971 1.764 55.421 o
+1 5 6 55.681 65.326 2.246 30.174 o
+1 5 7 210.070 210.887 4.447 5.913 o
+1 5 8 201.404 211.451 6.879 5.910 o
+1 5 9 4.262 2.937 1.867 394.281 o
+1 5 10 228.188 245.363 5.427 5.038 o
+1 5 11 43.530 34.255 2.243 45.598 o
+1 5 12 50.144 58.809 4.429 30.506 o
+1 5 13 33.694 22.652 3.811 54.827 o
+1 6 -9 0.390 1.845 4.413 207.129 o
+1 6 -8 23.657 22.617 2.924 75.204 o
+1 6 -7 139.604 137.967 5.470 10.003 o
+1 6 -6 124.152 122.748 4.206 11.922 o
+1 6 -5 78.387 79.035 3.499 20.863 o
+1 6 -4 325.462 308.830 6.508 3.170 o
+1 6 -3 350.784 352.103 7.082 2.744 o
+1 6 -2 164.068 164.197 4.146 8.309 o
+1 6 -1 141.272 143.352 3.669 10.119 o
+1 6 0 118.016 107.138 3.208 13.420 o
+1 6 1 15.108 10.570 1.992 136.719 o
+1 6 2 50.089 57.347 2.497 34.000 o
+1 6 3 152.262 152.691 3.536 9.246 o
+1 6 4 193.712 165.483 3.704 7.155 o
+1 6 5 217.149 201.991 4.306 5.855 o
+1 6 6 178.821 198.652 4.402 7.031 o
+1 6 7 250.526 237.514 5.482 4.685 o
+1 6 8 84.085 80.683 3.207 19.781 o
+1 6 9 145.777 126.469 3.653 10.368 o
+1 6 10 2.486 2.156 2.159 467.503 o
+1 6 11 44.470 40.890 3.222 40.318 o
+1 6 12 20.395 15.214 4.132 77.883 o
+1 6 13 19.244 19.849 3.103 86.635 o
+1 7 -8 26.395 23.189 4.895 55.972 o
+1 7 -7 34.721 32.665 3.232 51.205 o
+1 7 -6 16.000 16.845 3.489 95.075 o
+1 7 -5 76.881 74.568 3.738 21.462 o
+1 7 -4 0.584 0.148 1.989 910.690 o
+1 7 -3 3.148 -1.520 1.594 653.634 o
+1 7 -2 30.146 25.998 2.063 65.691 o
+1 7 -1 111.480 114.440 3.721 13.556 o
+1 7 0 440.852 483.966 10.921 1.787 o
+1 7 1 202.815 185.416 4.079 6.501 o
+1 7 2 534.555 544.795 9.712 1.387 o
+1 7 3 221.463 222.742 6.279 5.357 o
+1 7 4 86.349 133.072 3.678 15.296 o
+1 7 5 310.974 305.543 9.115 3.235 o
+1 7 7 0.974 0.861 1.431 1124.810 o
+1 7 8 13.490 6.607 1.598 171.868 o
+1 7 9 2.556 0.464 1.931 591.453 o
+1 7 10 136.317 134.715 4.805 10.470 o
+1 7 11 17.590 14.678 3.683 90.877 o
+1 7 12 15.740 15.408 3.131 103.602 o
+1 7 13 6.632 7.141 4.132 142.425 o
+1 8 -6 11.497 16.292 3.346 114.762 o
+1 8 -5 14.283 15.793 2.822 113.468 o
+1 8 -4 292.785 287.428 7.032 3.622 o
+1 8 -3 60.787 65.085 4.441 25.897 o
+1 8 -2 132.259 142.862 5.720 10.234 o
+1 8 -1 81.354 83.510 3.527 19.833 o
+1 8 0 89.279 90.738 8.224 14.591 o
+1 8 1 0.916 2.256 1.299 999.710 o
+1 8 2 0.691 6.778 1.952 475.470 o
+1 8 3 11.372 13.338 1.796 156.828 o
+1 8 4 15.982 20.482 1.819 109.825 o
+1 8 5 66.651 51.425 2.773 28.202 o
+1 8 6 93.715 122.279 4.746 14.611 o
+1 8 7 86.282 85.455 3.726 18.669 o
+1 8 8 65.240 84.855 5.098 21.568 o
+1 8 9 82.515 74.596 3.741 20.316 o
+1 8 10 20.020 32.447 3.181 70.918 o
+1 8 11 26.027 28.282 3.277 63.974 o
+1 8 12 1.288 1.473 6.218 106.248 o
+1 9 -5 9.810 4.012 7.623 59.280 o
+1 9 -4 2.259 4.068 3.082 288.694 o
+1 9 -3 3.256 4.013 2.054 390.791 o
+1 9 -2 13.117 15.484 2.496 125.271 o
+1 9 -1 7.746 4.240 2.479 225.852 o
+1 9 0 25.588 26.775 2.014 73.070 o
+1 9 1 12.295 11.866 2.272 145.399 o
+1 9 2 86.670 91.976 5.577 16.878 o
+1 9 3 44.664 36.732 4.574 37.785 o
+1 9 4 95.411 85.207 3.403 17.412 o
+1 9 5 91.861 85.987 3.444 17.876 o
+1 9 6 12.330 19.771 2.769 114.178 o
+1 9 7 17.686 12.881 2.209 114.173 o
+1 9 8 2.216 0.943 1.839 632.501 o
+1 9 9 10.040 8.585 2.848 158.939 o
+1 9 10 16.164 16.277 3.039 101.948 o
+1 9 11 9.807 10.341 3.197 143.308 o
+1 10 -3 7.141 0.160 4.574 143.582 o
+1 10 -2 28.641 32.657 5.055 48.237 o
+1 10 -1 17.929 18.559 2.273 101.413 o
+1 10 0 28.892 24.602 2.110 68.650 o
+1 10 1 16.843 18.877 2.123 106.410 o
+1 10 2 16.868 12.512 5.737 67.541 o
+1 10 3 1.571 2.066 2.365 485.637 o
+1 10 4 0.431 0.679 5.376 146.842 o
+1 10 5 32.327 36.731 3.673 49.782 o
+1 10 6 15.229 19.691 2.830 102.160 o
+1 10 7 18.662 19.258 2.978 90.329 o
+1 10 8 19.551 20.195 2.978 86.706 o
+1 10 9 15.276 16.357 3.145 103.344 o
+1 10 10 0.417 -2.514 2.969 469.227 o
+1 11 0 0.218 2.538 2.283 611.889 o
+1 11 1 3.955 7.585 2.198 288.464 o
+1 11 2 10.681 13.560 4.253 104.491 o
+1 11 3 9.623 18.695 4.413 96.355 o
+1 11 4 5.120 10.672 4.172 139.340 o
+1 11 5 4.211 10.030 4.253 143.999 o
+1 11 6 1.279 6.423 2.848 311.691 o
+1 11 7 2.310 4.323 2.830 314.596 o
+1 11 8 1.731 0.078 2.751 443.215 o
+2 -11 -4 0.960 8.104 3.851 204.165 o
+2 -11 -3 25.457 29.287 4.413 56.833 o
+2 -10 -8 20.871 13.471 1.661 105.855 o
+2 -10 -7 26.820 21.254 2.896 70.770 o
+2 -10 -6 48.241 37.953 4.574 35.581 o
+2 -10 -5 50.261 57.210 5.456 28.727 o
+2 -10 -4 66.066 65.474 6.098 22.237 o
+2 -10 -3 50.383 53.519 5.938 28.286 o
+2 -10 -2 14.966 21.985 3.851 85.916 o
+2 -10 -1 14.150 20.220 3.771 91.489 o
+2 -10 0 2.040 -0.241 3.290 324.849 o
+2 -10 1 5.720 6.098 3.450 185.361 o
+2 -10 2 11.727 10.672 3.691 118.691 o
+2 -9 -10 28.824 20.565 2.276 71.488 o
+2 -9 -9 18.176 12.841 3.196 98.719 o
+2 -9 -8 20.163 17.989 2.757 90.276 o
+2 -9 -7 34.436 35.360 2.975 51.122 o
+2 -9 -6 22.360 25.642 2.905 74.927 o
+2 -9 -5 5.216 6.178 3.049 214.743 o
+2 -9 -4 3.462 4.092 3.049 263.834 o
+2 -9 -3 23.858 13.079 3.290 81.740 o
+2 -9 -2 58.433 52.797 5.296 27.104 o
+2 -9 -1 98.659 94.360 6.018 14.937 o
+2 -9 0 191.889 204.446 8.505 6.043 o
+2 -9 1 68.854 70.850 5.777 21.493 o
+2 -9 2 112.092 96.767 6.419 13.223 o
+2 -9 3 83.426 99.014 6.499 16.150 o
+2 -9 4 17.484 17.572 3.851 85.151 o
+2 -8 -11 16.984 27.558 4.644 67.548 o
+2 -8 -10 6.088 8.880 2.223 229.279 o
+2 -8 -9 0.455 8.097 2.366 378.868 o
+2 -8 -8 1.814 3.949 1.641 568.192 o
+2 -8 -7 37.026 27.849 2.060 55.316 o
+2 -8 -6 137.968 131.619 4.470 10.541 o
+2 -8 -5 102.836 103.830 3.567 15.116 o
+2 -8 -4 432.709 420.021 10.152 1.974 o
+2 -8 -3 69.060 85.326 4.814 21.022 o
+2 -8 -2 226.422 258.545 8.906 4.680 o
+2 -8 -1 53.417 101.637 8.626 17.907 o
+2 -8 0 50.181 59.452 6.660 25.934 o
+2 -8 1 10.226 22.678 2.293 125.084 o
+2 -8 2 3.974 7.382 2.969 230.027 o
+2 -8 3 43.917 48.223 5.135 33.708 o
+2 -8 4 93.111 92.609 3.735 17.046 o
+2 -8 5 45.973 50.302 3.431 36.265 o
+2 -8 6 113.381 114.389 5.015 12.928 o
+2 -7 -12 1.824 3.370 4.012 211.630 o
+2 -7 -11 23.265 23.886 3.637 69.222 o
+2 -7 -10 84.249 71.148 3.552 20.444 o
+2 -7 -9 47.667 45.843 2.656 38.041 o
+2 -7 -8 182.217 163.034 5.979 7.345 o
+2 -7 -7 148.692 139.737 6.706 9.143 o
+2 -7 -6 75.406 65.545 2.301 23.873 o
+2 -7 -5 10.568 10.532 1.175 190.781 o
+2 -7 -4 23.742 19.480 1.652 87.294 o
+2 -7 -3 0.155 -0.985 1.415 1990.810 o
+2 -7 -2 28.516 32.395 2.154 62.982 o
+2 -7 -1 88.364 95.348 3.569 17.630 o
+2 -7 0 149.196 137.223 8.706 8.625 o
+2 -7 1 165.722 167.697 6.981 7.708 o
+2 -7 2 369.713 400.548 13.159 2.279 o
+2 -7 3 264.463 262.804 6.465 4.195 o
+2 -7 4 159.794 166.824 5.002 8.318 o
+2 -7 5 88.531 86.751 4.253 17.882 o
+2 -7 6 17.266 15.235 2.399 108.560 o
+2 -7 7 7.852 5.817 2.501 211.223 o
+2 -6 -12 87.312 78.960 5.386 17.875 o
+2 -6 -11 49.839 42.536 2.934 37.246 o
+2 -6 -10 19.770 18.803 2.004 97.418 o
+2 -6 -9 59.829 51.968 2.528 30.886 o
+2 -6 -8 6.443 1.873 1.224 385.560 o
+2 -6 -7 3.313 4.023 1.235 509.010 o
+2 -6 -6 39.846 39.986 2.116 46.533 o
+2 -6 -5 1.331 2.691 0.996 967.166 o
+2 -6 -4 545.640 503.054 15.982 1.344 o
+2 -6 -3 37.687 35.744 1.975 50.690 o
+2 -6 -2 1028.660 993.258 20.397 0.457 o
+2 -6 -1 480.086 489.085 10.638 1.634 o
+2 -6 0 425.229 348.392 7.971 2.238 o
+2 -6 1 255.578 266.555 7.623 4.235 o
+2 -6 2 75.142 61.787 2.131 24.540 o
+2 -6 3 19.643 22.788 2.848 84.483 o
+2 -6 4 35.390 37.290 2.438 50.974 o
+2 -6 5 125.369 124.438 4.854 11.577 o
+2 -6 6 161.188 171.228 7.542 7.704 o
+2 -6 7 74.618 71.547 5.496 20.592 o
+2 -6 8 86.781 80.466 4.531 18.478 o
+2 -5 -12 5.808 2.526 3.490 202.842 o
+2 -5 -11 19.307 25.502 2.122 87.977 o
+2 -5 -10 6.534 13.083 1.542 218.108 o
+2 -5 -9 32.923 57.346 2.659 43.941 o
+2 -5 -8 300.500 337.951 5.844 3.295 o
+2 -5 -7 293.122 297.219 5.877 3.604 o
+2 -5 -6 509.099 531.225 8.202 1.494 o
+2 -5 -5 825.705 856.852 12.506 0.659 o
+2 -5 -4 756.213 796.426 11.622 0.761 o
+2 -5 -3 249.614 272.061 5.167 4.419 o
+2 -5 -2 82.027 77.642 2.272 20.965 o
+2 -5 -1 23.058 24.698 4.614 61.162 o
+2 -5 0 141.456 174.357 6.098 8.788 o
+2 -5 1 269.567 344.301 11.073 3.361 o
+2 -5 2 667.995 752.002 24.753 0.821 o
+2 -5 3 331.640 364.903 10.030 2.756 o
+2 -5 4 166.456 170.987 7.221 7.572 o
+2 -5 5 330.099 288.455 11.634 3.019 o
+2 -5 6 185.922 146.941 12.918 6.132 o
+2 -5 7 70.505 57.890 9.950 16.857 o
+2 -5 8 18.348 15.742 2.553 101.692 o
+2 -5 9 10.130 6.814 2.649 172.783 o
+2 -4 -13 48.817 57.450 5.938 28.156 o
+2 -4 -12 86.323 96.278 5.343 16.793 o
+2 -4 -11 71.626 70.593 5.466 21.314 o
+2 -4 -10 211.255 200.603 4.614 6.005 o
+2 -4 -9 377.183 346.433 8.120 2.545 o
+2 -4 -8 103.405 97.142 2.699 15.751 o
+2 -4 -7 85.601 57.785 2.111 22.431 o
+2 -4 -6 49.346 56.555 1.954 35.218 o
+2 -4 -5 170.873 165.870 3.417 8.060 o
+2 -4 -4 329.067 301.807 4.850 3.213 o
+2 -4 -3 676.702 665.685 9.736 0.961 o
+2 -4 -2 1008.760 945.507 19.262 0.483 o
+2 -4 -1 1437.490 1338.330 26.721 0.256 o
+2 -4 0 539.668 539.319 11.344 1.366 o
+2 -4 1 1094.190 981.455 19.801 0.429 o
+2 -4 2 676.870 695.564 11.828 0.929 o
+2 -4 3 411.187 327.496 5.975 2.422 o
+2 -4 4 336.329 318.285 6.066 3.035 o
+2 -4 5 22.845 20.826 1.926 86.200 o
+2 -4 6 39.608 35.866 4.092 42.728 o
+2 -4 8 201.734 169.784 7.382 6.405 o
+2 -4 9 190.255 194.015 7.863 6.319 o
+2 -4 10 68.675 63.164 7.101 20.566 o
+2 -3 -13 3.657 -1.090 2.936 325.928 o
+2 -3 -12 31.305 17.262 3.691 61.710 o
+2 -3 -11 1.491 -0.902 1.617 957.422 o
+2 -3 -10 3.038 5.291 1.768 409.847 o
+2 -3 -9 82.191 81.194 2.698 20.369 o
+2 -3 -8 233.585 213.097 4.093 5.343 o
+2 -3 -7 224.135 207.224 3.876 5.642 o
+2 -3 -6 1015.720 987.527 14.502 0.476 o
+2 -3 -5 1217.520 1251.410 17.872 0.332 o
+2 -3 -4 462.436 460.804 6.989 1.798 o
+2 -3 -3 1312.300 1331.480 21.132 0.290 o
+2 -3 -2 769.589 813.279 13.459 0.732 o
+2 -3 -1 190.464 193.039 3.597 6.806 o
+2 -3 0 562.673 762.588 11.065 1.067 o
+2 -3 1 227.765 231.880 4.153 5.262 o
+2 -3 2 251.832 264.592 8.919 4.219 o
+2 -3 3 911.633 894.044 14.868 0.570 o
+2 -3 4 653.927 665.993 12.959 0.982 o
+2 -3 5 2716.100 2486.230 69.376 0.075 o
+2 -3 6 276.250 256.476 9.524 3.892 o
+2 -3 7 509.148 415.312 16.288 1.571 o
+2 -3 9 66.382 49.667 6.259 23.735 o
+2 -3 10 1.655 -0.434 2.180 632.992 o
+2 -3 11 2.129 1.979 2.415 440.471 o
+2 -2 -12 14.135 24.436 3.330 91.579 o
+2 -2 -11 50.745 66.554 3.425 30.448 o
+2 -2 -10 199.567 214.296 5.140 6.092 o
+2 -2 -9 400.733 372.520 6.586 2.336 o
+2 -2 -8 121.348 144.257 3.188 11.538 o
+2 -2 -7 413.372 401.814 6.453 2.179 o
+2 -2 -6 198.092 185.009 5.038 6.566 o
+2 -2 -4 103.777 100.233 5.466 14.364 o
+2 -2 -3 128.239 68.924 3.530 14.234 o
+2 -2 -2 1566.760 1594.720 30.178 0.206 o
+2 -2 -1 1291.790 1249.880 15.787 0.311 o
+2 -2 0 2533.190 2610.530 36.417 0.085 o
+2 -2 1 2439.720 2547.250 40.441 0.089 o
+2 -2 2 2941.500 3004.900 48.548 0.064 o
+2 -2 3 423.838 422.694 7.186 2.058 o
+2 -2 4 561.553 599.564 10.152 1.245 o
+2 -2 5 27.919 34.707 1.560 64.191 o
+2 -2 6 74.806 94.342 2.681 20.538 o
+2 -2 7 233.248 233.560 4.862 5.089 o
+2 -2 8 15.477 47.661 6.098 46.850 o
+2 -2 9 77.758 81.682 7.462 17.199 o
+2 -2 10 151.417 142.503 9.869 8.076 o
+2 -2 11 183.191 175.051 6.188 7.070 o
+2 -2 12 63.689 58.670 4.506 25.896 o
+2 -1 -12 114.380 111.771 7.462 11.886 o
+2 -1 -11 61.844 63.325 4.056 26.354 o
+2 -1 -10 5.873 7.038 1.822 275.063 o
+2 -1 -9 11.684 11.474 2.969 134.287 o
+2 -1 -7 326.734 419.848 6.683 2.677 o
+2 -1 -6 341.650 360.130 5.800 2.813 o
+2 -1 -5 396.519 430.784 7.539 2.176 o
+2 -1 -4 324.948 315.607 7.204 3.121 o
+2 -1 -3 3444.930 3494.230 56.254 0.047 o
+2 -1 -2 398.705 355.503 5.310 2.422 o
+2 -1 -1 723.886 717.453 9.153 0.857 o
+2 -1 0 1151.890 1260.050 25.617 0.343 o
+2 -1 1 284.991 309.922 6.893 3.587 o
+2 -1 2 55.752 63.950 3.290 29.245 o
+2 -1 3 243.715 230.363 7.783 4.718 o
+2 -1 4 781.498 804.976 13.114 0.725 o
+2 -1 5 1088.950 1020.250 17.024 0.427 o
+2 -1 6 389.765 447.088 7.953 2.161 o
+2 -1 7 964.951 922.062 19.120 0.516 o
+2 -1 8 634.369 596.999 13.403 1.073 o
+2 -1 9 359.245 314.854 12.918 2.628 o
+2 -1 10 94.655 84.089 8.184 14.411 o
+2 -1 11 16.995 14.417 2.551 109.228 o
+2 -1 12 5.012 7.938 2.519 238.332 o
+2 0 -12 4.680 6.660 4.172 155.983 o
+2 0 -11 45.907 54.274 4.042 34.031 o
+2 0 -10 47.687 40.975 5.737 32.037 o
+2 0 -9 259.525 257.625 6.581 4.304 o
+2 0 -8 16.005 14.062 1.985 122.219 o
+2 0 -7 1022.610 1010.030 21.155 0.455 o
+2 0 -6 296.106 260.407 6.465 3.772 o
+2 0 -5 744.233 769.147 11.463 0.791 o
+2 0 -4 406.027 376.816 5.770 2.303 o
+2 0 -3 314.894 298.477 5.397 3.364 o
+2 0 -2 140.314 105.163 2.357 11.725 o
+2 0 -1 189.490 142.483 2.147 7.871 o
+2 0 0 1118.010 1013.730 16.739 0.416 o
+2 0 1 2726.380 2624.590 63.187 0.074 o
+2 0 2 813.494 641.342 19.177 0.753 o
+2 0 3 1729.320 1656.990 47.180 0.170 o
+2 0 4 1053.190 1069.380 17.317 0.432 o
+2 0 5 457.395 457.659 7.835 1.816 o
+2 0 6 122.583 117.795 3.424 12.459 o
+2 0 7 29.390 28.732 2.114 64.548 o
+2 0 8 14.883 12.789 2.262 127.107 o
+2 0 9 72.336 68.684 6.580 20.056 o
+2 0 10 218.267 231.968 10.672 4.885 o
+2 0 11 105.798 84.140 15.687 8.640 o
+2 0 12 72.118 73.320 4.540 21.907 o
+2 0 13 58.358 56.265 4.544 27.849 o
+2 1 -12 46.550 46.939 5.296 32.427 o
+2 1 -10 134.970 134.479 6.900 9.976 o
+2 1 -9 229.840 236.203 12.597 4.433 o
+2 1 -8 234.648 254.357 9.759 4.500 o
+2 1 -7 47.780 44.042 2.413 38.921 o
+2 1 -6 0.865 3.325 1.076 974.105 o
+2 1 -5 183.424 158.472 3.493 7.689 o
+2 1 -4 1232.640 1242.280 20.718 0.326 o
+2 1 -3 2223.070 2217.910 31.051 0.111 o
+2 1 -2 493.369 473.850 8.483 1.639 o
+2 1 -1 1895.760 1885.540 23.925 0.151 o
+2 1 0 1311.090 1300.510 18.512 0.297 o
+2 1 1 323.416 304.977 6.658 3.205 o
+2 1 2 360.185 431.921 13.400 2.237 o
+2 1 3 120.324 130.066 5.215 11.635 o
+2 1 4 54.163 38.915 2.086 37.189 o
+2 1 5 2.256 3.013 0.952 743.447 o
+2 1 6 408.771 426.305 9.645 2.085 o
+2 1 7 411.384 415.030 20.380 1.820 o
+2 1 8 425.142 380.178 6.993 2.166 o
+2 1 9 349.687 384.340 13.640 2.432 o
+2 1 10 38.693 53.840 6.580 30.707 o
+2 1 11 178.758 180.616 10.110 6.457 o
+2 1 12 16.577 14.601 2.591 109.975 o
+2 1 13 5.683 -0.203 4.935 137.544 o
+2 2 -11 3.853 10.912 4.092 150.021 o
+2 2 -10 30.877 31.233 2.830 57.828 o
+2 2 -9 182.506 199.472 8.505 6.364 o
+2 2 -8 229.432 223.245 6.299 5.179 o
+2 2 -7 854.924 822.782 17.276 0.635 o
+2 2 -6 359.678 370.303 7.070 2.608 o
+2 2 -5 545.728 532.214 9.502 1.375 o
+2 2 -4 544.648 796.774 13.658 1.052 o
+2 2 -3 103.319 129.810 2.953 13.822 o
+2 2 -2 353.186 616.865 10.274 1.886 o
+2 2 -1 138.456 308.442 7.132 6.266 o
+2 2 0 278.946 359.001 9.373 3.276 o
+2 2 1 182.813 202.843 3.197 6.926 o
+2 2 2 748.150 724.521 11.990 0.812 o
+2 2 3 1818.690 1751.730 28.563 0.164 o
+2 2 4 1665.940 1789.270 35.994 0.176 o
+2 2 5 584.711 513.564 8.784 1.303 o
+2 2 6 1667.350 1744.040 28.901 0.182 o
+2 2 7 185.644 224.912 5.219 6.326 o
+2 2 8 46.026 91.957 2.664 28.434 o
+2 2 9 36.136 113.216 7.302 21.736 o
+2 2 10 21.957 49.748 6.098 41.567 o
+2 2 11 10.826 29.717 2.688 101.883 o
+2 2 12 41.599 36.023 5.456 36.819 o
+2 2 13 28.863 28.176 3.174 60.688 o
+2 3 -11 50.890 51.994 5.456 29.411 o
+2 3 -10 87.540 87.540 7.061 15.908 o
+2 3 -9 44.942 42.310 3.571 38.752 o
+2 3 -8 27.517 21.367 2.365 72.670 o
+2 3 -7 1.389 2.560 1.805 646.129 o
+2 3 -6 26.084 26.081 1.971 72.995 o
+2 3 -5 4.298 2.070 1.256 505.287 o
+2 3 -4 288.718 289.199 5.659 3.714 o
+2 3 -3 120.470 107.001 8.634 11.058 o
+2 3 -2 414.891 384.407 8.091 2.193 o
+2 3 -1 1671.750 1662.870 23.647 0.189 o
+2 3 0 3282.630 3258.500 45.432 0.053 o
+2 3 1 1260.010 1233.080 17.619 0.322 o
+2 3 2 1195.680 1287.270 21.260 0.330 o
+2 3 3 595.237 553.870 11.554 1.210 o
+2 3 4 73.120 90.273 3.851 20.540 o
+2 3 5 24.190 25.735 1.962 77.159 o
+2 3 6 170.407 166.787 3.498 8.052 o
+2 3 7 95.631 84.934 2.959 17.596 o
+2 3 8 147.575 146.318 6.098 9.180 o
+2 3 10 92.083 90.827 5.336 16.388 o
+2 3 11 192.545 177.577 6.339 6.704 o
+2 3 12 27.571 32.015 3.102 60.236 o
+2 3 13 36.630 28.881 3.287 50.980 o
+2 4 -10 0.652 -1.204 3.932 269.214 o
+2 4 -9 4.329 4.012 3.691 198.804 o
+2 4 -8 33.589 34.210 3.089 52.113 o
+2 4 -7 52.678 43.107 2.551 36.197 o
+2 4 -6 137.887 126.427 13.881 7.541 o
+2 4 -5 463.546 439.799 8.333 1.821 o
+2 4 -4 357.033 349.479 6.851 2.711 o
+2 4 -3 692.295 673.306 14.367 0.909 o
+2 4 -2 242.371 236.749 4.885 4.875 o
+2 4 -1 90.117 83.079 2.511 18.826 o
+2 4 0 234.546 254.162 3.952 4.903 o
+2 4 1 134.782 148.363 2.719 10.519 o
+2 4 2 2322.950 2339.860 75.865 0.091 o
+2 4 3 79.368 72.499 2.660 21.884 o
+2 4 4 367.784 346.626 7.944 2.615 o
+2 4 5 345.049 316.876 7.391 2.927 o
+2 4 6 790.978 791.289 16.579 0.710 o
+2 4 7 119.216 118.913 7.382 11.306 o
+2 4 8 330.406 327.775 7.883 2.993 o
+2 4 9 227.038 205.139 5.938 5.457 o
+2 4 10 50.188 46.479 3.438 35.074 o
+2 4 11 10.767 10.121 2.433 159.423 o
+2 4 12 11.563 6.909 2.360 168.573 o
+2 4 13 16.497 18.745 3.079 96.244 o
+2 5 -9 13.616 19.979 4.493 82.849 o
+2 5 -8 101.266 101.982 7.382 13.445 o
+2 5 -7 28.107 37.886 2.845 57.093 o
+2 5 -6 85.049 108.890 3.854 16.976 o
+2 5 -5 10.599 39.705 5.828 57.078 o
+2 5 -4 65.617 83.885 3.180 23.416 o
+2 5 -3 3.443 1.439 1.340 598.818 o
+2 5 -2 174.241 185.197 4.413 7.434 o
+2 5 -1 352.342 341.824 6.639 2.782 o
+2 5 0 294.435 312.270 6.065 3.494 o
+2 5 1 58.665 79.370 4.391 24.572 o
+2 5 2 477.941 497.574 8.966 1.646 o
+2 5 3 408.898 364.944 6.738 2.307 o
+2 5 4 219.907 265.068 5.185 5.022 o
+2 5 5 116.072 139.237 3.334 12.125 o
+2 5 6 7.110 16.478 1.331 193.269 o
+2 5 7 6.854 6.717 1.251 286.227 o
+2 5 8 113.745 133.388 4.470 12.260 o
+2 5 9 252.959 245.647 6.723 4.499 o
+2 5 10 130.792 151.761 5.280 10.166 o
+2 5 11 107.680 110.505 6.098 13.157 o
+2 5 12 58.944 58.761 4.273 27.671 o
+2 5 13 29.441 31.186 3.530 56.259 o
+2 6 -8 2.237 4.413 4.172 188.332 o
+2 6 -7 2.657 3.771 3.851 210.349 o
+2 6 -6 38.315 36.365 2.902 47.366 o
+2 6 -5 74.626 64.216 3.829 23.058 o
+2 6 -4 43.322 55.875 4.173 34.586 o
+2 6 -3 173.361 162.369 4.369 7.921 o
+2 6 -2 97.786 92.540 3.305 16.586 o
+2 6 -1 151.669 145.270 3.981 9.411 o
+2 6 0 95.918 108.091 3.323 15.795 o
+2 6 1 98.907 85.121 3.142 17.019 o
+2 6 2 27.425 44.230 2.309 56.171 o
+2 6 3 2.661 2.541 1.265 643.245 o
+2 6 4 115.428 116.651 3.152 13.226 o
+2 6 5 316.876 318.243 6.254 3.216 o
+2 6 6 185.677 179.611 4.342 7.129 o
+2 6 7 128.240 124.916 3.447 11.699 o
+2 6 8 111.803 117.029 4.528 13.131 o
+2 6 9 17.809 14.135 2.283 110.059 o
+2 6 10 12.366 15.714 2.969 119.592 o
+2 6 11 5.280 2.779 2.364 302.635 o
+2 6 12 9.425 2.722 2.576 207.106 o
+2 6 13 1.161 -1.795 2.588 533.640 o
+2 7 -7 19.159 12.276 4.493 79.139 o
+2 7 -6 76.019 83.207 7.382 17.416 o
+2 7 -5 18.589 22.079 2.936 87.192 o
+2 7 -4 26.438 22.870 2.261 73.879 o
+2 7 -3 45.432 45.509 2.951 38.897 o
+2 7 -2 9.937 17.597 1.935 148.792 o
+2 7 -1 11.785 8.193 1.698 178.606 o
+2 7 0 16.788 8.663 1.983 132.521 o
+2 7 1 121.375 113.632 5.416 12.128 o
+2 7 2 136.204 134.700 3.775 10.703 o
+2 7 3 133.568 112.971 5.788 11.107 o
+2 7 4 98.423 97.741 3.190 16.193 o
+2 7 5 10.892 8.112 1.650 190.034 o
+2 7 6 51.499 47.120 2.650 35.613 o
+2 7 7 9.074 3.868 1.782 243.265 o
+2 7 8 0.917 3.776 1.508 732.775 o
+2 7 9 17.243 16.381 1.880 112.472 o
+2 7 10 27.463 28.761 3.050 62.881 o
+2 7 11 35.130 37.277 3.352 48.257 o
+2 7 12 16.655 13.033 2.973 107.047 o
+2 8 -5 8.261 20.621 4.734 91.606 o
+2 8 -4 2.916 8.184 4.012 172.385 o
+2 8 -3 60.907 58.647 4.261 27.080 o
+2 8 -2 57.901 72.022 3.670 26.708 o
+2 8 -1 72.733 64.898 4.100 23.169 o
+2 8 0 73.330 69.326 5.938 20.566 o
+2 8 1 101.839 97.715 4.364 15.265 o
+2 8 2 30.272 31.212 2.489 60.042 o
+2 8 3 16.417 11.398 1.829 129.181 o
+2 8 4 1.060 1.325 1.579 920.456 o
+2 8 5 5.606 6.037 2.018 280.294 o
+2 8 6 10.865 11.745 1.752 168.986 o
+2 8 7 17.089 23.150 2.053 98.644 o
+2 8 8 45.126 50.328 3.961 35.545 o
+2 8 9 22.613 17.502 2.804 84.085 o
+2 8 10 51.249 44.937 3.542 34.730 o
+2 8 11 2.306 -0.516 2.733 417.306 o
+2 8 12 14.788 11.112 3.158 115.409 o
+2 9 -4 41.909 40.600 5.456 35.509 o
+2 9 -3 7.890 11.554 4.413 115.404 o
+2 9 -2 8.453 11.233 4.172 120.143 o
+2 9 -1 1.859 0.802 3.771 255.178 o
+2 9 0 2.369 8.758 4.212 164.043 o
+2 9 1 55.547 66.150 12.517 14.755 o
+2 9 2 14.176 13.071 2.444 126.969 o
+2 9 3 58.594 65.627 5.388 25.058 o
+2 9 4 43.730 50.149 5.447 32.547 o
+2 9 5 20.991 18.039 2.417 91.175 o
+2 9 6 81.101 92.787 4.798 18.210 o
+2 9 7 3.052 2.020 2.579 364.368 o
+2 9 8 8.655 7.879 2.718 179.457 o
+2 9 9 4.855 -1.257 2.713 317.576 o
+2 9 10 6.620 7.889 2.969 190.318 o
+2 9 11 14.501 17.559 3.485 98.704 o
+2 10 -1 19.589 22.547 4.734 66.529 o
+2 10 0 12.549 7.783 4.092 111.922 o
+2 10 1 18.128 18.134 4.333 77.201 o
+2 10 2 1.021 10.190 3.851 190.922 o
+2 10 3 8.720 8.666 3.851 134.905 o
+2 10 4 3.707 3.796 2.716 295.559 o
+2 10 5 1.481 2.103 2.978 359.291 o
+2 10 6 1.407 0.966 3.332 322.936 o
+2 10 7 2.758 5.240 3.114 260.308 o
+2 10 8 6.433 7.928 3.040 188.721 o
+2 10 9 7.707 10.085 3.496 148.773 o
+2 11 2 1.026 6.178 4.092 197.697 o
+2 11 3 6.251 7.863 4.092 144.097 o
+2 11 4 6.932 9.067 4.092 136.157 o
+2 11 5 11.860 13.721 4.172 101.771 o
+2 11 6 16.184 16.347 3.296 98.054 o
+3 -10 -5 23.195 29.046 4.092 62.000 o
+3 -10 -4 26.277 25.034 3.932 61.665 o
+3 -10 -3 42.385 43.328 4.333 37.916 o
+3 -10 -2 33.220 37.712 4.172 46.525 o
+3 -10 -1 24.312 29.447 3.932 61.340 o
+3 -9 -8 73.532 76.738 4.977 20.827 o
+3 -9 -7 22.487 20.771 3.009 78.839 o
+3 -9 -6 62.946 60.147 4.386 26.062 o
+3 -9 -5 35.922 40.199 4.172 43.521 o
+3 -9 -4 9.101 12.437 3.129 143.051 o
+3 -9 -3 4.703 2.889 2.808 272.746 o
+3 -9 -2 16.789 8.826 2.889 116.592 o
+3 -9 -1 17.540 19.257 3.290 89.814 o
+3 -8 -9 2.439 -0.786 2.909 375.732 o
+3 -8 -8 5.480 1.446 2.212 333.077 o
+3 -8 -7 5.458 2.885 2.391 293.709 o
+3 -8 -6 16.055 12.070 3.450 103.295 o
+3 -8 -5 69.242 56.232 3.892 25.432 o
+3 -8 -4 119.070 129.183 6.499 11.309 o
+3 -8 -3 153.762 139.614 6.580 8.924 o
+3 -8 1 61.038 64.511 5.055 25.047 o
+3 -8 2 8.452 11.233 3.129 151.758 o
+3 -8 3 4.856 5.215 4.975 126.394 o
+3 -8 4 0.911 -0.722 3.370 349.794 o
+3 -7 -10 11.270 14.697 2.947 128.083 o
+3 -7 -9 43.546 50.838 8.064 25.749 o
+3 -7 -8 42.625 77.816 4.549 29.546 o
+3 -7 -7 84.270 116.061 4.695 16.144 o
+3 -7 -6 196.788 201.824 10.642 5.638 o
+3 -7 -5 189.155 192.308 16.327 4.915 o
+3 -7 -4 89.392 101.422 4.163 16.729 o
+3 -7 -3 33.410 26.077 2.889 57.628 o
+3 -7 -1 14.050 12.918 2.568 125.784 o
+3 -7 0 76.904 81.682 5.857 18.910 o
+3 -7 1 248.029 228.902 6.916 4.718 o
+3 -7 2 101.407 132.874 6.178 12.683 o
+3 -7 3 230.955 221.377 8.505 4.976 o
+3 -7 4 291.071 292.590 7.143 3.607 o
+3 -7 5 83.847 81.818 3.657 19.450 o
+3 -7 6 122.719 132.867 7.502 10.559 o
+3 -6 -11 27.414 23.605 2.643 69.262 o
+3 -6 -10 70.845 63.294 4.566 23.321 o
+3 -6 -9 74.078 77.635 4.511 21.069 o
+3 -6 -8 39.922 31.969 3.169 47.042 o
+3 -6 -7 34.275 27.571 1.641 60.034 o
+3 -6 -6 6.340 0.817 1.032 434.884 o
+3 -6 -5 136.576 122.685 4.315 10.971 o
+3 -6 -4 55.367 40.020 7.984 24.320 o
+3 -6 -3 573.957 551.556 17.813 1.198 o
+3 -6 -2 111.512 94.440 4.814 14.163 o
+3 -6 -1 530.017 554.574 14.042 1.342 o
+3 -6 0 219.611 217.604 5.503 5.518 o
+3 -6 1 310.777 325.365 10.271 3.091 o
+3 -6 2 37.126 38.455 3.290 46.287 o
+3 -6 3 183.072 179.504 4.196 7.238 o
+3 -6 4 0.002 -0.857 1.443 2105.910 o
+3 -6 5 41.818 38.761 2.959 43.501 o
+3 -6 6 4.997 4.723 1.943 322.043 o
+3 -6 7 102.936 106.966 4.531 14.535 o
+3 -5 -11 14.254 15.456 3.123 109.227 o
+3 -5 -10 4.126 6.154 2.559 271.161 o
+3 -5 -9 66.143 63.214 6.831 21.430 o
+3 -5 -8 30.874 34.405 2.212 58.261 o
+3 -5 -7 183.308 173.939 7.065 6.955 o
+3 -5 -6 215.415 208.853 10.611 5.169 o
+3 -5 -5 214.472 187.580 7.625 5.797 o
+3 -5 -4 89.395 89.064 5.536 16.732 o
+3 -5 -3 309.848 294.796 5.642 3.432 o
+3 -5 -2 185.491 184.628 3.955 7.085 o
+3 -5 -1 86.322 71.072 2.577 20.614 o
+3 -5 0 2.305 4.852 1.211 565.236 o
+3 -5 1 13.087 15.623 1.127 145.629 o
+3 -5 2 67.011 64.708 2.085 26.496 o
+3 -5 3 476.730 475.554 8.413 1.697 o
+3 -5 4 435.377 423.475 9.607 1.963 o
+3 -5 5 240.653 256.419 5.303 4.702 o
+3 -5 6 241.083 220.851 6.049 4.985 o
+3 -5 7 134.203 124.886 6.419 10.465 o
+3 -5 8 49.833 43.916 3.651 35.465 o
+3 -5 9 3.422 0.160 4.734 162.323 o
+3 -4 -11 69.032 75.064 4.888 22.029 o
+3 -4 -10 83.123 82.079 3.981 19.344 o
+3 -4 -9 72.120 69.857 4.565 22.264 o
+3 -4 -8 197.781 178.826 4.551 6.719 o
+3 -4 -7 103.263 83.233 2.701 16.700 o
+3 -4 -6 214.145 195.564 10.400 5.360 o
+3 -4 -5 25.603 58.504 2.258 50.671 o
+3 -4 -4 164.771 282.611 7.543 5.861 o
+3 -4 -3 260.201 313.250 7.139 3.865 o
+3 -4 -2 27.597 110.992 6.740 24.923 o
+3 -4 -1 1161.010 1225.770 20.129 0.353 o
+3 -4 0 672.686 708.678 11.935 0.925 o
+3 -4 1 673.294 615.245 10.374 1.005 o
+3 -4 2 759.213 810.509 13.492 0.744 o
+3 -4 3 353.375 335.369 6.052 2.813 o
+3 -4 4 8.394 33.262 2.053 112.256 o
+3 -4 5 31.148 34.435 3.596 52.356 o
+3 -4 6 7.075 22.087 1.992 152.201 o
+3 -4 7 67.255 77.508 4.734 22.318 o
+3 -4 8 27.018 37.848 4.975 47.843 o
+3 -4 9 19.756 26.020 6.259 51.278 o
+3 -3 -11 72.227 72.598 4.945 21.549 o
+3 -3 -10 8.571 5.333 1.994 229.070 o
+3 -3 -9 7.426 1.953 1.508 323.743 o
+3 -3 -8 7.546 4.437 1.340 293.608 o
+3 -3 -7 143.710 133.835 4.250 10.154 o
+3 -3 -6 279.680 271.313 4.793 3.983 o
+3 -3 -5 522.165 475.348 8.714 1.536 o
+3 -3 -4 890.263 843.122 12.321 0.611 o
+3 -3 -3 1394.640 1344.070 19.204 0.270 o
+3 -3 -2 780.682 789.434 11.417 0.739 o
+3 -3 -1 316.847 306.168 5.497 3.300 o
+3 -3 0 113.279 115.356 2.716 13.604 o
+3 -3 1 82.222 79.195 4.172 19.630 o
+3 -3 2 1.908 3.210 2.086 487.037 o
+3 -3 3 251.184 252.750 8.906 4.320 o
+3 -3 4 36.340 41.254 1.619 50.075 o
+3 -3 5 30.743 29.817 1.672 63.297 o
+3 -3 6 542.462 526.567 9.471 1.392 o
+3 -3 7 332.729 300.176 11.273 2.962 o
+3 -3 8 126.404 121.830 4.360 11.739 o
+3 -3 9 127.631 108.161 5.055 11.970 o
+3 -3 10 103.741 95.418 15.005 8.865 o
+3 -2 -11 54.219 60.277 4.308 28.955 o
+3 -2 -10 81.946 94.637 5.003 17.786 o
+3 -2 -9 166.602 153.921 4.958 8.309 o
+3 -2 -8 433.522 407.613 6.915 2.051 o
+3 -2 -7 347.249 332.339 5.765 2.883 o
+3 -2 -6 270.884 220.633 4.119 4.538 o
+3 -2 -5 248.635 244.768 5.082 4.675 o
+3 -2 -4 55.051 54.328 1.713 33.237 o
+3 -2 -3 0.765 0.462 0.735 2365.850 o
+3 -2 -2 129.254 147.466 2.660 10.933 o
+3 -2 -1 184.131 165.491 4.539 7.418 o
+3 -2 0 439.881 349.157 8.056 2.153 o
+3 -2 1 562.977 510.153 15.807 1.294 o
+3 -2 2 1400.490 1368.700 39.557 0.248 o
+3 -2 3 814.207 846.751 25.195 0.628 o
+3 -2 4 858.958 784.005 23.510 0.625 o
+3 -2 5 1262.150 1290.390 37.070 0.291 o
+3 -2 6 47.183 33.802 2.823 41.791 o
+3 -2 7 96.949 92.534 2.594 16.973 o
+3 -2 8 15.009 11.310 2.270 130.311 o
+3 -2 9 30.240 29.897 2.337 61.586 o
+3 -2 10 150.281 145.436 15.646 6.346 o
+3 -2 11 23.031 23.090 2.741 77.369 o
+3 -1 -11 79.967 72.904 4.622 20.277 o
+3 -1 -10 21.808 28.642 3.289 70.321 o
+3 -1 -9 30.782 22.654 3.003 62.758 o
+3 -1 -7 44.789 41.205 2.065 42.379 o
+3 -1 -5 234.185 233.390 4.168 5.109 o
+3 -1 -4 804.002 823.489 12.169 0.696 o
+3 -1 -3 612.202 566.804 8.504 1.178 o
+3 -1 -2 1096.300 1123.180 18.493 0.399 o
+3 -1 -1 1030.190 1085.590 18.328 0.437 o
+3 -1 0 1142.840 1205.100 24.680 0.357 o
+3 -1 1 1582.580 1764.460 35.404 0.189 o
+3 -1 2 18.592 22.627 2.728 88.528 o
+3 -1 3 21.985 24.473 3.129 75.073 o
+3 -1 4 41.042 56.247 4.413 35.029 o
+3 -1 5 184.014 189.041 8.104 6.535 o
+3 -1 6 1763.280 1855.660 52.797 0.153 o
+3 -1 7 18.250 22.984 1.561 99.004 o
+3 -1 8 285.810 281.919 8.064 3.693 o
+3 -1 9 281.571 278.310 5.930 3.867 o
+3 -1 10 110.348 110.085 6.218 12.879 o
+3 -1 11 12.656 13.524 2.368 135.716 o
+3 0 -11 2.134 6.304 3.045 269.057 o
+3 0 -10 10.291 11.007 2.774 150.018 o
+3 0 -9 44.819 54.114 3.028 36.652 o
+3 0 -8 361.888 352.999 7.049 2.656 o
+3 0 -7 108.001 121.380 3.092 13.739 o
+3 0 -6 266.348 266.698 4.842 4.210 o
+3 0 -5 376.620 361.237 5.901 2.543 o
+3 0 -4 350.253 376.216 14.028 2.439 o
+3 0 -2 74.908 135.499 5.235 15.787 o
+3 0 -1 33.553 28.023 1.877 60.011 o
+3 0 0 271.300 264.090 11.755 3.748 o
+3 0 1 1082.050 1098.810 22.864 0.403 o
+3 0 2 616.712 644.792 19.819 1.009 o
+3 0 3 989.404 962.053 28.725 0.466 o
+3 0 4 851.467 861.595 26.318 0.589 o
+3 0 5 735.088 797.967 24.232 0.726 o
+3 0 6 52.787 76.146 6.098 24.080 o
+3 0 7 432.668 424.156 7.662 2.004 o
+3 0 8 44.558 43.935 1.889 41.869 o
+3 0 9 11.708 18.053 5.055 81.036 o
+3 0 10 12.149 10.621 1.873 159.954 o
+3 0 11 1.331 3.678 2.101 509.367 o
+3 0 12 84.748 70.603 5.938 18.459 o
+3 1 -11 67.450 65.638 4.920 23.440 o
+3 1 -10 41.071 34.895 3.393 44.275 o
+3 1 -9 43.714 39.475 4.734 37.079 o
+3 1 -8 25.855 17.013 1.984 83.080 o
+3 1 -7 74.878 54.279 4.776 23.194 o
+3 1 -6 1.309 5.321 1.194 655.124 o
+3 1 -5 4.437 1.725 1.147 523.809 o
+3 1 -4 112.980 129.355 3.346 12.815 o
+3 1 -3 30.141 20.458 1.106 73.871 o
+3 1 -2 875.260 849.182 12.416 0.620 o
+3 1 -1 562.606 510.003 7.984 1.371 o
+3 1 0 881.770 904.187 18.971 0.577 o
+3 1 1 744.196 736.502 27.241 0.729 o
+3 1 2 15.612 31.132 3.691 76.108 o
+3 1 3 770.090 788.017 23.750 0.699 o
+3 1 4 21.729 21.664 2.969 79.862 o
+3 1 5 229.702 204.286 8.505 5.170 o
+3 1 6 85.748 83.929 5.938 17.299 o
+3 1 7 4.367 4.196 1.261 428.911 o
+3 1 8 650.129 624.269 15.617 1.005 o
+3 1 9 377.235 382.748 9.138 2.399 o
+3 1 10 104.466 99.392 6.820 13.597 o
+3 1 11 97.578 99.055 4.316 15.727 o
+3 1 12 82.044 70.547 9.709 15.077 o
+3 2 -10 3.124 -4.092 4.734 165.417 o
+3 2 -9 8.043 4.377 3.330 176.440 o
+3 2 -8 84.657 96.823 7.098 15.665 o
+3 2 -7 16.927 18.259 1.735 111.346 o
+3 2 -6 426.458 411.080 6.905 2.079 o
+3 2 -5 383.584 370.336 6.207 2.459 o
+3 2 -4 503.143 502.827 7.874 1.561 o
+3 2 -3 310.283 275.873 7.562 3.464 o
+3 2 -2 665.243 710.927 10.637 0.940 o
+3 2 -1 72.027 70.376 1.901 24.349 o
+3 2 0 19.933 20.814 1.309 98.610 o
+3 2 1 32.985 17.893 2.006 67.873 o
+3 2 2 137.178 125.700 3.834 10.932 o
+3 2 3 256.997 197.546 8.024 4.754 o
+3 2 4 604.129 620.962 19.738 1.052 o
+3 2 5 210.924 189.281 9.308 5.650 o
+3 2 6 196.010 195.058 8.666 6.035 o
+3 2 7 464.110 453.344 8.073 1.794 o
+3 2 8 64.981 75.259 2.374 25.336 o
+3 2 9 0.836 -0.210 1.571 1229.310 o
+3 2 10 22.743 23.491 1.619 84.880 o
+3 2 11 2.584 1.472 2.017 518.066 o
+3 2 12 44.366 42.038 3.179 40.122 o
+3 3 -9 113.715 140.978 7.863 10.731 o
+3 3 -7 243.734 241.708 6.524 4.706 o
+3 3 -6 29.959 24.497 1.917 67.781 o
+3 3 -5 28.518 33.964 1.840 62.979 o
+3 3 -4 3.565 5.319 1.170 453.192 o
+3 3 -3 51.556 74.042 2.253 30.078 o
+3 3 -2 403.863 422.464 7.844 2.153 o
+3 3 -1 135.090 130.354 2.715 11.117 o
+3 3 0 207.080 259.524 3.953 5.425 o
+3 3 1 355.207 341.822 5.394 2.786 o
+3 3 2 527.174 597.418 8.760 1.343 o
+3 3 3 500.952 525.924 11.548 1.494 o
+3 3 4 138.448 123.072 3.451 11.011 o
+3 3 5 118.817 151.176 3.213 11.463 o
+3 3 6 222.930 238.003 4.671 5.271 o
+3 3 7 39.411 34.669 1.689 50.154 o
+3 3 8 119.503 137.218 3.761 11.831 o
+3 3 9 17.114 11.171 1.886 125.266 o
+3 3 10 71.796 95.622 3.182 20.727 o
+3 3 11 56.895 66.258 3.973 27.548 o
+3 3 12 70.443 80.274 4.540 21.522 o
+3 4 -9 1.700 4.654 3.851 217.576 o
+3 4 -8 32.597 37.230 4.493 45.861 o
+3 4 -7 10.883 14.443 3.611 115.872 o
+3 4 -6 227.318 238.079 6.660 5.043 o
+3 4 -5 71.478 66.244 3.399 23.979 o
+3 4 -4 110.126 89.490 3.072 15.274 o
+3 4 -3 247.743 240.311 5.028 4.734 o
+3 4 -2 239.511 228.667 4.401 5.037 o
+3 4 -1 245.813 226.956 4.802 4.908 o
+3 4 0 372.331 375.912 5.575 2.527 o
+3 4 1 73.320 72.534 1.985 23.687 o
+3 4 2 179.520 174.450 3.174 7.557 o
+3 4 3 108.490 103.503 5.086 13.887 o
+3 4 4 128.238 146.223 3.328 10.938 o
+3 4 5 248.764 242.989 4.831 4.701 o
+3 4 6 239.004 267.736 6.669 4.552 o
+3 4 7 503.578 492.194 8.861 1.568 o
+3 4 8 27.221 20.003 2.396 74.352 o
+3 4 9 53.355 47.187 2.487 34.895 o
+3 4 10 124.467 113.704 6.018 11.662 o
+3 4 11 3.023 0.918 2.068 493.349 o
+3 4 12 0.742 1.481 2.346 588.404 o
+3 5 -8 9.871 7.623 4.172 121.955 o
+3 5 -7 29.970 22.146 4.172 57.269 o
+3 5 -6 13.579 12.999 3.611 107.810 o
+3 5 -5 58.349 49.847 3.259 30.982 o
+3 5 -4 88.492 74.315 3.657 19.291 o
+3 5 -3 2.604 1.273 1.894 556.814 o
+3 5 -2 5.258 9.707 1.494 276.679 o
+3 5 -1 29.098 24.149 2.345 67.582 o
+3 5 0 188.757 185.544 4.229 6.933 o
+3 5 1 830.759 843.252 14.255 0.656 o
+3 5 2 319.313 327.634 6.463 3.140 o
+3 5 3 204.951 186.486 5.103 6.334 o
+3 5 4 209.487 155.955 3.978 6.761 o
+3 5 5 167.355 160.174 3.768 8.299 o
+3 5 6 14.711 15.010 1.720 130.104 o
+3 5 7 7.414 8.517 1.280 251.797 o
+3 5 8 27.951 30.029 2.477 64.161 o
+3 5 9 12.335 6.950 1.406 186.222 o
+3 5 10 29.415 28.850 2.662 62.044 o
+3 5 11 9.840 8.218 2.568 171.739 o
+3 5 12 18.599 16.335 2.760 97.381 o
+3 6 -7 0.421 2.728 4.012 238.013 o
+3 6 -6 4.348 0.642 3.611 228.121 o
+3 6 -5 8.360 21.022 3.932 106.032 o
+3 6 -4 89.516 116.586 6.820 14.227 o
+3 6 -3 85.903 86.599 4.314 18.271 o
+3 6 -2 152.833 139.721 3.841 9.522 o
+3 6 -1 74.948 68.611 2.915 23.200 o
+3 6 0 80.340 95.812 3.461 18.952 o
+3 6 1 10.248 10.441 2.187 169.550 o
+3 6 2 95.486 89.626 6.499 15.257 o
+3 6 3 101.327 115.061 7.061 13.030 o
+3 6 4 14.370 11.719 3.129 116.460 o
+3 6 5 20.018 29.252 2.699 77.539 o
+3 6 6 26.355 50.550 6.259 38.051 o
+3 6 7 93.166 105.680 4.761 15.638 o
+3 6 8 37.444 42.566 2.671 46.150 o
+3 6 9 182.440 185.734 6.154 6.921 o
+3 6 10 84.523 73.707 4.507 19.457 o
+3 6 11 15.357 11.859 2.752 118.636 o
+3 6 12 23.332 19.221 3.111 77.820 o
+3 7 -5 24.901 23.349 4.493 60.568 o
+3 7 -4 15.940 13.801 4.172 89.425 o
+3 7 -3 4.208 3.049 3.611 212.285 o
+3 7 -2 17.758 19.776 4.854 70.441 o
+3 7 -1 0.630 -0.375 1.527 1388.960 o
+3 7 0 12.446 19.797 2.321 120.744 o
+3 7 1 20.802 20.140 3.370 79.883 o
+3 7 2 0.637 3.812 2.236 524.857 o
+3 7 3 77.656 76.109 5.416 19.683 o
+3 7 4 126.328 131.671 7.783 10.268 o
+3 7 5 75.118 78.713 7.382 17.870 o
+3 7 6 37.551 29.126 4.413 45.498 o
+3 7 7 22.780 14.122 4.975 65.734 o
+3 7 8 19.703 17.813 5.055 66.773 o
+3 7 9 12.573 7.871 2.684 147.388 o
+3 7 10 52.197 54.705 4.298 30.749 o
+3 7 11 1.724 2.861 2.712 380.482 o
+3 8 -4 3.419 4.814 4.253 169.822 o
+3 8 -3 0.664 2.568 4.654 181.261 o
+3 8 -2 19.657 17.370 2.616 94.106 o
+3 8 -1 13.082 16.191 2.328 126.532 o
+3 8 0 31.310 29.367 4.172 51.948 o
+3 8 1 17.854 17.893 3.611 86.850 o
+3 8 2 64.805 66.656 4.505 24.491 o
+3 8 3 0.511 -0.868 2.375 695.648 o
+3 8 4 7.722 3.293 2.344 242.509 o
+3 8 5 5.206 4.283 2.477 274.788 o
+3 8 6 8.546 15.784 2.672 148.201 o
+3 8 7 17.914 15.327 2.722 101.825 o
+3 8 8 8.378 9.757 2.053 197.595 o
+3 8 9 7.334 3.611 5.376 106.617 o
+3 8 10 1.902 -0.562 5.376 139.832 o
+3 9 -2 20.960 19.440 2.754 86.250 o
+3 9 -1 0.725 1.446 2.247 630.998 o
+3 9 0 2.903 0.802 3.771 236.059 o
+3 9 1 10.458 6.339 3.691 136.602 o
+3 9 2 2.536 6.580 3.611 210.993 o
+3 9 3 8.553 13.633 3.028 145.667 o
+3 9 4 8.350 10.063 2.745 170.737 o
+3 9 5 6.556 6.182 2.657 218.991 o
+3 9 6 1.398 4.420 2.590 381.915 o
+3 9 7 16.520 14.798 2.928 104.922 o
+3 9 8 4.537 1.683 3.089 262.726 o
+3 9 9 2.895 3.796 3.892 204.025 o
+3 10 1 10.053 14.363 4.493 100.245 o
+3 10 2 24.824 32.898 4.654 54.022 o
+3 10 3 5.110 6.660 3.691 175.954 o
+3 10 4 9.234 5.200 5.857 87.271 o
+3 10 5 6.263 11.250 3.731 146.301 o
+3 10 6 1.250 4.697 2.891 334.347 o
+3 10 7 0.599 4.953 2.951 343.416 o
+4 -8 -6 2.388 0.562 4.413 190.891 o
+4 -8 -5 1.016 1.590 2.648 466.970 o
+4 -8 -4 20.392 20.461 3.290 81.228 o
+4 -8 -3 52.161 51.112 4.654 30.776 o
+4 -8 -2 79.021 80.639 4.975 19.437 o
+4 -8 -1 84.804 92.274 5.296 17.325 o
+4 -8 0 111.068 108.161 5.697 13.140 o
+4 -8 1 79.915 83.207 4.975 19.058 o
+4 -8 2 45.227 48.383 4.333 35.101 o
+4 -7 -8 39.320 35.727 3.180 45.960 o
+4 -7 -7 104.939 108.883 7.863 12.540 o
+4 -7 -6 40.269 36.910 4.654 40.042 o
+4 -7 -5 164.917 149.398 9.267 7.588 o
+4 -7 -4 171.057 159.883 5.339 7.932 o
+4 -7 -3 63.839 65.314 4.493 24.942 o
+4 -7 -2 72.864 78.713 4.654 21.074 o
+4 -7 -1 14.620 14.844 2.568 118.260 o
+4 -7 0 2.055 0.963 2.086 569.380 o
+4 -7 1 11.369 9.629 2.247 161.576 o
+4 -7 2 69.881 63.067 4.172 24.027 o
+4 -7 3 55.157 61.542 4.092 28.749 o
+4 -7 4 31.880 32.034 3.290 54.208 o
+4 -6 -9 56.038 53.297 4.132 29.849 o
+4 -6 -8 27.308 27.199 3.859 59.385 o
+4 -6 -7 26.207 18.347 4.895 59.002 o
+4 -6 -6 26.211 32.902 3.651 58.431 o
+4 -6 -5 11.692 20.796 2.252 123.061 o
+4 -6 -4 21.773 38.241 3.146 63.697 o
+4 -6 -3 63.415 87.492 3.118 23.565 o
+4 -6 -2 80.562 96.869 3.221 18.954 o
+4 -6 -1 284.760 272.168 6.408 3.845 o
+4 -6 0 280.844 264.470 6.211 3.959 o
+4 -6 1 253.373 241.331 5.616 4.593 o
+4 -6 2 193.465 200.206 4.906 6.489 o
+4 -6 3 117.561 107.852 3.743 13.279 o
+4 -6 4 89.144 95.082 5.296 16.523 o
+4 -6 5 36.535 42.526 5.215 38.638 o
+4 -6 6 7.957 13.640 3.851 125.567 o
+4 -5 -9 0.687 -3.239 2.182 775.128 o
+4 -5 -8 13.521 11.358 3.186 120.046 o
+4 -5 -7 14.010 12.180 3.731 105.445 o
+4 -5 -6 78.686 70.922 2.940 22.040 o
+4 -5 -5 344.501 325.889 5.654 2.937 o
+4 -5 -4 311.298 287.185 5.743 3.456 o
+4 -5 -3 154.618 162.832 4.895 8.664 o
+4 -5 -2 235.527 257.035 6.534 4.716 o
+4 -5 -1 150.169 129.777 13.921 7.085 o
+4 -5 1 1.803 -0.481 2.086 651.982 o
+4 -5 2 30.906 28.805 3.450 56.346 o
+4 -5 3 27.558 33.058 3.851 55.646 o
+4 -5 4 176.751 163.364 7.302 7.320 o
+4 -5 5 276.173 304.824 11.233 3.492 o
+4 -5 6 69.964 72.054 6.098 20.764 o
+4 -5 7 199.797 202.601 9.950 5.663 o
+4 -4 -10 36.504 49.650 3.650 41.532 o
+4 -4 -9 91.792 83.030 4.665 17.409 o
+4 -4 -8 102.084 101.149 5.095 14.687 o
+4 -4 -7 107.603 86.425 10.070 11.860 o
+4 -4 -6 145.189 124.567 6.213 9.873 o
+4 -4 -5 14.154 13.742 1.226 143.638 o
+4 -4 -4 63.589 39.725 2.095 32.328 o
+4 -4 -3 42.114 39.495 1.815 45.452 o
+4 -4 -2 197.543 179.020 3.804 6.788 o
+4 -4 -1 53.468 47.902 5.215 29.732 o
+4 -4 0 298.402 315.817 10.672 3.235 o
+4 -4 1 100.201 105.834 5.376 14.494 o
+4 -4 2 513.373 522.510 16.449 1.397 o
+4 -4 3 215.002 217.044 8.666 5.327 o
+4 -4 4 342.551 371.983 12.597 2.558 o
+4 -4 5 52.098 57.049 5.536 27.983 o
+4 -4 6 10.783 14.202 4.172 104.671 o
+4 -4 7 38.054 47.260 5.777 34.747 o
+4 -4 8 43.182 51.112 6.259 30.431 o
+4 -3 -10 34.521 31.687 3.215 51.954 o
+4 -3 -9 8.537 10.790 2.076 188.765 o
+4 -3 -8 3.125 33.263 2.313 134.761 o
+4 -3 -7 10.488 17.194 2.553 133.935 o
+4 -3 -6 59.158 68.074 5.572 24.312 o
+4 -3 -5 69.799 91.099 3.317 21.522 o
+4 -3 -4 56.562 42.926 1.733 35.244 o
+4 -3 -3 77.422 84.939 2.079 21.250 o
+4 -3 -2 732.711 743.244 23.189 0.763 o
+4 -3 -1 317.110 322.797 11.715 2.979 o
+4 -3 0 230.393 253.706 6.802 4.822 o
+4 -3 1 252.379 330.580 11.314 3.610 o
+4 -3 2 104.457 109.043 5.857 13.648 o
+4 -3 3 7.987 15.085 3.370 134.875 o
+4 -3 4 162.527 191.287 9.548 6.894 o
+4 -3 5 96.933 104.711 6.740 14.126 o
+4 -3 6 123.931 127.819 7.863 10.501 o
+4 -3 7 239.079 225.950 10.912 4.549 o
+4 -3 8 100.493 86.015 8.184 13.741 o
+4 -3 9 35.453 34.823 6.098 38.036 o
+4 -2 -10 16.957 19.991 5.015 69.822 o
+4 -2 -9 20.341 17.174 3.169 86.544 o
+4 -2 -8 40.265 35.283 2.830 46.393 o
+4 -2 -7 258.868 230.677 15.165 3.802 o
+4 -2 -6 187.503 160.716 6.922 7.058 o
+4 -2 -5 265.414 248.215 7.442 4.236 o
+4 -2 -4 271.501 259.860 4.659 4.191 o
+4 -2 -3 685.665 682.179 10.273 0.932 o
+4 -2 -2 61.248 65.795 5.296 24.474 o
+4 -2 -1 29.104 16.850 3.370 67.406 o
+4 -2 0 123.980 116.823 4.397 12.121 o
+4 -2 1 259.927 241.436 9.308 4.242 o
+4 -2 2 563.935 544.896 17.572 1.230 o
+4 -2 3 290.771 300.571 11.233 3.359 o
+4 -2 4 154.551 151.971 8.666 8.090 o
+4 -2 5 100.560 79.355 6.259 15.429 o
+4 -2 6 214.169 231.567 10.110 5.031 o
+4 -2 7 39.943 27.602 5.215 41.072 o
+4 -2 8 5.137 1.204 4.413 161.867 o
+4 -2 9 23.637 24.312 5.857 51.415 o
+4 -2 10 4.276 6.098 5.777 101.705 o
+4 -1 -10 75.578 70.451 4.831 21.192 o
+4 -1 -9 61.004 59.266 13.480 13.454 o
+4 -1 -8 71.452 65.726 3.524 23.939 o
+4 -1 -7 61.188 43.254 3.781 30.374 o
+4 -1 -6 32.590 35.097 2.359 55.315 o
+4 -1 -5 8.606 7.096 1.483 235.223 o
+4 -1 -4 83.836 85.766 2.302 19.797 o
+4 -1 -3 591.902 556.378 8.537 1.235 o
+4 -1 -2 686.589 684.293 14.779 0.908 o
+4 -1 -1 189.873 158.096 5.296 7.252 o
+4 -1 0 438.362 446.461 10.606 1.881 o
+4 -1 1 544.371 528.399 12.056 1.361 o
+4 -1 2 148.898 144.268 7.221 8.887 o
+4 -1 3 105.362 104.630 7.302 13.001 o
+4 -1 4 94.392 96.286 6.580 14.948 o
+4 -1 5 42.830 47.501 5.857 32.360 o
+4 -1 6 1.179 2.728 3.932 233.308 o
+4 -1 7 181.234 181.739 9.789 6.432 o
+4 -1 8 72.990 64.110 7.783 18.846 o
+4 -1 9 118.064 122.443 9.709 10.221 o
+4 -1 10 158.643 135.923 10.993 7.600 o
+4 0 -9 12.221 20.685 2.954 109.722 o
+4 0 -8 70.338 73.907 4.270 22.506 o
+4 0 -7 207.960 215.137 5.916 5.794 o
+4 0 -6 101.147 104.872 6.860 13.630 o
+4 0 -5 218.798 258.866 14.907 4.162 o
+4 0 -4 454.480 510.109 8.087 1.720 o
+4 0 -3 150.962 169.347 5.710 8.537 o
+4 0 -2 10.551 46.155 1.919 85.301 o
+4 0 -1 223.121 232.973 8.906 4.975 o
+4 0 0 66.725 84.634 4.094 22.277 o
+4 0 1 126.674 106.883 4.471 12.287 o
+4 0 3 136.359 138.250 7.141 9.715 o
+4 0 4 535.591 527.725 17.813 1.314 o
+4 0 5 808.093 872.588 26.479 0.617 o
+4 0 6 573.200 635.725 20.701 1.084 o
+4 0 7 30.321 29.287 5.376 46.531 o
+4 0 8 233.808 242.720 11.956 4.391 o
+4 0 9 32.333 36.268 6.098 39.375 o
+4 0 10 8.784 10.271 6.018 79.645 o
+4 0 11 24.758 38.354 7.703 35.657 o
+4 1 -9 43.336 46.984 7.181 28.630 o
+4 1 -8 38.341 34.546 3.013 47.785 o
+4 1 -7 24.077 23.470 2.568 76.058 o
+4 1 -6 10.240 7.839 2.327 177.869 o
+4 1 -5 29.958 23.723 1.895 68.519 o
+4 1 -4 34.207 40.994 3.043 48.484 o
+4 1 -3 220.839 224.679 4.106 5.500 o
+4 1 -2 15.445 17.028 1.638 121.904 o
+4 1 -1 318.333 317.097 6.637 3.196 o
+4 1 0 980.002 1019.730 21.689 0.473 o
+4 1 1 396.811 381.266 9.400 2.279 o
+4 1 2 510.149 532.941 17.813 1.372 o
+4 1 3 181.340 171.870 8.024 6.895 o
+4 1 4 232.196 259.811 10.511 4.426 o
+4 1 5 10.266 11.314 3.932 118.003 o
+4 1 6 1.688 1.926 3.851 239.429 o
+4 1 7 169.777 176.844 9.869 6.827 o
+4 1 8 14.116 16.609 5.296 74.271 o
+4 1 9 118.062 130.226 9.869 9.930 o
+4 1 10 53.813 71.492 8.104 21.072 o
+4 1 11 22.988 18.294 6.339 51.245 o
+4 2 -9 5.184 -0.802 4.493 162.073 o
+4 2 -8 1.101 2.259 3.290 318.863 o
+4 2 -7 52.671 64.190 6.018 25.822 o
+4 2 -6 6.241 13.467 2.918 168.068 o
+4 2 -5 136.226 128.702 7.382 9.915 o
+4 2 -4 109.814 112.280 5.376 13.206 o
+4 2 -3 87.661 66.662 2.190 20.972 o
+4 2 -2 97.783 105.187 4.935 15.026 o
+4 2 -1 360.050 331.278 6.427 2.768 o
+4 2 0 15.836 4.813 1.915 152.851 o
+4 2 1 25.044 27.010 2.515 71.170 o
+4 2 2 4.976 9.365 2.033 256.079 o
+4 2 3 41.189 41.804 4.895 37.324 o
+4 2 4 376.517 388.191 14.122 2.245 o
+4 2 5 126.309 147.638 8.184 9.668 o
+4 2 6 83.670 73.016 6.900 17.529 o
+4 2 7 110.700 99.495 7.783 12.497 o
+4 2 8 405.210 428.230 16.369 1.937 o
+4 2 9 27.778 31.052 6.018 44.337 o
+4 2 10 31.597 16.288 6.178 46.034 o
+4 2 11 30.148 33.860 7.382 35.604 o
+4 3 -8 8.093 6.203 2.654 197.984 o
+4 3 -7 22.122 20.697 2.835 81.212 o
+4 3 -6 108.871 99.537 5.336 13.935 o
+4 3 -5 27.959 20.307 2.306 73.169 o
+4 3 -4 16.942 20.832 3.024 92.446 o
+4 3 -3 23.739 19.784 1.959 85.038 o
+4 3 -2 46.743 49.150 1.984 38.656 o
+4 3 -1 258.539 259.557 4.553 4.402 o
+4 3 0 94.897 104.855 3.108 16.219 o
+4 3 1 33.690 28.375 2.929 55.775 o
+4 3 2 343.427 324.643 12.838 2.710 o
+4 3 3 135.612 125.332 7.783 9.910 o
+4 3 4 158.985 148.039 8.104 8.130 o
+4 3 5 18.100 15.005 4.253 81.570 o
+4 3 6 54.289 41.242 5.376 30.304 o
+4 3 7 5.350 -2.568 3.932 194.404 o
+4 3 8 0.180 -1.284 4.493 215.074 o
+4 3 9 108.977 122.604 9.468 10.885 o
+4 3 10 27.795 25.114 6.820 41.946 o
+4 3 11 34.980 38.113 7.302 32.894 o
+4 4 -7 5.333 11.725 2.788 191.684 o
+4 4 -6 15.786 15.626 2.831 107.570 o
+4 4 -5 76.337 77.552 4.219 20.876 o
+4 4 -4 46.664 52.395 6.018 29.554 o
+4 4 -3 141.027 146.576 7.304 9.198 o
+4 4 -2 175.601 171.293 5.817 7.460 o
+4 4 -1 149.971 148.916 4.774 9.266 o
+4 4 0 22.992 18.767 1.320 92.184 o
+4 4 1 85.511 72.067 2.076 20.907 o
+4 4 2 52.638 58.572 2.212 32.883 o
+4 4 3 26.773 17.813 4.574 61.118 o
+4 4 4 3.678 8.666 4.493 141.955 o
+4 4 5 4.132 13.881 4.493 124.935 o
+4 4 6 41.434 42.526 5.697 34.528 o
+4 4 7 62.589 77.189 7.783 19.477 o
+4 4 8 67.235 83.849 8.104 17.833 o
+4 4 9 5.008 7.783 5.055 117.065 o
+4 4 10 12.456 6.660 5.617 82.697 o
+4 4 11 38.875 39.618 3.571 43.610 o
+4 5 -6 69.973 55.521 3.712 25.527 o
+4 5 -5 6.869 7.642 2.486 212.991 o
+4 5 -4 29.004 32.413 2.810 59.527 o
+4 5 -3 22.878 24.794 3.932 66.767 o
+4 5 -2 0.992 1.097 1.699 892.095 o
+4 5 -1 19.878 24.467 1.893 89.477 o
+4 5 0 24.608 25.433 2.126 75.712 o
+4 5 1 0.864 0.537 1.325 1350.550 o
+4 5 2 103.348 123.702 4.284 13.713 o
+4 5 3 48.586 40.886 2.996 38.307 o
+4 5 4 69.309 67.556 6.166 21.252 o
+4 5 5 124.377 103.187 4.132 12.748 o
+4 5 6 121.412 113.617 8.265 10.948 o
+4 5 7 41.149 39.612 3.330 42.690 o
+4 5 8 2.784 0.978 2.247 467.579 o
+4 5 9 6.737 2.134 4.333 150.202 o
+4 5 10 5.689 -2.889 5.617 112.230 o
+4 5 11 19.032 19.383 7.542 45.153 o
+4 6 -5 15.053 17.710 5.938 64.102 o
+4 6 -4 5.175 1.486 2.407 320.624 o
+4 6 -3 14.187 12.334 2.375 130.165 o
+4 6 -2 25.037 23.658 6.860 43.995 o
+4 6 -1 44.337 41.082 4.574 36.784 o
+4 6 0 102.849 105.325 5.676 14.087 o
+4 6 1 249.288 215.957 7.887 4.739 o
+4 6 2 19.187 11.464 1.592 117.774 o
+4 6 3 74.456 50.966 2.470 26.045 o
+4 6 4 9.015 9.439 1.576 207.492 o
+4 6 5 1.832 -0.537 1.243 1106.870 o
+4 6 6 55.553 53.244 2.401 32.558 o
+4 6 7 4.781 3.413 2.023 343.863 o
+4 6 8 30.640 28.507 4.854 49.381 o
+4 6 9 6.181 5.407 2.217 260.387 o
+4 6 10 11.546 16.752 2.583 128.610 o
+4 7 -3 31.010 27.406 2.894 59.782 o
+4 7 -2 2.668 5.978 2.269 345.758 o
+4 7 -1 5.079 2.869 1.976 348.046 o
+4 7 0 1.923 4.654 2.247 410.356 o
+4 7 1 22.200 28.966 3.851 65.236 o
+4 7 2 99.096 101.686 9.629 12.212 o
+4 7 3 7.398 3.679 2.401 241.326 o
+4 7 4 24.588 45.142 3.665 53.274 o
+4 7 5 38.326 33.562 3.022 48.199 o
+4 7 6 12.090 13.606 2.497 136.258 o
+4 7 7 5.439 7.032 2.413 245.790 o
+4 7 8 9.846 11.965 2.481 158.059 o
+4 7 9 28.606 28.558 3.066 61.351 o
+4 8 -1 18.030 18.237 2.419 100.039 o
+4 8 0 7.351 10.431 3.611 146.003 o
+4 8 1 5.925 3.530 1.204 373.299 o
+4 8 3 47.005 41.304 4.508 35.532 o
+4 8 4 1.902 3.370 6.018 107.202 o
+4 8 5 7.361 4.144 2.539 229.357 o
+4 8 6 0.683 3.023 2.604 453.422 o
+4 8 7 3.650 3.394 2.526 325.053 o
+4 8 8 13.537 15.422 2.799 117.980 o
+4 9 2 0.559 1.765 3.049 392.126 o
+4 9 3 3.155 0.160 6.018 108.446 o
+4 9 4 12.878 14.603 3.146 116.353 o
+4 9 5 10.237 8.906 3.390 139.366 o
+4 9 6 5.924 8.571 2.839 201.166 o
+5 -6 -5 17.868 17.080 2.367 103.204 o
+5 -6 -4 38.024 46.699 5.617 35.407 o
+5 -6 -3 1.554 2.166 3.932 231.770 o
+5 -5 -6 28.482 35.399 2.188 60.807 o
+5 -5 -5 20.116 24.280 2.608 83.626 o
+5 -5 -4 164.653 165.852 8.987 7.367 o
+5 -5 -3 170.310 161.439 8.906 7.265 o
+5 -5 -2 76.441 91.311 7.302 16.879 o
+5 -5 2 15.448 26.799 3.691 81.026 o
+5 -5 3 1.183 2.487 3.450 290.534 o
+5 -5 4 7.740 9.709 3.611 145.815 o
+5 -4 -7 27.354 21.516 2.044 74.585 o
+5 -4 -6 81.944 71.944 3.605 20.786 o
+5 -4 -5 107.968 98.479 7.221 13.088 o
+5 -4 -4 53.350 49.025 5.215 29.573 o
+5 -4 -3 2.438 0.642 3.370 292.556 o
+5 -4 -2 6.053 2.808 3.611 190.682 o
+5 -4 -1 5.868 1.123 3.771 192.474 o
+5 -4 2 90.230 105.352 6.499 14.960 o
+5 -4 3 252.510 242.319 10.110 4.283 o
+5 -4 4 171.600 177.085 8.826 6.977 o
+5 -4 5 104.729 106.636 7.542 12.833 o
+5 -4 6 100.488 106.636 8.024 12.915 o
+5 -3 -7 12.183 11.576 2.577 140.231 o
+5 -3 -6 1.164 0.044 1.483 1166.620 o
+5 -3 -5 48.832 48.912 3.072 35.827 o
+5 -3 -4 126.850 138.892 8.104 9.909 o
+5 -3 -3 98.847 105.272 7.141 13.664 o
+5 -3 -2 121.917 127.819 8.425 10.398 o
+5 -3 1 40.797 43.409 5.376 35.616 o
+5 -3 2 107.478 116.666 7.061 12.435 o
+5 -3 3 14.296 15.566 4.012 94.064 o
+5 -3 4 3.384 1.123 3.851 218.757 o
+5 -3 5 9.903 10.832 4.493 106.871 o
+5 -3 6 54.965 67.881 7.302 22.540 o
+5 -3 7 30.529 33.941 5.938 41.907 o
+5 -2 -7 64.155 72.673 5.358 22.840 o
+5 -2 -6 91.617 99.691 5.835 15.562 o
+5 -2 -5 46.161 61.609 2.789 34.451 o
+5 -2 -4 18.604 29.048 4.388 66.250 o
+5 -2 -2 193.083 180.535 8.666 6.308 o
+5 -2 -1 51.929 44.051 4.814 31.939 o
+5 -2 0 11.307 20.647 2.855 115.285 o
+5 -2 1 0.519 5.697 3.530 259.362 o
+5 -2 2 28.790 53.117 5.857 37.637 o
+5 -2 3 338.163 360.268 13.640 2.587 o
+5 -2 4 60.212 59.617 6.660 23.364 o
+5 -2 5 195.152 206.051 10.351 5.671 o
+5 -2 6 145.245 157.026 9.468 8.149 o
+5 -2 7 25.838 47.501 7.061 35.771 o
+5 -1 -7 13.511 7.732 2.889 136.509 o
+5 -1 -6 23.644 12.080 1.925 96.437 o
+5 -1 -5 5.299 2.913 1.473 391.699 o
+5 -1 -4 34.862 31.987 2.091 55.333 o
+5 -1 -3 1.644 2.135 1.947 594.582 o
+5 -1 -2 37.457 47.019 5.697 35.345 o
+5 -1 -1 218.641 225.469 9.629 5.059 o
+5 -1 0 95.197 83.212 4.757 16.850 o
+5 -1 1 320.177 328.976 12.758 2.878 o
+5 -1 2 292.006 267.834 11.314 3.516 o
+5 -1 3 43.938 30.972 4.975 38.543 o
+5 -1 4 14.841 12.999 4.895 82.126 o
+5 -1 5 2.641 2.487 4.493 173.256 o
+5 -1 6 13.352 13.721 4.975 83.435 o
+5 -1 7 27.462 28.645 6.018 45.438 o
+5 -1 8 18.791 24.553 6.098 54.157 o
+5 0 -7 18.754 23.957 4.734 66.727 o
+5 0 -6 46.684 52.725 7.061 27.015 o
+5 0 -5 41.162 39.108 3.620 42.032 o
+5 0 -4 248.115 241.262 5.856 4.673 o
+5 0 -3 264.015 243.140 8.305 4.240 o
+5 0 -2 290.899 292.788 11.153 3.403 o
+5 0 -1 1.131 4.895 3.049 312.630 o
+5 0 0 198.867 197.800 6.546 6.196 o
+5 0 1 0.695 1.046 2.365 609.937 o
+5 0 2 73.273 73.659 6.820 19.178 o
+5 0 3 28.438 26.799 5.055 51.020 o
+5 0 4 0.746 7.863 4.333 175.683 o
+5 0 5 77.212 74.381 7.623 17.622 o
+5 0 6 44.498 39.638 6.178 32.369 o
+5 0 7 48.539 50.229 7.061 26.838 o
+5 0 8 60.053 61.783 7.703 21.457 o
+5 0 9 36.499 31.052 6.820 35.587 o
+5 1 -7 17.302 16.481 4.935 73.177 o
+5 1 -6 56.060 42.590 5.456 29.247 o
+5 1 -5 23.177 23.498 3.771 68.614 o
+5 1 -4 8.240 9.999 1.551 215.363 o
+5 1 -3 23.272 41.815 2.523 62.201 o
+5 1 -2 35.895 68.844 6.018 30.472 o
+5 1 -1 34.030 46.699 4.814 40.313 o
+5 1 0 42.827 38.572 3.657 40.998 o
+5 1 1 193.937 211.500 6.866 6.107 o
+5 1 2 82.578 79.596 7.141 16.992 o
+5 1 3 86.797 82.003 7.302 16.140 o
+5 1 4 300.412 315.576 13.560 3.060 o
+5 1 5 165.282 174.277 9.950 6.991 o
+5 1 6 28.256 20.300 5.857 49.092 o
+5 1 7 71.330 67.400 8.746 17.644 o
+5 1 8 7.176 10.110 5.938 84.747 o
+5 1 9 21.549 21.183 6.820 47.715 o
+5 2 -6 13.869 9.511 2.381 140.388 o
+5 2 -5 28.235 36.013 2.744 58.507 o
+5 2 -4 101.234 107.502 4.204 14.836 o
+5 2 -3 49.993 48.988 2.577 36.022 o
+5 2 -2 53.588 58.333 5.777 26.853 o
+5 2 -1 82.258 78.152 6.178 18.038 o
+5 2 0 252.251 245.557 7.496 4.462 o
+5 2 1 31.905 22.799 2.924 61.508 o
+5 2 2 4.220 8.184 4.172 153.719 o
+5 2 3 31.635 24.954 5.536 46.338 o
+5 2 4 17.472 19.337 5.296 66.467 o
+5 2 5 176.929 185.751 10.271 6.406 o
+5 2 6 86.622 83.367 8.345 15.171 o
+5 2 7 103.312 110.889 9.468 11.662 o
+5 2 8 26.441 33.860 6.820 40.123 o
+5 2 9 60.567 71.171 9.388 18.048 o
+5 3 -5 12.786 14.509 2.367 132.081 o
+5 3 -4 3.534 3.471 1.941 406.823 o
+5 3 -3 1.792 0.209 2.487 505.103 o
+5 3 -2 0.179 0.345 1.455 1701.720 o
+5 3 -1 1.002 -0.802 2.889 454.416 o
+5 3 0 77.995 86.054 4.779 19.304 o
+5 3 1 105.331 117.675 5.266 13.421 o
+5 3 2 26.831 17.652 5.135 56.834 o
+5 3 3 216.816 206.292 10.832 5.138 o
+5 3 4 76.038 66.277 7.703 18.302 o
+5 3 5 25.123 21.584 5.617 53.012 o
+5 3 6 1.189 1.364 4.895 166.205 o
+5 3 7 86.555 83.608 9.147 14.464 o
+5 3 8 21.733 18.695 6.018 54.800 o
+5 3 9 19.835 12.116 6.740 53.819 o
+5 4 -5 0.875 7.025 2.357 385.500 o
+5 4 -4 1.647 4.392 2.307 420.984 o
+5 4 -3 1.790 1.149 2.086 586.881 o
+5 4 -2 35.206 42.331 2.788 47.807 o
+5 4 -1 31.836 30.800 3.611 53.450 o
+5 4 0 48.462 45.575 5.055 32.507 o
+5 4 1 8.753 3.972 2.473 212.996 o
+5 4 2 15.424 15.646 4.895 78.075 o
+5 4 3 24.360 20.461 5.777 53.145 o
+5 4 4 17.859 8.906 4.253 89.595 o
+5 4 5 11.495 7.703 5.376 88.116 o
+5 4 6 0.461 -5.055 4.975 173.267 o
+5 4 7 22.915 23.911 5.777 52.870 o
+5 4 8 26.717 28.083 6.740 42.127 o
+5 4 9 63.273 59.055 8.024 20.597 o
+5 5 -3 38.161 34.402 4.132 44.145 o
+5 5 -2 17.173 14.156 4.253 84.698 o
+5 5 -1 13.486 10.171 1.926 150.166 o
+5 5 0 11.103 18.156 1.855 140.344 o
+5 5 1 1.908 2.648 2.368 443.705 o
+5 5 2 0.382 7.542 5.296 130.859 o
+5 5 3 59.145 69.807 8.505 19.646 o
+5 5 4 1.228 0.642 5.536 134.350 o
+5 5 5 16.406 5.697 5.055 84.358 o
+5 5 6 16.513 21.424 6.018 59.056 o
+5 5 7 23.528 12.597 6.178 54.754 o
+5 5 8 2.582 11.875 6.178 88.528 o
+5 6 -2 23.338 21.905 2.969 76.210 o
+5 6 -1 3.370 4.183 1.985 391.150 o
+5 6 0 8.486 12.126 1.926 186.622 o
+5 6 1 5.107 5.603 1.598 333.478 o
+5 6 2 25.339 10.030 5.617 59.045 o
+5 6 3 6.720 1.123 5.777 101.844 o
+5 6 4 4.827 8.265 6.499 80.909 o
+5 6 5 22.337 11.795 5.376 64.059 o
+5 6 6 12.695 7.703 5.697 79.716 o
+5 6 7 4.677 7.623 6.259 86.856 o
+5 7 1 18.624 18.936 2.969 90.991 o
+5 7 2 6.076 5.465 2.217 262.012 o
+5 7 3 3.736 0.321 5.536 122.598 o
+5 7 4 0.890 2.442 1.956 663.561 o
+5 7 5 15.108 12.999 6.018 66.424 o
+5 7 6 21.074 23.510 5.857 54.297 o
+6 -3 -2 62.985 76.788 7.623 19.659 o
+6 -3 2 49.664 51.112 6.178 28.381 o
+6 -2 -3 73.862 71.091 7.462 18.548 o
+6 -2 -2 32.110 35.947 5.135 43.873 o
+6 -2 -1 15.688 14.764 4.574 82.937 o
+6 -2 1 5.054 13.319 4.895 110.324 o
+6 -2 2 16.793 26.318 5.857 57.382 o
+6 -2 3 9.763 16.930 5.777 75.189 o
+6 -1 -3 6.539 13.239 4.493 115.398 o
+6 -1 -2 36.771 52.957 5.456 35.007 o
+6 -1 -1 8.614 16.689 4.333 104.561 o
+6 -1 0 37.760 59.216 6.981 28.989 o
+6 -1 1 28.868 45.254 6.259 38.123 o
+6 -1 2 35.382 50.149 6.419 33.236 o
+6 -1 3 59.032 66.357 7.944 20.831 o
+6 -1 4 32.957 33.539 6.178 39.452 o
+6 0 -3 27.367 32.978 4.975 49.643 o
+6 0 -2 10.066 3.210 3.771 146.311 o
+6 0 -1 80.009 76.226 7.302 17.427 o
+6 0 0 10.739 7.623 4.012 122.274 o
+6 0 1 56.963 50.871 7.221 24.175 o
+6 0 2 5.835 2.247 5.135 123.087 o
+6 0 3 4.908 -0.241 5.055 136.877 o
+6 0 4 48.992 69.486 8.345 21.785 o
+6 0 5 11.187 14.363 6.259 68.193 o
+6 1 -3 34.309 28.244 4.975 45.843 o
+6 1 -2 1.060 0.883 3.691 281.463 o
+6 1 -1 13.164 10.030 4.574 95.710 o
+6 1 0 35.406 44.612 5.215 38.686 o
+6 1 1 33.419 31.614 6.178 39.742 o
+6 1 2 44.430 48.544 7.542 27.115 o
+6 1 3 46.569 48.704 7.623 26.288 o
+6 1 4 15.275 19.899 6.178 59.864 o
+6 1 5 6.011 4.172 5.536 105.790 o
+6 2 -2 22.674 28.805 4.654 58.752 o
+6 2 -1 98.276 101.260 7.382 13.762 o
+6 2 0 2.474 2.247 4.333 186.509 o
+6 2 1 43.513 42.045 7.542 28.377 o
+6 2 2 4.516 4.413 5.777 103.675 o
+6 2 3 6.536 8.024 6.419 79.228 o
+6 2 4 4.326 10.110 4.814 122.667 o
+6 2 5 23.413 19.498 6.178 51.515 o
+6 3 -1 4.454 6.098 5.938 96.939 o
+6 3 0 2.123 12.357 4.172 153.805 o
+6 3 1 5.942 1.926 5.697 105.346 o
+6 3 2 3.980 0.401 5.536 121.305 o
+6 3 3 12.771 14.764 6.259 65.582 o
+6 3 4 29.540 27.120 5.777 45.798 o
+6 3 5 59.952 63.067 8.265 20.459 o
+6 4 2 25.764 23.028 7.221 41.611 o
+6 4 3 7.965 4.574 5.857 91.247 o
+;
+_iucr_refine_instructions_details 
+;
+TITL 1 in P1 #1
+REM reset to P1 #1
+CELL 0.71073 4.9177 9.0079 10.8617 73.1 86.036 88.774
+ZERR 1 0.0003 0.0006 0.0006 0.003 0.002 0.003
+LATT -1
+SFAC C H Br F N O
+UNIT 20 12 2 2 2 2
+
+L.S. 4
+PLAN  20
+TEMP -121.44
+BOND 
+fmap 2
+ACTA 
+WGHT 0.083335 1.977459
+FVAR 0.353029
+REM <olex2.extras>
+REM <HklSrc "%.\\1.hkl">
+REM </olex2.extras>
+
+Br1   3     0.11951  0.04449  0.77650  11.00000  0.05124  0.05710  0.04120 =
+ -0.00327 -0.00555  0.01488 
+Br2   3     0.99188 -0.53057  0.87250  11.00000  0.04617  0.06355  0.04191 =
+ -0.00814 -0.00459  0.01904 
+N1    5     0.59496 -0.06244  0.46925  11.00000  0.02559  0.04614  0.02917 =
+ 0.00253  0.00099  0.00013 
+AFIX 43
+H1    2     0.76169 -0.07584  0.49524  11.00000 -1.20000 
+AFIX 0
+N2    5     0.50474 -0.42905  1.17397  11.00000  0.01743  0.05235  0.02317 =
+ -0.00479 -0.01142  0.00355 
+AFIX 43
+H2    2     0.33855 -0.42389  1.14771  11.00000 -1.20000 
+AFIX 0
+C5    1     0.36748 -0.12779  0.80079  11.00000  0.01219  0.03643  0.02089 =
+ -0.00749 -0.00524  0.00734 
+C6    1     0.74616 -0.37109  0.84706  11.00000  0.04452  0.05126  0.04662 =
+ -0.00598  0.00271 -0.01327 
+C7    1     0.67029 -0.29351  0.72833  11.00000  0.02959  0.05988  0.03272 =
+ -0.00837 -0.00710  0.00617 
+AFIX 43
+H7    2     0.75216 -0.32508  0.65817  11.00000 -1.20000 
+AFIX 0
+C8    1     0.63303 -0.31553  0.95222  11.00000  0.02089  0.05784  0.04819 =
+ 0.00220  0.00477 -0.01632 
+C11   1     0.43999 -0.19401  0.92879  11.00000  0.03042  0.04573  0.01757 =
+ -0.01225 -0.00248 -0.00806 
+AFIX 43
+H11   2     0.36116 -0.15784  0.99711  11.00000 -1.20000 
+AFIX 0
+C12   1     0.54560 -0.48609  1.30774  11.00000  0.02484  0.03006  0.03870 =
+ 0.00092 -0.00527  0.00891 
+C13   1     0.48480 -0.17237  0.69866  11.00000  0.02294  0.05037  0.01213 =
+ -0.01000 -0.00797  0.00753 
+C14   1     0.57312  0.00301  0.33579  11.00000  0.03130  0.05230  0.01604 =
+ -0.00542 -0.00526 -0.01523 
+C15   1     0.39255 -0.10702  0.56197  11.00000  0.02984  0.06141  0.01723 =
+ -0.01292  0.00601 -0.00528 
+C16   1     0.38453 -0.44004  1.40339  11.00000  0.03331  0.04301  0.03212 =
+ -0.00164 -0.00100  0.00553 
+C17   1     0.71158 -0.38399  1.08915  11.00000  0.01616  0.05918  0.04010 =
+ -0.00779 -0.01755  0.00645 
+C18   1     0.72753 -0.60655  1.36326  11.00000  0.05306  0.03637  0.05859 =
+ 0.00086 -0.00300  0.02448 
+AFIX 43
+H18   2     0.84799 -0.64545  1.30771  11.00000 -1.20000 
+AFIX 0
+C19   1     0.74896 -0.05376  0.25731  11.00000  0.03882  0.06990  0.03401 =
+ -0.01516 -0.00807 -0.00665 
+AFIX 43
+H19   2     0.86755 -0.13839  0.29078  11.00000 -1.20000 
+AFIX 0
+C20   1     0.37757  0.11348  0.29272  11.00000  0.04232  0.06113  0.02557 =
+ -0.00332 -0.01778 -0.00665 
+C22   1     0.60268 -0.61735  1.56581  11.00000  0.08606  0.10209  0.02592 =
+ 0.00665 -0.01901 -0.04047 
+AFIX 43
+H22   2     0.62268 -0.66392  1.65517  11.00000 -1.20000 
+AFIX 0
+C23   1     0.55004  0.12439  0.06607  11.00000  0.08217  0.06499  0.02315 =
+ 0.00581 -0.00914 -0.01436 
+AFIX 43
+H23   2     0.54036  0.16278 -0.02476  11.00000 -1.20000 
+AFIX 0
+C26   1     0.74432  0.02171  0.12146  11.00000  0.04571  0.08109  0.04924 =
+ -0.02527 -0.00561 -0.01244 
+AFIX 43
+H26   2     0.88692 -0.00172  0.06644  11.00000 -1.20000 
+AFIX 0
+C27   1     0.41481 -0.49233  1.53124  11.00000  0.06801  0.08639  0.01959 =
+ -0.01766  0.00485 -0.03808 
+AFIX 43
+H27   2     0.31980 -0.44976  1.59229  11.00000 -1.20000 
+AFIX 0
+C28   1     0.35216  0.17271  0.15864  11.00000  0.05751  0.05628  0.04315 =
+ 0.02122 -0.01593  0.00210 
+AFIX 43
+H28   2     0.20943  0.24331  0.12697  11.00000 -1.20000 
+AFIX 0
+C31   1     0.73758 -0.66882  1.49198  11.00000  0.08123  0.06331  0.06091 =
+ -0.00233 -0.04225 -0.00585 
+AFIX 43
+H31   2     0.85381 -0.75495  1.52435  11.00000 -1.20000 
+AFIX 0
+O1    6     0.14676 -0.10845  0.54359  11.00000  0.02628  0.15870  0.02237 =
+ -0.01106 -0.00937 -0.01461 
+O2    6     0.94610 -0.39767  1.11491  11.00000  0.01176  0.14252  0.05354 =
+ -0.00974  0.00137  0.00057 
+F2    4     0.18511 -0.32009  1.34739  11.00000  0.06609  0.08856  0.06602 =
+ -0.02828 -0.01103  0.03389 
+F4    4     0.21606  0.17096  0.38149  11.00000  0.07446  0.07760  0.06899 =
+ -0.02164 -0.01771  0.04150 
+HKLF 4
+
+END
+Q1 1 0.733333 -0.233333 0.861111 11 0.05 0.93
+Q2 1 0.266667 0.166667 -0.138889 11 0.05 0.88
+Q3 1 0.4 -0.266667 0.777778 11 0.05 0.81
+Q4 1 1 -0.533333 1.388889 11 0.05 0.72
+Q5 1 0.866667 -0.666667 1.777778 11 0.05 0.64
+Q6 1 0.533333 -0.133333 0.861111 11 0.05 0.59
+Q7 1 0.733333 -0.166667 0.694444 11 0.05 0.54
+Q8 1 1 -0.466667 0.694444 11 0.05 0.51
+Q9 1 0.6 -0.366667 0.777778 11 0.05 0.51
+Q10 1 0.8 0.266667 -0.027778 11 0.05 0.51
+Q11 1 0.333333 -0.766667 1.694444 11 0.05 0.5
+Q12 1 0.933333 -0.166667 0.305556 11 0.05 0.47
+Q13 1 0.133333 0.133333 0.805556 11 0.05 0.45
+Q14 1 1.066667 -0.033333 -0.027778 11 0.05 0.44
+Q15 1 0.266667 0.033333 0.805556 11 0.05 0.42
+Q16 1 0.866667 -0.566667 0.916667 11 0.05 0.41
+Q17 1 0.933333 -0.633333 1.25 11 0.05 0.41
+Q18 1 0.666667 -0.366667 0.888889 11 0.05 0.39
+Q19 1 0.4 0.066667 -0.138889 11 0.05 0.39
+Q20 1 0 -0.4 1.583333 11 0.05 0.39
+
+  REM The information below was added by Olex2.
+  REM
+  REM R1 = 0.0498 for 3686 Fo > 4sig(Fo) and 0.0560 for all 4124 data
+  REM 253 parameters refined using 3 restraints
+  REM Highest difference peak 0.9307, deepest hole -0.6476
+  REM Mean Shift 0.0001, Max Shift 0.0007.
+
+  REM +++ Tabular Listing of Refinement Information +++
+  REM R1_all = 0.0560
+  REM R1_gt = 0.0498
+  REM wR_ref = 0.1661
+  REM GOOF = 1.0363
+  REM Shift_max = 0.0007
+  REM Shift_mean = 0.0001
+  REM Reflections_all = 4124
+  REM Reflections_gt = 3686
+  REM Parameters = 253
+  REM Hole = -0.6476
+  REM Peak = 0.9307
+  REM Flack = 0.50(4)
+
+  
+;
+_olex2_submission_special_instructions 'No special instructions were received'
