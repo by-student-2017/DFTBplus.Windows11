@@ -45,6 +45,7 @@
 - [G11] Z. Tang et al., Phys. Chem. Chem. Phys., 2023,25, 18139-18148 (https://doi.org/10.1039/D3CP01760E) (Gaussian 16 program)
 - [G12] L. A. Galan et al., J. Phys. Chem. B 2021, 125, 30, 8572-8580 (https://doi.org/10.1021/acs.jpcb.1c05082) (Gaussian16 software)
 - [G13] S. Pei et al., Inorg. Chem. 2024, 63, 10, 4557-4565 (https://doi.org/10.1021/acs.inorgchem.3c03764) (Gaussian16 program)
+- [G14] Y. O.-Gonzalez et al., J. Chem. Phys. 137, 054307 (2012) (https://doi.org/10.1063/1.4738757) (Gaussian 03 and MOLCAS 7.6)
 
 
 ## NWChem
