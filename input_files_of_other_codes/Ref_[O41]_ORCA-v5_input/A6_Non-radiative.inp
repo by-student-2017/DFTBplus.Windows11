@@ -1,0 +1,36 @@
+! ESD(ISC)
+! PBE0 D3BJ RIJCOSX PAL16
+! DKH2 DKH-def2-TZVP SARC/J def2-TZVP/C 
+! TightSCF DefGrid3 NormalPrint 
+! CPCM(CH2Cl2)
+! MoRead
+%MaxCore 5000 
+%Basis NewGTO Re "SARC-DKH-TZVP" End
+ NewGTO I "SARC-DKH-TZVP" End
+ End
+%Method FrozenCore FC_None
+ End
+%MOInp “B1_MA_tddft_PBE0_S0.gbw”
+%TDDFT NRoots 10
+ MaxDim 10
+ DoSOC True
+ TDA False
+ MaxIter 250
+ SROOT 0
+ TROOT 1
+ TROOTSSL 1
+ End
+%ESD 
+ ISCISHESS "B1_MA_opt_PBE0_T1.hess"
+ ISCFSHESS "B1_MA_opt_PBE0_S0.hess"
+ DELE 19849.86
+ DOHT FALSE
+ USEJ FALSE
+ LINES LORENTZ
+ LINEW 10
+ MAXTIME 20671
+ NPOINTS 500000
+ PrintLevel 5
+ TEMP 295
+ End
+* xyzfile 0 1 B1_MA_opt_PBE0_S0.xyz

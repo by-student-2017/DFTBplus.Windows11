@@ -1,0 +1,27 @@
+! PBE0 D3BJ RIJCOSX PAL16
+! DKH2 DKH-def2-TZVP SARC/J def2-TZVP/C 
+! TightSCF DefGrid3 NormalPrint 
+! CPCM(CH2Cl2)
+%MaxCore 5000 
+%Basis NewGTO Re "SARC-DKH-TZVP" End
+ NewGTO I "SARC-DKH-TZVP" End
+ End
+%Method FrozenCore FC_None
+ End
+%SCF MaxIter 500
+ End
+ 
+%TDDFT NRoots 50
+ MaxDim 10
+ TDA False
+ Triplets True
+ DoSOC True
+ DoNTO True
+ DoQuad True
+ DoLength True
+ DoVelocity True
+ PrintLevel 3
+ MaxIter 500
+ MaxCore 10000
+ End
+* xyzfile 0 1 B1_MA_opt_PBE0_S0.xyz

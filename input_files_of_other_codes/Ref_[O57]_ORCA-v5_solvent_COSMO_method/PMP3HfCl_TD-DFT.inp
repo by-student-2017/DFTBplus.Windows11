@@ -1,0 +1,15 @@
+! RKS B3LYP SlowConv TightSCF def2-TZVP(-f) Normalprint COSMO(THF) PAL8 ZORA Grid5
+
+%scf MaxIter 500
+ TolE 1E-7
+ TolErr 1E-6
+end
+
+%tddft nroots 50
+ MaxDim 500
+ triplets false
+end
+
+*xyz 0 1
+ xyz coordinates from geometry optimization
+*

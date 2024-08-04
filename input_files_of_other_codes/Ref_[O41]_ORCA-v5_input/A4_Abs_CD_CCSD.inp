@@ -1,0 +1,30 @@
+! RHF STEOM-DLPNO-CCSD RIJCOSX PAL16
+! DKH2 DKH-def2-TZVP SARC/J def2-TZVP/C 
+! TightSCF TightPNO
+! CPCM(CH2Cl2)
+%MaxCore 10000 
+%Basis NewGTO Re "SARC-DKH-TZVP" End
+ NewGTO I "SARC-DKH-TZVP" End
+ End
+%Method FrozenCore FC_None
+ End
+%MDCI NRoots 25
+ NDav 50
+ NRootsCISNAT 50
+ STEOMSOC True
+ DTol 1e-4
+ DLPNOLINEAR True
+ NEWDOMAINS True
+ DoEOMMP2 True
+ DoRECAN True
+ DoLeft True
+ DoTDM True
+ DoSolv True
+ DoRootWise True
+ DoDbFilter True
+ MaxCore 10000
+ MaxIter 250
+ PrintLevel 3
+ DosimpleDens False
+ End
+* xyzfile 0 1 B1_MA_opt_PBE0_S0.xyz

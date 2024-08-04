@@ -1,0 +1,44 @@
+! DKH2 DKH-def2-TZVP SARC/J def2-TZVP/C PAL16 
+! TightSCF RIJCOSX 
+! MTR
+! CPCM(CH2Cl2)
+! MoRead
+%MaxCore 5000
+%Basis NewGTO Re "SARC-DKH-TZVP" End
+ NewGTO I "SARC-DKH-TZVP" End
+ End
+%Method FrozenCore FC_None
+ End
+%MOInp “B1_MA_CAS1011_1011.gbw”
+%CASSCF Nel 10
+ NOrb 11
+ Mult 3, 1
+ NRoots 10,11
+ TrafoStep RI
+ MaxIter 500
+ CI
+ NGuessMat 1024
+ MaxIter 500
+ End
+ Rel 
+ DoSOC True
+ GTensor True
+ NStates 3
+ IStates 1,2,3
+ Printlevel 3
+ DoQuadrupole True
+ End
+ PTMethod SC_NEVPT2
+ PTSettings
+ QDType QD_VanVleck
+ CASCI_Approx = True
+ End
+ End
+%MTR HessName "B1_MA_opt_PBE0_S0.hess"
+ ModeType Normal
+ MList 87
+ RSteps 5
+ LSteps 5
+ ddnc 1.0
+ End
+* xyzfile 0 1 B1_MA_opt_PBE0_S0.xyz
