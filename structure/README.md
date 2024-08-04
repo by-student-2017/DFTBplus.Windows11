@@ -44,6 +44,7 @@
 - [G10] S. Hirata et al., J. Phys. Chem. Lett. 2016, 7, 8, 1539-1545 (https://doi.org/10.1021/acs.jpclett.6b00554) (Gaussian 09 program)
 - [G11] Z. Tang et al., Phys. Chem. Chem. Phys., 2023,25, 18139-18148 (https://doi.org/10.1039/D3CP01760E) (Gaussian 16 program)
 - [G12] L. A. Galan et al., J. Phys. Chem. B 2021, 125, 30, 8572-8580 (https://doi.org/10.1021/acs.jpcb.1c05082) (Gaussian16 software)
+- [G13] S. Pei et al., Inorg. Chem. 2024, 63, 10, 4557-4565 (https://doi.org/10.1021/acs.inorgchem.3c03764) (Gaussian16 program)
 
 
 ## NWChem
@@ -129,6 +130,11 @@
 - [O52] Y.-Y. Liu et al., Dalton Trans., 2011,40, 5926-5938 (https://doi.org/10.1039/C0DT01750G) (ORCA 2.7 software)
 - [O53] R. C. Silva et al., Dalton Trans., 2024,53, 5466-5477 (https://doi.org/10.1039/D3DT02531D) (ORCA package 5.0.3) (python script)
 - [O54] J. Yan et al., Inorg. Chem. Front., 2024,11, 2413-2426 (https://doi.org/10.1039/D4QI00454J) (ORCA)
+- [O55] C. Song et al., Inorg. Chem. 2023, 62, 38, 15382-15391 (https://doi.org/10.1021/acs.inorgchem.3c01071) (ORCA program)
+- [O56] B. Moradpour et al., RSC Adv., 2024,14, 20278-20289 (https://doi.org/10.1039/D4RA03334E) (ORCA v.5.0.4, Turbomole v.6.3, and Gaussian 16)
+- [O57] Y. Zhang et al., Chem. Eur. J. 25 (2019) 3042-3052 (https://doi.org/10.1002/chem.201804671) (ORCA program package) (ORCA input file (solvent: COSMO))
+- [O58] C. G.-Iriepa et al., Materials 2017, 10(9), 1025 (https://doi.org/10.3390/ma10091025) (ORCA 3, etc)
+- [O59] S. Ullmann et al., Dalton Trans., 2018,47, 5801-5811 (https://doi.org/10.1039/C8DT00757H) (ORCA (PBE0/TZV(P)))
 
 
 ## Turbomole
