@@ -1,0 +1,29 @@
+! DKH2 DKH-def2-TZVP SARC/J def2-TZVP/C PAL16 
+! TightSCF RIJCOSX 
+! CPCM(CH2Cl2)
+! MoRead
+%MaxCore 5000
+%Basis NewGTO Re "SARC-DKH-TZVP" End
+ NewGTO I "SARC-DKH-TZVP" End
+ End
+%Method FrozenCore FC_None
+ End
+%MOInp “B1_MA_CAS1011_0505.gbw”
+%CASSCF Nel 10
+ NOrb 11
+ Mult 3, 1
+ NRoots 10,11
+ TrafoStep RI
+ MaxIter 500
+ CI
+ NGuessMat 1024
+ MaxIter 500
+ End
+ Rel 
+ DoSOC True
+ DoQuadrupole True
+ PrintLevel 3
+ End
+ NEVPT2 True
+ End
+* xyzfile 0 1 B1_MA_opt_PBE0_S0.xyz

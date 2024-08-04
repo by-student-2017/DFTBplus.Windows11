@@ -1,0 +1,4 @@
+! wb97x-d3 ma-def2-TZVP CPCM(DMF) AutoAux RIJCOSX OPT FREQ verytightscf 
+verytightopt 
+
+*xyzfile 0 1 geo.xyz

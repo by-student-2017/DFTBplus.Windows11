@@ -1,0 +1,23 @@
+! RKS B3LYP RIJCOSX SlowConv TightSCF def2-SVP def2-SVP/J Normalprint Grid4 NoFinalGrid NumFreq PAL8 
+
+%basis
+ NewGTO 40 "def2-TZVP(-f)" end
+ NewGTO 17 "def2-TZVP(-f)" end
+ NewGTO 7 "def2-TZVP(-f)" end
+ NewAuxGTO 40 "def2-TZVP/J" end
+ NewAuxGTO 17 "def2-TZVP/J" end
+ NewAuxGTO 7 "def2-TZVP/J" end
+end
+
+%scf MaxIter 500
+ TolE 1E-7
+ TolErr 1E-6
+end
+
+%freq CentralDiff true
+ Increment 0.01
+end
+
+*xyz 0 1
+ xyz coordinates from geometry optimization
+*

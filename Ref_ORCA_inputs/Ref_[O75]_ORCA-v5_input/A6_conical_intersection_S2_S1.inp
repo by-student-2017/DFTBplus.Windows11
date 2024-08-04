@@ -1,0 +1,11 @@
+! wb97x-d3 ma-def2-TZVP CPCM(dmf) AutoAux RIJCOSX CI-OPT NUMFREQ verytightscf 
+
+%tddft 
+  nroots 10 
+  iroot 1 
+  jroot 2 
+  tda true 
+  maxdim 5 
+end 
+
+*xyzfile 0 1 start2.xyz
