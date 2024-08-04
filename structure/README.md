@@ -157,6 +157,7 @@
 - [O79] H. Liu et al., J. Mater. Chem. C, 2021,9, 2738-2743 (https://doi.org/10.1039/D0TC05468B) (ORCA)
 - [O80] R. Walia et al., ChemRxiv (2024) (10.26434/chemrxiv-2024-z9qcn)
 - [O81] L. Hua et al., Nat. Commun. 13, 7828 (2022) (https://doi.org/10.1038/s41467-022-35591-w) (source data: xyz files) (Open Access)
+- [O82] Z. Abbas et al., New J. Chem., 2019,43, 15139-15152 (https://doi.org/10.1039/C9NJ02838B) (ORCA 4.0 program)
 
 
 ## Turbomole
