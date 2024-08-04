@@ -154,7 +154,9 @@
 - [O76] A. Sirohiwal et al., J. Chem. Theory Comput. 2021, 17, 3, 1858-1873 (https://doi.org/10.1021/acs.jctc.0c01152) (ORCA package )
 - [O77] H. C. London et al., norg. Chem. 2022, 61, 28, 10986-10998 (https://doi.org/10.1021/acs.inorgchem.2c01746) (ORCA 4.2.1)
 - [O78] A. Tigreros et al., Eur. J. Org. Chem. 26 (2023) e202300089 (https://doi.org/10.1002/ejoc.202300089) (ORCA 5.0.3)
-- [O79] H. Liu et al., 	J. Mater. Chem. C, 2021,9, 2738-2743 (https://doi.org/10.1039/D0TC05468B) (ORCA)
+- [O79] H. Liu et al., J. Mater. Chem. C, 2021,9, 2738-2743 (https://doi.org/10.1039/D0TC05468B) (ORCA)
+- [O80] R. Walia et al., ChemRxiv (2024) (10.26434/chemrxiv-2024-z9qcn)
+- [O81] L. Hua et al., Nat. Commun. 13, 7828 (2022) (https://doi.org/10.1038/s41467-022-35591-w) (source data: xyz files) (Open Access)
 
 
 ## Turbomole
@@ -201,6 +203,7 @@
 - [SI4] O. Kotova et al., J. Photochem. Photobio. A 218 (2011) 117-129 (https://doi.org/10.1016/j.jphotochem.2010.12.011) (CCDC)
 - [SI5] H. C. Braga et al., Dyes and Pigments 117 (2015) 149-156 (https://doi.org/10.1016/j.dyepig.2015.02.012) (CCDC)
 - [SI6] R. Mahaan et al., ChemPhotoChem 8 (2024) e202300211 (https://doi.org/10.1002/cptc.202300211)
+- [SI7] V. F. Traven et al., Dyes and Pigments 186 (2021) 108942 (https://doi.org/10.1016/j.dyepig.2020.108942) (CCDC)
 - [FG1] F. Plasser et al., Theor Chem Acc 131, 1073 (2012) (https://doi.org/10.1007/s00214-011-1073-y) (Fig.1)
   llustration of photodynamical processes occurring on ground and excited potential energy curves of a molecule. PA photoabsorption, ISC Intersystem crossing, IC internal conversion, Fl Fluorescence, Ph Phosphorescence.
   PA(fs), FI(ns), Ph(ms), IC(ps)
