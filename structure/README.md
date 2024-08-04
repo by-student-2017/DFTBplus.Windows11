@@ -96,6 +96,12 @@
 - [O22] G. Farias et al., Dalton Trans., 2022,51, 1008-1018 (https://doi.org/10.1039/D1DT03912A) (Orca 5.0)
 - [O23] Y Zhang et al., Inorg. Chem. 2024, 63, 20, 9002-9013 (https://doi.org/10.1021/acs.inorgchem.4c00365) (ORCA 5.0 program suite)
 - [O24] D. Majumdar et al., J. Mol. Struct. 1179 (2019) 694-708 (https://doi.org/10.1016/j.molstruc.2018.11.010) (ORCA 3.0.3, Gaussian09 and Gauss view 5.0)
+- [O25] R. Mahaan et al., J. Phys. Chem. A 2023, 127, 50, 10570-10582 (https://doi.org/10.1021/acs.jpca.3c05259) (ORCA 4.0 package)
+- [O26] X.-F. Song et al., Inorg. Chem. 2022, 61, 20, 7673-7681 (https://doi.org/10.1021/acs.inorgchem.1c03603) (ORCA4.2.1 program)
+- [O27] S. J. Ang et al., J. Phys. Chem. C 2018, 122, 23, 12441-12447 (https://doi.org/10.1021/acs.jpcc.8b03253)
+   All EOM-CCSD and CCSD calculations were carried out with Q-Chem 5.0. On the other hand, ORCA (version 4.0.1) was used for DLPNO-CCSD(T) calculations with “TightPNO” threshold, recommended for noncovalent interactions.
+- [O28] A. A. Adeniyi et al., J. Mol. Model 30, 109 (2024) (https://doi.org/10.1007/s00894-024-05881-9) (Orca 4.2)
+- [O29] M. J. Percono et al., Cryst. Eng. Comm., 2014,16, 8591-8604 (https://doi.org/10.1039/C4CE00327F) (ORCA program)
 
 
 ## Turbomole
