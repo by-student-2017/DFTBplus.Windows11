@@ -1,0 +1,65 @@
+>>> export MOLCAS_MEM=40000
+>>> export MOLCAS_MOLDEN=OFF
+
+>>> COPY $HOMEDIR/template.JobIph JOBOLD
+
+&GATEWAY
+  TITLE= title
+  COORD= geom.xyz
+  BASIS= ANO-RCC-VDZP
+  GROUP= NOSYM
+  RICD
+
+&SEWARD
+  DoAnalytical
+
+&RASSCF
+  JOBIph
+  CIRESTART
+  EXPERT
+  SPIN= 1
+  RASSCF= 0 0
+  NACTEL= 6
+  INACTIVE= 163
+  RAS2= 6
+  CIROOT= 4 4 1
+  MAXORB
+  0
+
+>>> COPY $Project.JobIph $HOMEDIR/root4.JobIph
+
+&GRID_IT
+  SPARSE
+  SELECT
+  1:154-179
+
+&RASSCF
+  FILEorb = $HOMEDIR/$Project.RasOrb
+  EXPERT
+  SPIN= 1
+  RASSCF= 0 0
+  NACTEL= 6
+  INACTIVE= 163
+  RAS2= 6
+  CIROOT= 6 6 1
+  CIONly
+  MAXORB
+  0
+
+>>> COPY $Project.JobIph $HOMEDIR/root6.JobIph
+
+&ALASKA
+  NAC= 2 3
+
+&CASPT2
+  IPEAshift= 0.1
+  IMAGinary= 0.1
+  MAXIter= 500
+  XMULTistate= ALL
+
+>>> COPY $Project.JobMix $HOMEDIR/$Project.JobMix
+
+&RASSI
+  HEFF
+  CIPR
+  TRDI

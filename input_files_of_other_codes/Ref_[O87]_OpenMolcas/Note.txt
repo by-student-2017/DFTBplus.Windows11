@@ -1,0 +1,7 @@
+10 Sample OpenMolcas Input
+
+A sample input for a CASPT2 calculation with OpenMolcas, S5,S6 as used in the evaluation of
+energies and non-adiabatic coupling elements for the potential energy surfaces in this work,
+is provided in listing 1.
+
+Listing 1: Sample OpenMolcas input for a SA4-CASSCF(6,6)/SA6-CASCI(6,6)/XMSCASPT2 calculation, including non-adiabatic couplings and transition
