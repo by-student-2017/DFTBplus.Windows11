@@ -1,0 +1,62 @@
+Def2-TZVPP/TiO2
+ 
+equilibrium  geometry (neutral system ):
+CCSD    = -998.810431  (Hartree)
+CCSD(T) = -998.867279  (Hartree)
+ 
+Cation geometry (cation)
+CCSD    = -998.465557  (Hartree)
+CCSD(T) = -998.523707  (Hartree)
+ 
+Anion geometry (anion)
+CCSD    = -998.866155 (Hartree)
+CCSD(T) = -998.921086 (Hartree)
+
+Def2-TZVPP/Ti2O4 Trans
+ 
+Trans geometry (neutral system):
+CCSD    =  -1997.821516 (Hartree)
+CCSD(T) =  -1997.925947 (Hartree)
+ 
+Cation geometry (cation)
+CCSD    =  -1997.477682 (Hartree)
+CCSD(T) =  -1997.578474 (Hartree)
+
+Anion geometry (anion)
+CCSD    = -1997.879147 (Hartree)
+CCSD(T) = -1997.977396 (Hartree)
+
+Def2-TZVPP/Ti2O4 Cis
+ 
+Cis geometry (neutral system):
+CCSD    = -1997.813341 (Hartree)
+CCSD(T) = -1997.917133 (Hartree)
+ 
+Cation geometry (cation)
+CCSD    = -1997.473319  (Hartree)
+CCSD(T) = -1997.574526  (Hartree)
+  
+Anion geometry (anion)
+CCSD    = -1997.875800 (Hartree)
+CCSD(T) = -1997.977514 (Hartree)
+
+Def2-TZVPP/Ti2O4 Club
+ 
+Club geometry (neutral system):
+CCSD    = -1997.795648 (Hartree)
+CCSD(T) = -1997.902975 (Hartree)
+ 
+Cation geometry (cation)
+CCSD    = -1997.477606  (Hartree)
+CCSD(T) = -1997.578427  (Hartree)
+ 
+Anion geometry (anion)
+CCSD    = -1997.868699 (Hartree)
+CCSD(T) = -1997.969745 (Hartree)
+
+Def2-TZVPP/Ti3O6
+
+equilibrium  geometry (neutral system ):
+CCSD    =  -2996.841264 (Hartree)
+CCSD(T) =  -2996.994714 (Hartree)
+

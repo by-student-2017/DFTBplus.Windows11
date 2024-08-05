@@ -1,0 +1,29 @@
+Relaxed anion and cation geometries
+
+Opt: B3LYP/def2-TZVP/m3 integration grid - Energy: B3LYP/def2-TZVP/m3 integration grid					
+	Neutral		Anion(anion)	Cation(cation)	 neutral(anion)	neutral(cation)
+1	-999.888014	-999.938379	-999.5381210	-999.885874	-999.874018
+2-t	-1999.959874	-2000.022219	-1999.610043	-1999.942741	-1999.924354
+2-c	-1999.950501	-2000.019918	-1999.606037	-1999.933411	-1999.914768
+2-cl	-1999.933180	-2000.008024	-1999.610111	-1999.923360	-1999.924384
+3	-3000.032170	-3000.140508	-2999.692019	-3000.016190	-2999.993994
+Energies in Hartree
+
+Opt: B3LYP/def2-TZVP/m3 integration grid - Energy: B3LYP/def2-TZVPP/m3 integration grid
+	Neutral		Anion(anion)	Cation(cation)	neutral(anion)	neutral(cation)
+1	-999.891321	-999.946626	-999.540752	-999.889072	-999.877570
+2-t	-1999.965612	-2000.028570	-1999.616163	-1999.948822	-1999.930219
+2-c	-1999.956497	-2000.028016	-1999.612229	-1999.939831	-1999.920969
+2-cl	-1999.939627	-2000.014533	-1999.616205	-1999.929680	-1999.930242
+3	-3000.041220	-3000.149450	-2999.701813	-3000.025281	-3000.002961
+Energies in Hartree
+
+Neutral geometries
+
+Opt: B3LYP/def2-TZVP/m3 integration grid - Energy: B3LYP/def2-TZVPP/m3 integration grid
+	Neutral		Cation		Anion
+1	-27208.443	-27197.709	-27209.896
+2-t	-54421.864	-54411.205	-54423.328
+2-c	-54421.617	-54411.512	-54423.311
+2-cl	-54421.157	-54410.699	-54422.958
+Energies in electronvolt
