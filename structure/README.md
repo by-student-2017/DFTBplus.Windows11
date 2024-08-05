@@ -208,7 +208,8 @@
 - [X1] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w) (xTB code) (Open Access)
 - [X2] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
 - [X3] Y. Oliver et al., J. Phys. Chem. Lett. 2018, 9, 20, 6149-6163 (https://doi.org/10.1021/acs.jpclett.8b02327) (xTB code)
-- [X4] M. Plaza et al., J. Am. Chem. Soc. 2021, 143, 29, 11209-11217 (https://doi.org/10.1021/jacs.1c05286)
+- [X4] M. Plaza et al., J. Am. Chem. Soc. 2021, 143, 29, 11209-11217 (https://doi.org/10.1021/jacs.1c05286) (xTB, GFN2-xTB level)
+- [X5] E. G.-Rodriguez et al., J. Am. Chem. Soc. 2020, 142, 18, 8352-8366 (https://doi.org/10.1021/jacs.0c01856) (xTB, GFN2-xTB level)
 
 
 ## Other informations
