@@ -163,6 +163,7 @@
 - [O82] Z. Abbas et al., New J. Chem., 2019,43, 15139-15152 (https://doi.org/10.1039/C9NJ02838B) (ORCA 4.0 program)
 - [O83] S. Bhattacharjee et al., Chem. Sci., 2024,15, 7269-7284 (https://doi.org/10.1039/D3SC06714A) (ORCA 5.0 suite) (ORCA input) (QM/MM)
 - [O84] K. N. Rowell et al., J. Phys. Chem. A 2019, 123, 48, 10381-10396 (https://doi.org/10.1021/acs.jpca.9b05534) (ORCA version 4.0.1.2 or 4.1.0)
+- [O85] S. Bhattacharjee et al., J. Chem. Theory Comput. 2022, 18, 3, 1619-1632 (https://doi.org/10.1021/acs.jctc.1c01267) (ORCA 5.0 suite) (ORCA input) (Open Access)
 
 
 ## Turbomole

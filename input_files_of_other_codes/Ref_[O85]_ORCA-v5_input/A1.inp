@@ -1,0 +1,24 @@
+# DLPNO-CCSD(T1) energy calculation, gas phase
+# Use !LED in the keyword line to invoke the local energy decomposition (LED) scheme.
+
+!TPSSh cc-pVTZ-DK DKH2 DLPNO-CCSD(T1) autoaux UNO TightPNO VeryTightSCF 
+!DEFGRID2
+
+%maxcore 20000
+%pal nprocs 12 end
+
+%mdci
+  maxiter 100
+  maxdiis 15
+  levelshift 0.5
+end
+
+%method
+  frozencore -10
+end
+
+%basis
+  newGTO Cr "cc-pWCVTZ-DK" end
+end
+
+*xyzfile 2 5 filename.xyz
