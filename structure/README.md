@@ -218,6 +218,7 @@
 - PYXAID: https://quantum-dynamics-hub.github.io/pyxaid/index.html
 - [CTS1] M. Sumita et al., Science Advances 8 (2022) (DOI: 10.1126/sciadv.abj3906)
 - FL_ChemTS: https://github.com/tsudalab/FL_ChemTS/ , Zenodo: https://doi.org/10.5281/zenodo.5716545
+- [AB1] M. A. Salem et al., Phys. Chem. Chem. Phys., 2015,17, 25563-25571 (https://doi.org/10.1039/C5CP03875H) (AMBER input file)
 
 
 ## Note
