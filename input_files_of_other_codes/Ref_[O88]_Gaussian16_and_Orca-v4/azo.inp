@@ -1,0 +1,17 @@
+!B3LYP 6-311g(d) TightSCF
+
+%CIS
+  HFNacme true
+END
+
+%SCF
+  MaxIter 100
+  HFType UHF
+  STABPerform true
+END
+
+%TDDFT
+  NROOTS 10
+END
+
+* xyzfile 0 1 geomfiles/azo.xyz

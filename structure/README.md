@@ -166,6 +166,7 @@
 - [O85] S. Bhattacharjee et al., J. Chem. Theory Comput. 2022, 18, 3, 1619-1632 (https://doi.org/10.1021/acs.jctc.1c01267) (ORCA 5.0 suite) (ORCA input) (Open Access)
 - [O86] F. A. Lima et al., Phys. Chem. Chem. Phys., 2013,15, 20911-20920 (https://doi.org/10.1039/C3CP53133C) (ORCA program package)
 - [O87] S. Reiter et al., Phys. Chem. Chem. Phys., 2022,24, 27212-27223 (https://doi.org/10.1039/D2CP02914F) (Orca 5.0 and 4.2) (OpenMolcas input)
+- [O88] Z. Morrow et al., Phys. Chem. Chem. Phys., 2021,23, 19547-19557 (https://doi.org/10.1039/D1CP03446D) (S0=Gaussian16, TD-DFT=Orca v4.2.1) (input)
 
 
 ## Turbomole

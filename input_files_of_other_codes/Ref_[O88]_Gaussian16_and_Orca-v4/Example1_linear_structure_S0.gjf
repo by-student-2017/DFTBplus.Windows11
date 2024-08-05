@@ -1,0 +1,68 @@
+%chk=chkfiles/scan_zmat_1.chk
+%mem=32GB
+%nprocshared=16
+# stable=opt b3lyp/6-311g(d) pop=always integral=grid=ultrafine
+scf=(xqc,vtl,maxconventionalcycles=512) symmetry=none
+
+azomethane stability 1
+
+0 1
+N 0.00000000 0.00000000 0.00000000
+N 1.21001503 0.00000000 0.00000000
+C 1.94413820 1.36087129 0.00000000
+C -1.80000000 0.00000000 0.00000000
+H 3.01529271 1.16666079 0.00000000
+H 1.65967212 1.92152238 -0.89311136
+H 1.65967124 1.92152000 0.89311218
+H -2.30534096 0.96713099 0.00000000
+H -1.92067884 -0.57054140 -0.90903927
+H -1.92068356 -0.57054030 0.90903849
+
+--Link1--
+%chk=chkfiles/scan_zmat_1.chk
+%mem=32GB
+%nprocshared=16
+# opt=(newton,tight,modredundant,maxstep=1,calcall,maxcycles=30)
+geom=check guess=read b3lyp/6-311g(d) pop=always integral=grid=ultrafine
+scf=(xqc,vtl,maxconventionalcycles=512) symmetry=none
+
+azomethane opt 1
+0 1
+
+B 1 4 F
+D 1 2 3 5 F
+L 2 1 4 3 F
+D 8 4 1 3 F
+
+--Link1--
+%chk=chkfiles/scan_zmat_1.chk
+%mem=32GB
+%nprocshared=16
+# stable=opt geom=check guess=read b3lyp/6-311g(d) pop=always
+integral=grid=ultrafine scf=(xqc,vtl,maxconventionalcycles=512)
+symmetry=none
+
+azomethane stability 2
+0 1
+--Link1--
+%chk=chkfiles/scan_zmat_1.chk
+%mem=32GB
+%nprocshared=16
+# opt=(newton,tight,modredundant,maxstep=1,calcall,maxcycles=30) freq
+guess=read geom=check b3lyp/6-311g(d) pop=always integral=grid=ultrafine
+scf=(xqc,vtl,maxconventionalcycles=512) symmetry=none
+
+azomethane opt 2
+
+0 1
+
+--Link1--
+%chk=chkfiles/scan_zmat_1.chk
+%mem=32GB
+%nprocshared=16
+# stable=opt geom=check guess=read b3lyp/6-311g(d) pop=always
+integral=grid=ultrafine scf=(xqc,vtl,maxconventionalcycles=512)
+symmetry=none
+
+azomethane stability 3
+0 1

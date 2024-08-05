@@ -1,0 +1,16 @@
+#---------------------------------------------------------------------------------------------------
+2 Details of electronic structure calculations
+
+  All S0 electronic structure calculations occur in Gaussian 16.We have included two example
+input files, corresponding to a linear and nonlinear structure. The difference between the two
+is that the modredundant section includes the L keyword for linear structures. For nonlinear
+structures, we use A and D instead of L.
+
+  All calculations of excitation energies and nonadiabatic coupling vectors occur in Orca
+as some of them employ open-shell ground state as a reference, for which the TD-DFT and
+CIS implementations in Orca are more suitable.
+#---------------------------------------------------------------------------------------------------
+2.3 Example 3: excited states
+The Orca input file azo.inp (with stability checks)
+The file geomfiles/azo.xyz contains the geometry specified in Cartesian coordinates:
+#---------------------------------------------------------------------------------------------------
