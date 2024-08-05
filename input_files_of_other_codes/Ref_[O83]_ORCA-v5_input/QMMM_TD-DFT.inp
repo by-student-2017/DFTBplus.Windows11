@@ -1,0 +1,29 @@
+! QMMM NoTrah
+! wB97X-D3BJ RIJCOSX verytightSCF
+
+%tddft
+  TDA false
+  nroots 8
+  maxdim 20
+  donto true
+  NTOThresh 1e-4
+end
+
+%pal nprocs 8 end
+%maxcore 16000
+
+%basis
+  Basis "Def2-TZVP"
+  AuxJ "Def2/J"
+  AuxC "Def2-TZVP/C"
+  AuxJK "Def2/JK"
+end
+
+%qmmm
+  ORCAFFFilename "ps2-A1-final.ORCAFF.prms"
+  Embedding Electrostatic
+  ChargeAlteration CS
+  QMAtoms end
+end
+
+*pdbfile 0 1 chl-opt.pdb

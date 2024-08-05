@@ -161,6 +161,7 @@
 - [O80] R. Walia et al., ChemRxiv (2024) (10.26434/chemrxiv-2024-z9qcn)
 - [O81] L. Hua et al., Nat. Commun. 13, 7828 (2022) (https://doi.org/10.1038/s41467-022-35591-w) (source data: xyz files) (Open Access)
 - [O82] Z. Abbas et al., New J. Chem., 2019,43, 15139-15152 (https://doi.org/10.1039/C9NJ02838B) (ORCA 4.0 program)
+- [O83] S. Bhattacharjee et al., Chem. Sci., 2024,15, 7269-7284 (https://doi.org/10.1039/D3SC06714A) (ORCA 5.0 suite) (ORCA input) (QM/MM)
 
 
 ## Turbomole
