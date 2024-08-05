@@ -28,6 +28,7 @@
 - [D9] Y. Niidome et al., J. Phys. Chem. C 2021, 125, 23, 12758-12766 (https://doi.org/10.1021/acs.jpcc.1c02109) (DFTB+ ver.19.1)
 - [D10] T. A. Niehaus et al., J. Phys. Chem. C 2016, 120, 7, 3699-3704 (https://doi.org/10.1021/acs.jpcc.5b12355) (DFTB+)
 - [D11] Z. Wang et al., J. Phys. Chem. C 2017, 121, 36, 20031-20038 (https://doi.org/10.1021/acs.jpcc.7b05643) (DFTB+)
+- [D12] X. Gao et al., J. Chem. Theory Comput. 2017, 13, 2, 515-524 (https://doi.org/10.1021/acs.jctc.6b00915) (DFTB+)
 
 
 ## Gaussian
@@ -207,6 +208,7 @@
 - [X1] A. L. Schleper et al., Nat Commun 12, 6179 (2021) (https://doi.org/10.1038/s41467-021-26439-w) (xTB code) (Open Access)
 - [X2] S. Verma et al., J. Chem. Phys. 156, 134116 (2022) (https://doi.org/10.1063/5.0084535) (xTB code)
 - [X3] Y. Oliver et al., J. Phys. Chem. Lett. 2018, 9, 20, 6149-6163 (https://doi.org/10.1021/acs.jpclett.8b02327) (xTB code)
+- [X4] M. Plaza et al., J. Am. Chem. Soc. 2021, 143, 29, 11209-11217 (https://doi.org/10.1021/jacs.1c05286)
 
 
 ## Other informations
