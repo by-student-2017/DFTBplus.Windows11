@@ -1,0 +1,69 @@
+# 3. EXAMPLE NWCHEM INPUT
+# 1.1 Example main NWChem input file for AIMC calculation:
+
+start nwchem
+echo
+
+geometry nocenter noautosym noautoz
+C  1.32585502  0.03531395  0.02690052
+C  0.68498397 -1.15933347 -0.05185560
+C -0.69477701 -1.18246710 -0.00862880
+C -1.35159135 -0.00892812 -0.04502134
+C -0.61982274  1.21601272  0.04322478
+N  0.71513790  1.20982134  0.03307881
+H  2.45660877  0.11693516  0.05233766
+H  1.29724121 -2.05060387 -0.06469408
+H -1.23238790 -2.12319160  0.03078739
+H -2.44150543 -0.02652987 -0.04755736
+H -1.13852024  2.24939990 -0.00921318
+end
+
+basis
+* library Def2-SVP
+end
+
+dft
+xc pbe0
+maxiter 200
+end
+
+tddft
+ nroots 10
+ notriplet
+ cis
+ maxiter 200
+ civecs
+ grad
+  root 1
+ end
+end
+
+qmd
+ nstep_nucl 50
+ dt_nucl 0.5
+ targ_temp 300.0
+ thermostat none
+ print_xyz 10
+ com_step 100
+ rand_seed 425216
+ namd aimc
+  nstates 5
+  init_state 3
+  dt_elec 0.01
+  decoherence off
+  clone_max 12
+ end
+end
+task tddft qmd
+
+# The initial DFT, TDDFT, and Gaussian Basis adiabatic ab − initio molecular dynamics (qmd) setting are identical with the original
+# formats; one can refer to the NWChem User Documentation [1]. We have implemented the new EHR and MCE-AIMC non-adiabatic
+# molecular dynamics (NAMD) as an extension to the quantum molecular dynamics (qmd) module in NWChem. In the namd sub-block
+# within the qmd block, a specific NAMD method (SH, EHR, or AIMC) must be specialized. The keyword nstates sets the number of
+# electronic states to include in the NAMD calculation, i.e., the number of states for use with Eq.6. The number of roots requested in
+# the tddft block must be at least nstates-1. The keyword init_state sets the initial electronic state to be occupied; the numbering for
+# this keyword and the output that reports the currently occupied state runs from 0 (ground state) to nstates-1. So if you want to start
+# a calculation in the first excited state, you would set init_state to 1. The keyword dt_elec sets the electronic time step for Eq.7 (in
+# atomic units). The nuclear time step (dt_nucl) must be an integer multiple of the electronic time step (mod(dt_nucl,dt_elec)=0). The
+# decoherence will be automatically set to "none" in the EHR and AIMC calculation. The default maximum number of cloning is 4 for
+# AIMC and 0 for EHR.

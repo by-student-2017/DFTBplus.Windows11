@@ -68,6 +68,7 @@
 - [N16] J. Skiba et al., Eur. J. Inorg. Chem. 20 (2019) 2565-2565 (https://doi.org/10.1002/ejic.201600281) (NWChem) (free access)
 - [N17] J. Skiba et al., New J. Chem., 2019,43, 573-583 (https://doi.org/10.1039/C8NJ05494K) (NWChem)
 - [N18] F. Scalambra et al., Eur. J. Inorg. Chem. 10 (2016) 1528-1540 (https://doi.org/10.1002/ejic.201501357) (NWChem)
+- [N19] H. Song et al., J. Chem. Theory Comput. 2021, 17, 6, 3629-3643 (https://doi.org/10.1021/acs.jctc.1c00131) ()
 
 
 ## ORCA
