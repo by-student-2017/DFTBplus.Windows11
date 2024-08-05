@@ -1,0 +1,29 @@
+***,RuO4+
+gprint,orbital,civector
+memory,1000,m
+
+angstrom
+mass,iso
+wf,spin=1,charge=1
+
+geometry={
+Ru 0.00000000 0.00000000 0.14997400
+O 0.00000000 1.60411600 -0.27495200
+O -1.38920500 -0.80205800 -0.27495200
+O 1.38920500 -0.80205800 -0.27495200
+}
+
+basis=aug-cc-pVTZ,Ru=aug-cc-pVTZ-PP
+
+{rhf,print=4}
+
+{uccsd(t),maxit=100}
+
+optg
+
+put,molden,opt.molden
+
+{frequencies,symm=no
+step,0.005}
+
+put,molden,freq.molden

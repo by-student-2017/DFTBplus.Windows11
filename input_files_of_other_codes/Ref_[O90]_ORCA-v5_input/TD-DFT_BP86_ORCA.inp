@@ -1,0 +1,27 @@
+! BP86 ZORA ZORA-def2-TZVP SARC/J TightSCF PAL4 LargePrint
+
+* XYZ 1 2
+Ru 0.165907 -0.000508 -0.000158
+O -0.303329  0.804014  1.391012
+O -0.303177 -1.607601 -0.000261
+O -0.303305  0.803943 -1.391408
+*
+
+%maxcore 2000
+
+%basis
+  NewGTORu
+    "SARC-ZORA-TZVP"
+  end
+end
+
+%tddft
+    XASLoc[0] = 6,8
+    XASLoc[1] = 6,8
+    OrbWin[0] = 6,8,-1,-1
+    OrbWin[1] = 6,8,-1,-1
+  NRoots 200
+  DoQuad true
+  DoLength true
+  DoVelocity true
+end

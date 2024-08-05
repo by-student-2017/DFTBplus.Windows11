@@ -1,0 +1,4 @@
+
+BP86 TD-DFT spectral extraction, ORCA
+
+.\orca_mapspc calculation.out ABSOI/ABSVOI -eV -x0500 -x1561 -w1

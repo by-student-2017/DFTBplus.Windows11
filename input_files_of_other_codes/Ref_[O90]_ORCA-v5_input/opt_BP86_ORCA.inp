@@ -1,0 +1,21 @@
+! BP86 ZORA ZORA-def2-TZVP SARC/J TightSCF PAL4 LargePrint opt freq
+
+* XYZ 1 2
+Ru 0.00000000  0.00000000  0.14997400
+O  0.00000000  1.60411600 -0.27495200
+O -1.38920500 -0.80205800 -0.27495200
+O  1.38920500 -0.80205800 -0.27495200
+*
+
+%maxcore 2000
+
+%basis
+  NewGTORu
+    "SARC-ZORA-TZVP"
+  end
+end
+
+%output
+  Print[ P_Basis] 2 
+  Print[ P_MOs ] 1
+end
