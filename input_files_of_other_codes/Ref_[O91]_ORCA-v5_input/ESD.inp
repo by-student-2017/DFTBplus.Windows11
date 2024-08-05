@@ -1,0 +1,27 @@
+!pal16 def2-tzvp ESD(ISC) cam-B3LYP
+
+%maxcore 4000
+
+%ESD ISCISHESS "T1.hess"
+  ISCFSHESS "S0.hess"
+  TEMP 298
+  DELE 2998.68
+  USEJ TRUE
+  DOHT TRUE
+  NPOINTS 655360
+END
+
+%cpcm smd true
+  SMDsolvent "Ethyl Ethanoate"
+END
+
+%TDDFT NROOTS 1
+  TROOT 1
+  SROOT 0
+  DOSOC TRUE
+  TROOTSSL 1
+END
+
+* XYZ 0 1
+[coordinates]
+*

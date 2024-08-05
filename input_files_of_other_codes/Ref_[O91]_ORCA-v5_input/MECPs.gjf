@@ -1,0 +1,21 @@
+%mem = 48gb
+%nprocshared = 24
+
+[general]
+method = 6-31+g(d,p) scrf=(cpcm,solvent=ethylethanoate) um062x g09defaults int=grid=ultrafine
+spinstates = 1/3
+show_hessian = none
+read_later = False
+charge = 0
+
+!This job has a max steps of 100. If it fails to converge, resubmit the new mecp file created after the job
+max_steps = 100
+max_stepsize = 0.1
+
+[route]
+A: force integral=ultrafinegrid scf=qc guess=mix
+B: force integral=ultrafinegrid scf=qc
+
+[geometry]
+0 1/3
+MOLECULAR COORDINATES

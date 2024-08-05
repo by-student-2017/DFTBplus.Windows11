@@ -1,0 +1,21 @@
+#-------------------------------------------------------------------------------------------------------------
+Gaussian 09 optimization (keywords line):
+# opt freq=noraman 6-31+g(d,p) scrf=(cpcm,solvent=ethylethanoate) int=grid=ultrafine m062x
+* The “g09defaults” keyword was added when using Gaussian 16 to run jobs.
+#-------------------------------------------------------------------------------------------------------------
+Gaussian 16 single-point energy calculation (keywords line):
+# def2tzvp scrf=(cpcm,solvent=ethylethanoate) int=grid=ultrafine m062x
+#-------------------------------------------------------------------------------------------------------------
+AQME error check (terminal command):
+python -m aqme --qcorr --files "*.log"
+#-------------------------------------------------------------------------------------------------------------
+AQME automated imput file generation (terminal command):
+python -m aqme --qprep --files "*.log" --qm_input "m062x/def2tzvp scrf=(cpcm,solvent=ethylethanoate) g09defaults 
+int=grid=ultrafine" --suffix TZ --program gaussian --mem 16GB --nprocs 8
+#-------------------------------------------------------------------------------------------------------------
+Example GoodVibes thermochemistry:
+python -m goodvibes *.log --c 1 --spc TZ --check --csv
+#-------------------------------------------------------------------------------------------------------------
+Example GoodVibes xyz generation:
+python -m goodvibes *.log --xyz
+#-------------------------------------------------------------------------------------------------------------
