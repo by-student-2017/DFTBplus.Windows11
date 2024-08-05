@@ -1,0 +1,12 @@
+# Geometry optimization
+
+!UKS BP86 def2-TZVP def2-TZVP/J DeContractAux ZORA TightSCF vdw10bj
+!COSMO Opt xyzfile
+
+%scf
+  maxiter 500
+end
+
+*xyz charge spin
+  x y z coordinates
+*

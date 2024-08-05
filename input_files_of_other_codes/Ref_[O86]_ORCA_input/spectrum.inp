@@ -1,0 +1,26 @@
+# Spectral calculation
+
+!UKS BP86 def2-TZVP def2-TZVP/J DeContractAux DKH2 TightSCF
+!COSMO Normalprint xyzfile moread
+
+%method SpecialGridAtoms 42
+  SpecialGridIntAcc 7
+end
+
+%moinp ”geometry-optimization.gbw”
+
+%scf
+  maxiter 500
+end
+
+%tddft
+  orbwin[0] = 0,0,-1,-1
+  orbwin[1] = 0,0,-1,-1
+  doquad true
+  maxdim 1000
+  maxcore 1500
+  nroots 60
+  triplets false
+end
+
+* xyzfile charge spin geometry-optimization.xyz
